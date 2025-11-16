@@ -55,9 +55,15 @@ htmlcov/
 temp/
 tmp/
 
-# Markdown files
-*.md
+# Markdown files (tez detayları)
+DOKTORA_*.md
+tez/*.md
 
 # HTML files (doktora detayları)
 *.html
+
+# README dosyalarını dahil et
+!README.md
+!docs/README.md
+!documentation/README.md
 
