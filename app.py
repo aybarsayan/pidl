@@ -510,7 +510,7 @@ def main():
             }
             
             # Her iki mod için de tavsiye al
-            from recommendation_engine import RecommendationEngine
+            from src.recommendation_engine import RecommendationEngine
             rec_engine = RecommendationEngine()
             user_vec = rec_engine.create_user_vector(profile_dict)
             
@@ -1669,7 +1669,7 @@ def main():
                     st.markdown("### 1.1 Çok Boyutlu Kullanıcı Vektörü")
                     st.latex(r"\vec{u} = [u_1, u_2, ..., u_n] \in \mathbb{R}^n")
                     
-                    from recommendation_engine import RecommendationEngine
+                    from src.recommendation_engine import RecommendationEngine
                     engine = RecommendationEngine()
                     
                     profile_dict = {
@@ -1901,7 +1901,7 @@ def main():
                     
                     st.markdown("")
                     
-                    from recommendation_engine import RecommendationEngine
+                    from src.recommendation_engine import RecommendationEngine
                     engine = RecommendationEngine()
                     
                     profile_dict = {
@@ -2572,7 +2572,7 @@ def main():
 
                 if st.button("🚀 Simülasyonu Başlat", type="primary"):
                     with st.spinner(f"⏳ {len(users)} kullanıcı için matching yapılıyor..."):
-                        from recommendation_engine import RecommendationEngine
+                        from src.recommendation_engine import RecommendationEngine
                         rec_engine = RecommendationEngine()
 
                         simulation_results = []
@@ -2757,7 +2757,7 @@ def main():
 
                 if st.button("🧪 A/B Test Başlat", type="primary"):
                     with st.spinner("⏳ A/B test çalışıyor..."):
-                        from recommendation_engine import RecommendationEngine
+                        from src.recommendation_engine import RecommendationEngine
                         rec_engine = RecommendationEngine()
                         personas = get_all_personas()
 
