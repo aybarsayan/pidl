@@ -15,8 +15,9 @@ except ImportError:
     ANTHROPIC_AVAILABLE = False
 
 from .personas import Persona, get_all_personas
+from .config import get_openai_key, get_anthropic_key
 
-# .env dosyasını yükle
+# .env dosyasını yükle (local development için)
 load_dotenv()
 
 
@@ -40,9 +41,9 @@ class CodeGenerator:
 
         # OpenAI client
         if self.provider == "openai":
-            self.api_key = api_key or os.getenv("OPENAI_API_KEY")
+            self.api_key = api_key or get_openai_key()
             if not self.api_key:
-                raise ValueError("OpenAI API anahtarı bulunamadı! .env dosyasını kontrol edin.")
+                raise ValueError("OpenAI API anahtarı bulunamadı! Streamlit Secrets veya .env dosyasını kontrol edin.")
             self.client = openai.OpenAI(api_key=self.api_key)
             self.anthropic_client = None
 
@@ -50,9 +51,9 @@ class CodeGenerator:
         elif self.provider == "anthropic":
             if not ANTHROPIC_AVAILABLE:
                 raise ValueError("Anthropic paketi yüklü değil! pip install anthropic")
-            self.api_key = anthropic_key or os.getenv("ANTHROPIC_API_KEY")
+            self.api_key = anthropic_key or get_anthropic_key()
             if not self.api_key:
-                raise ValueError("Anthropic API anahtarı bulunamadı! .env dosyasını kontrol edin.")
+                raise ValueError("Anthropic API anahtarı bulunamadı! Streamlit Secrets veya .env dosyasını kontrol edin.")
             self.anthropic_client = anthropic.Anthropic(api_key=self.api_key)
             self.client = None
 

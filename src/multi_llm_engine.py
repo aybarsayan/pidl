@@ -26,6 +26,7 @@ except ImportError:
     GOOGLE_AVAILABLE = False
 
 from .personas import Persona
+from .config import get_openai_key, get_anthropic_key, get_google_key, get_config
 
 load_dotenv()
 
@@ -56,10 +57,10 @@ class MultiLLMEngine:
     
     def __init__(self):
         """Multi-LLM engine başlat"""
-        self.openai_key = os.getenv("OPENAI_API_KEY")
-        self.anthropic_key = os.getenv("ANTHROPIC_API_KEY")
-        self.google_key = os.getenv("GOOGLE_API_KEY")
-        self.grok_key = os.getenv("GROK_API_KEY")
+        self.openai_key = get_openai_key()
+        self.anthropic_key = get_anthropic_key()
+        self.google_key = get_google_key()
+        self.grok_key = get_config("GROK_API_KEY", "")
         
         # Clients
         self.openai_client = None
