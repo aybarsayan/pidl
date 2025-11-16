@@ -1,0 +1,151 @@
+age,gender,education,work_field,technical_score,pedagogical_score,competency_level,participant_id,uuid,consent_given,completed,total_duration_minutes,created_at
+30,Erkek,Lisans,Yazılım Geliştirme,48,47,Advanced Beginner,1,participant_001,True,True,246,2025-08-15T11:18:36.682852
+22,Erkek,Lisans,Yazılım Geliştirme,27,58,Advanced Beginner,2,participant_002,True,True,268,2025-08-31T11:18:36.683002
+28,Erkek,Doktora,Eğitim,42,45,Advanced Beginner,3,participant_003,True,True,293,2025-11-09T11:18:36.683218
+27,Erkek,Yüksek Lisans,Yazılım Geliştirme,73,51,Proficient,4,participant_004,True,True,275,2025-11-08T11:18:36.683329
+25,Erkek,Lisans,Akademik Araştırma,67,51,Competent,5,participant_005,True,True,258,2025-09-05T11:18:36.683438
+26,Erkek,Lisans,Eğitim,36,69,Advanced Beginner,6,participant_006,True,True,282,2025-08-12T11:18:36.683547
+25,Erkek,Lisans,Eğitim,29,67,Advanced Beginner,7,participant_007,True,True,264,2025-09-02T11:18:36.683652
+35,Erkek,Lisans,Akademik Araştırma,85,15,Proficient,8,participant_008,True,True,261,2025-10-22T11:18:36.683762
+28,Erkek,Yüksek Lisans,Akademik Araştırma,10,59,Novice,9,participant_009,True,True,281,2025-10-31T11:18:36.683868
+29,Kadın,Lisans,Yazılım Geliştirme,89,32,Expert,10,participant_010,True,True,289,2025-10-04T11:18:36.683974
+24,Erkek,Doktora,Yazılım Geliştirme,33,41,Advanced Beginner,11,participant_011,True,True,252,2025-10-26T11:18:36.684134
+33,Erkek,Doktora,Eğitim,42,52,Advanced Beginner,12,participant_012,True,True,276,2025-08-17T11:18:36.684247
+28,Erkek,Lisans,Akademik Araştırma,30,32,Advanced Beginner,13,participant_013,True,True,275,2025-10-20T11:18:36.684353
+34,Kadın,Lisans,Akademik Araştırma,67,57,Proficient,14,participant_014,True,True,281,2025-09-24T11:18:36.684462
+28,Erkek,Lisans,Eğitim,43,27,Advanced Beginner,15,participant_015,True,True,271,2025-10-15T11:18:36.684566
+28,Erkek,Doktora,Akademik Araştırma,76,78,Proficient,16,participant_016,True,True,244,2025-09-23T11:18:36.684675
+22,Erkek,Lisans,Yazılım Geliştirme,67,76,Competent,17,participant_017,True,True,265,2025-11-05T11:18:36.684784
+22,Erkek,Lisans,Akademik Araştırma,36,51,Advanced Beginner,18,participant_018,True,True,259,2025-10-24T11:18:36.684891
+23,Kadın,Lisans,Yazılım Geliştirme,39,66,Advanced Beginner,19,participant_019,True,True,261,2025-08-30T11:18:36.684995
+22,Erkek,Yüksek Lisans,Eğitim,45,65,Advanced Beginner,20,participant_020,True,True,252,2025-09-29T11:18:36.685102
+26,Erkek,Yüksek Lisans,Akademik Araştırma,57,51,Competent,21,participant_021,True,True,298,2025-10-12T11:18:36.685207
+28,Kadın,Yüksek Lisans,Eğitim,33,53,Advanced Beginner,22,participant_022,True,True,254,2025-08-24T11:18:36.685314
+35,Erkek,Doktora,Eğitim,5,38,Novice,23,participant_023,True,True,265,2025-10-27T11:18:36.685419
+28,Erkek,Yüksek Lisans,Akademik Araştırma,68,82,Competent,24,participant_024,True,True,251,2025-11-07T11:18:36.685526
+29,Erkek,Doktora,Yazılım Geliştirme,49,81,Competent,25,participant_025,True,True,288,2025-10-30T11:18:36.685635
+27,Erkek,Doktora,Akademik Araştırma,67,53,Proficient,26,participant_026,True,True,256,2025-09-29T11:18:36.685741
+27,Erkek,Yüksek Lisans,Akademik Araştırma,35,53,Advanced Beginner,27,participant_027,True,True,249,2025-10-28T11:18:36.685847
+28,Erkek,Yüksek Lisans,Yazılım Geliştirme,50,52,Advanced Beginner,28,participant_028,True,True,284,2025-08-24T11:18:36.685955
+26,Kadın,Yüksek Lisans,Yazılım Geliştirme,18,33,Novice,29,participant_029,True,True,286,2025-10-08T11:18:36.686061
+37,Erkek,Lisans,Yazılım Geliştirme,28,51,Novice,30,participant_030,True,True,254,2025-10-31T11:18:36.686172
+27,Erkek,Lisans,Yazılım Geliştirme,66,74,Competent,31,participant_031,True,True,260,2025-09-26T11:18:36.686280
+24,Erkek,Doktora,Yazılım Geliştirme,29,31,Advanced Beginner,32,participant_032,True,True,253,2025-10-24T11:18:36.686386
+25,Erkek,Lisans,Eğitim,21,60,Novice,33,participant_033,True,True,295,2025-09-16T11:18:36.686490
+33,Kadın,Yüksek Lisans,Yazılım Geliştirme,45,26,Advanced Beginner,34,participant_034,True,True,248,2025-11-09T11:18:36.686597
+28,Erkek,Yüksek Lisans,Yazılım Geliştirme,32,70,Advanced Beginner,35,participant_035,True,True,289,2025-09-19T11:18:36.686703
+34,Erkek,Lisans,Yazılım Geliştirme,48,74,Competent,36,participant_036,True,True,290,2025-09-17T11:18:36.686805
+26,Erkek,Lisans,Yazılım Geliştirme,46,33,Competent,37,participant_037,True,True,273,2025-10-21T11:18:36.686912
+22,Kadın,Yüksek Lisans,Yazılım Geliştirme,26,84,Novice,38,participant_038,True,True,292,2025-08-16T11:18:36.687017
+30,Erkek,Yüksek Lisans,Akademik Araştırma,48,37,Advanced Beginner,39,participant_039,True,True,264,2025-10-14T11:18:36.687125
+35,Erkek,Doktora,Eğitim,30,45,Advanced Beginner,40,participant_040,True,True,246,2025-08-15T11:18:36.687232
+33,Erkek,Yüksek Lisans,Akademik Araştırma,46,62,Advanced Beginner,41,participant_041,True,True,270,2025-11-01T11:18:36.687337
+34,Erkek,Lisans,Yazılım Geliştirme,53,44,Competent,42,participant_042,True,True,297,2025-09-18T11:18:36.687451
+31,Erkek,Lisans,Akademik Araştırma,66,88,Proficient,43,participant_043,True,True,294,2025-10-02T11:18:36.687557
+27,Erkek,Lisans,Eğitim,48,42,Advanced Beginner,44,participant_044,True,True,280,2025-09-23T11:18:36.687664
+26,Erkek,Lisans,Yazılım Geliştirme,26,35,Advanced Beginner,45,participant_045,True,True,251,2025-11-04T11:18:36.687773
+33,Erkek,Yüksek Lisans,Eğitim,26,51,Novice,46,participant_046,True,True,242,2025-10-27T11:18:36.687878
+29,Kadın,Lisans,Yazılım Geliştirme,37,72,Advanced Beginner,47,participant_047,True,True,272,2025-10-16T11:18:36.687982
+27,Erkek,Lisans,Yazılım Geliştirme,28,38,Advanced Beginner,48,participant_048,True,True,284,2025-09-07T11:18:36.688092
+29,Erkek,Yüksek Lisans,Eğitim,35,61,Advanced Beginner,49,participant_049,True,True,279,2025-10-27T11:18:36.688198
+31,Erkek,Yüksek Lisans,Akademik Araştırma,34,17,Advanced Beginner,50,participant_050,True,True,252,2025-09-19T11:18:36.688303
+31,Kadın,Yüksek Lisans,Eğitim,36,45,Advanced Beginner,51,participant_051,True,True,267,2025-09-11T11:18:36.688409
+33,Erkek,Lisans,Akademik Araştırma,67,48,Proficient,52,participant_052,True,True,268,2025-09-16T11:18:36.688514
+33,Kadın,Lisans,Eğitim,32,72,Advanced Beginner,53,participant_053,True,True,289,2025-09-01T11:18:36.688623
+31,Erkek,Yüksek Lisans,Yazılım Geliştirme,72,42,Proficient,54,participant_054,True,True,259,2025-09-07T11:18:36.688731
+25,Erkek,Yüksek Lisans,Akademik Araştırma,37,46,Advanced Beginner,55,participant_055,True,True,248,2025-10-06T11:18:36.688838
+29,Erkek,Lisans,Akademik Araştırma,56,54,Competent,56,participant_056,True,True,259,2025-09-04T11:18:36.689005
+31,Erkek,Yüksek Lisans,Akademik Araştırma,32,67,Advanced Beginner,57,participant_057,True,True,256,2025-09-23T11:18:36.689140
+25,Erkek,Lisans,Akademik Araştırma,45,25,Advanced Beginner,58,participant_058,True,True,287,2025-10-30T11:18:36.689269
+24,Erkek,Lisans,Yazılım Geliştirme,43,60,Advanced Beginner,59,participant_059,True,True,288,2025-10-26T11:18:36.689391
+36,Erkek,Lisans,Akademik Araştırma,100,9,Expert,60,participant_060,True,True,278,2025-09-17T11:18:36.689513
+22,Kadın,Lisans,Yazılım Geliştirme,96,28,Expert,61,participant_061,True,True,263,2025-09-09T11:18:36.689636
+26,Kadın,Lisans,Akademik Araştırma,89,20,Expert,62,participant_062,True,True,264,2025-09-04T11:18:36.689758
+26,Erkek,Doktora,Yazılım Geliştirme,26,57,Advanced Beginner,63,participant_063,True,True,255,2025-08-31T11:18:36.689877
+28,Kadın,Yüksek Lisans,Yazılım Geliştirme,24,25,Novice,64,participant_064,True,True,252,2025-10-03T11:18:36.689997
+28,Erkek,Lisans,Akademik Araştırma,85,40,Expert,65,participant_065,True,True,263,2025-11-07T11:18:36.690121
+33,Erkek,Lisans,Yazılım Geliştirme,67,94,Proficient,66,participant_066,True,True,295,2025-10-31T11:18:36.690241
+22,Erkek,Yüksek Lisans,Eğitim,73,19,Proficient,67,participant_067,True,True,244,2025-09-13T11:18:36.690353
+22,Kadın,Yüksek Lisans,Eğitim,72,34,Proficient,68,participant_068,True,True,244,2025-08-23T11:18:36.690461
+33,Erkek,Doktora,Akademik Araştırma,8,45,Novice,69,participant_069,True,True,274,2025-10-29T11:18:36.690566
+28,Erkek,Lisans,Yazılım Geliştirme,81,72,Proficient,70,participant_070,True,True,283,2025-09-18T11:18:36.690672
+23,Erkek,Yüksek Lisans,Yazılım Geliştirme,1,40,Novice,71,participant_071,True,True,276,2025-08-18T11:18:36.690779
+31,Erkek,Doktora,Yazılım Geliştirme,92,69,Expert,72,participant_072,True,True,243,2025-08-26T11:18:36.690885
+27,Erkek,Doktora,Akademik Araştırma,84,50,Proficient,73,participant_073,True,True,276,2025-10-11T11:18:36.690993
+26,Erkek,Lisans,Yazılım Geliştirme,98,35,Expert,74,participant_074,True,True,240,2025-10-27T11:18:36.691099
+35,Erkek,Lisans,Yazılım Geliştirme,14,50,Novice,75,participant_075,True,True,266,2025-09-02T11:18:36.691210
+26,Erkek,Yüksek Lisans,Yazılım Geliştirme,45,67,Competent,76,participant_076,True,True,282,2025-10-07T11:18:36.691317
+26,Erkek,Yüksek Lisans,Yazılım Geliştirme,67,54,Proficient,77,participant_077,True,True,259,2025-08-24T11:18:36.691422
+28,Kadın,Lisans,Akademik Araştırma,71,50,Proficient,78,participant_078,True,True,291,2025-09-03T11:18:36.691534
+33,Erkek,Doktora,Yazılım Geliştirme,55,43,Competent,79,participant_079,True,True,283,2025-10-20T11:18:36.691639
+26,Erkek,Yüksek Lisans,Yazılım Geliştirme,78,82,Proficient,80,participant_080,True,True,270,2025-09-03T11:18:36.691748
+31,Erkek,Lisans,Eğitim,30,56,Advanced Beginner,81,participant_081,True,True,260,2025-08-18T11:18:36.691872
+29,Erkek,Doktora,Akademik Araştırma,36,47,Advanced Beginner,82,participant_082,True,True,279,2025-10-20T11:18:36.691997
+27,Erkek,Yüksek Lisans,Yazılım Geliştirme,75,30,Proficient,83,participant_083,True,True,267,2025-10-17T11:18:36.692118
+24,Kadın,Yüksek Lisans,Akademik Araştırma,69,13,Competent,84,participant_084,True,True,273,2025-10-24T11:18:36.692241
+38,Erkek,Lisans,Eğitim,61,35,Competent,85,participant_085,True,True,260,2025-10-08T11:18:36.692366
+26,Erkek,Yüksek Lisans,Yazılım Geliştirme,92,1,Expert,86,participant_086,True,True,267,2025-10-06T11:18:36.692473
+29,Kadın,Lisans,Eğitim,81,57,Proficient,87,participant_087,True,True,269,2025-09-18T11:18:36.692584
+30,Erkek,Doktora,Eğitim,65,54,Competent,88,participant_088,True,True,241,2025-09-20T11:18:36.692696
+24,Kadın,Yüksek Lisans,Yazılım Geliştirme,46,83,Competent,89,participant_089,True,True,257,2025-08-12T11:18:36.692804
+29,Erkek,Doktora,Eğitim,39,72,Advanced Beginner,90,participant_090,True,True,251,2025-10-26T11:18:36.692916
+25,Erkek,Lisans,Eğitim,68,45,Competent,91,participant_091,True,True,276,2025-10-21T11:18:36.693024
+28,Kadın,Yüksek Lisans,Yazılım Geliştirme,57,25,Competent,92,participant_092,True,True,254,2025-09-29T11:18:36.693127
+31,Erkek,Lisans,Akademik Araştırma,28,52,Novice,93,participant_093,True,True,240,2025-10-11T11:18:36.693242
+37,Erkek,Lisans,Yazılım Geliştirme,93,74,Expert,94,participant_094,True,True,253,2025-11-04T11:18:36.693349
+29,Kadın,Yüksek Lisans,Yazılım Geliştirme,47,54,Advanced Beginner,95,participant_095,True,True,300,2025-08-12T11:18:36.693457
+28,Erkek,Lisans,Yazılım Geliştirme,37,54,Advanced Beginner,96,participant_096,True,True,292,2025-09-23T11:18:36.693564
+31,Erkek,Yüksek Lisans,Eğitim,46,42,Advanced Beginner,97,participant_097,True,True,285,2025-09-27T11:18:36.693671
+38,Kadın,Lisans,Akademik Araştırma,45,56,Advanced Beginner,98,participant_098,True,True,298,2025-10-02T11:18:36.693779
+25,Kadın,Lisans,Eğitim,24,66,Novice,99,participant_099,True,True,242,2025-08-18T11:18:36.693885
+25,Erkek,Lisans,Eğitim,83,60,Proficient,100,participant_100,True,True,272,2025-10-05T11:18:36.693994
+22,Erkek,Yüksek Lisans,Yazılım Geliştirme,7,25,Novice,101,participant_101,True,True,260,2025-10-06T11:18:36.694103
+24,Kadın,Doktora,Akademik Araştırma,1,52,Novice,102,participant_102,True,True,287,2025-10-26T11:18:36.694213
+32,Erkek,Lisans,Yazılım Geliştirme,27,59,Advanced Beginner,103,participant_103,True,True,277,2025-11-06T11:18:36.694319
+22,Erkek,Lisans,Akademik Araştırma,49,48,Competent,104,participant_104,True,True,240,2025-09-02T11:18:36.694424
+37,Erkek,Lisans,Akademik Araştırma,26,65,Advanced Beginner,105,participant_105,True,True,277,2025-09-24T11:18:36.694529
+22,Kadın,Lisans,Yazılım Geliştirme,64,38,Competent,106,participant_106,True,True,276,2025-11-05T11:18:36.694641
+35,Erkek,Lisans,Eğitim,58,64,Competent,107,participant_107,True,True,275,2025-10-18T11:18:36.694748
+29,Erkek,Lisans,Yazılım Geliştirme,80,50,Proficient,108,participant_108,True,True,260,2025-10-21T11:18:36.694859
+28,Erkek,Doktora,Eğitim,33,57,Advanced Beginner,109,participant_109,True,True,294,2025-11-07T11:18:36.694963
+30,Erkek,Doktora,Eğitim,7,63,Novice,110,participant_110,True,True,283,2025-08-20T11:18:36.695078
+29,Erkek,Yüksek Lisans,Yazılım Geliştirme,93,32,Expert,111,participant_111,True,True,293,2025-10-20T11:18:36.695184
+29,Erkek,Lisans,Eğitim,62,11,Competent,112,participant_112,True,True,279,2025-09-02T11:18:36.695289
+24,Kadın,Doktora,Eğitim,29,82,Advanced Beginner,113,participant_113,True,True,255,2025-08-26T11:18:36.695395
+33,Erkek,Yüksek Lisans,Akademik Araştırma,57,18,Competent,114,participant_114,True,True,284,2025-11-02T11:18:36.695503
+31,Erkek,Lisans,Eğitim,12,60,Novice,115,participant_115,True,True,242,2025-11-03T11:18:36.695612
+22,Erkek,Lisans,Yazılım Geliştirme,22,44,Novice,116,participant_116,True,True,250,2025-11-09T11:18:36.695719
+30,Erkek,Yüksek Lisans,Akademik Araştırma,35,70,Advanced Beginner,117,participant_117,True,True,251,2025-08-18T11:18:36.695832
+24,Kadın,Yüksek Lisans,Yazılım Geliştirme,67,48,Competent,118,participant_118,True,True,259,2025-09-25T11:18:36.695937
+28,Kadın,Yüksek Lisans,Akademik Araştırma,38,20,Advanced Beginner,119,participant_119,True,True,285,2025-09-16T11:18:36.696042
+30,Erkek,Yüksek Lisans,Yazılım Geliştirme,48,91,Advanced Beginner,120,participant_120,True,True,268,2025-11-08T11:18:36.696182
+24,Kadın,Lisans,Eğitim,65,81,Proficient,121,participant_121,True,True,274,2025-08-29T11:18:36.696288
+30,Kadın,Lisans,Akademik Araştırma,85,69,Expert,122,participant_122,True,True,273,2025-08-19T11:18:36.696401
+30,Kadın,Yüksek Lisans,Yazılım Geliştirme,50,25,Advanced Beginner,123,participant_123,True,True,276,2025-09-13T11:18:36.696511
+31,Kadın,Lisans,Yazılım Geliştirme,45,31,Competent,124,participant_124,True,True,272,2025-10-08T11:18:36.696620
+30,Kadın,Lisans,Akademik Araştırma,28,61,Advanced Beginner,125,participant_125,True,True,286,2025-08-20T11:18:36.696726
+33,Erkek,Lisans,Yazılım Geliştirme,75,40,Proficient,126,participant_126,True,True,266,2025-09-25T11:18:36.696831
+22,Erkek,Yüksek Lisans,Eğitim,93,38,Expert,127,participant_127,True,True,257,2025-11-08T11:18:36.696938
+28,Erkek,Doktora,Eğitim,10,73,Novice,128,participant_128,True,True,291,2025-09-13T11:18:36.697046
+28,Kadın,Lisans,Eğitim,77,11,Proficient,129,participant_129,True,True,275,2025-10-22T11:18:36.697152
+24,Kadın,Lisans,Eğitim,28,46,Novice,130,participant_130,True,True,288,2025-08-12T11:18:36.697261
+30,Kadın,Yüksek Lisans,Eğitim,57,44,Competent,131,participant_131,True,True,257,2025-09-29T11:18:36.697369
+30,Kadın,Yüksek Lisans,Yazılım Geliştirme,10,12,Novice,132,participant_132,True,True,259,2025-08-23T11:18:36.697477
+22,Kadın,Doktora,Akademik Araştırma,1,99,Novice,133,participant_133,True,True,298,2025-09-12T11:18:36.697583
+23,Erkek,Doktora,Eğitim,54,26,Competent,134,participant_134,True,True,252,2025-08-14T11:18:36.697692
+22,Erkek,Doktora,Yazılım Geliştirme,50,84,Advanced Beginner,135,participant_135,True,True,265,2025-11-06T11:18:36.697796
+30,Kadın,Doktora,Eğitim,80,61,Proficient,136,participant_136,True,True,277,2025-09-27T11:18:36.697901
+25,Erkek,Lisans,Akademik Araştırma,50,27,Competent,137,participant_137,True,True,290,2025-08-13T11:18:36.698007
+33,Kadın,Yüksek Lisans,Eğitim,63,37,Competent,138,participant_138,True,True,263,2025-10-27T11:18:36.698111
+32,Kadın,Doktora,Akademik Araştırma,4,58,Novice,139,participant_139,True,True,264,2025-08-15T11:18:36.698216
+32,Erkek,Doktora,Akademik Araştırma,54,61,Competent,140,participant_140,True,True,279,2025-08-13T11:18:36.698440
+29,Kadın,Lisans,Eğitim,32,29,Advanced Beginner,141,participant_141,True,True,291,2025-08-21T11:18:36.698615
+22,Kadın,Yüksek Lisans,Eğitim,6,52,Novice,142,participant_142,True,True,294,2025-11-09T11:18:36.698738
+29,Kadın,Lisans,Akademik Araştırma,65,61,Competent,143,participant_143,True,True,240,2025-09-10T11:18:36.698851
+31,Kadın,Doktora,Yazılım Geliştirme,46,38,Advanced Beginner,144,participant_144,True,True,292,2025-10-22T11:18:36.698969
+26,Erkek,Lisans,Akademik Araştırma,34,42,Advanced Beginner,145,participant_145,True,True,243,2025-10-04T11:18:36.699090
+29,Erkek,Doktora,Yazılım Geliştirme,81,58,Proficient,146,participant_146,True,True,281,2025-08-22T11:18:36.699200
+26,Kadın,Yüksek Lisans,Yazılım Geliştirme,14,83,Novice,147,participant_147,True,True,254,2025-08-20T11:18:36.699311
+25,Erkek,Lisans,Akademik Araştırma,17,1,Novice,148,participant_148,True,True,297,2025-11-05T11:18:36.699429
+35,Erkek,Yüksek Lisans,Akademik Araştırma,80,42,Expert,149,participant_149,True,True,253,2025-10-01T11:18:36.699540
+28,Kadın,Yüksek Lisans,Eğitim,2,29,Novice,150,participant_150,True,True,268,2025-11-08T11:18:36.699658

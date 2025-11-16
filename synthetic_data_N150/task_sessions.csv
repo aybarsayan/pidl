@@ -1,0 +1,901 @@
+session_id,participant_uuid,task_number,task_name,assigned_ai_type,assigned_persona,status,duration_minutes,started_at,completed_at
+1,participant_001,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Deniz - DApp Architect,Completed,35,2025-08-15T11:18:36.682852,2025-08-15T11:18:36.682852
+2,participant_001,2,Voting System - Basit oylama mekanizması,Similar,Elif - Security Aware,Completed,47,2025-08-15T11:18:36.682852,2025-08-15T11:18:36.682852
+3,participant_001,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Elif - Security Aware,Completed,45,2025-08-15T11:18:36.682852,2025-08-15T11:18:36.682852
+4,participant_001,4,NFT Minting - ERC721 benzeri NFT,Similar,Elif - Security Aware,Completed,54,2025-08-15T11:18:36.682852,2025-08-15T11:18:36.682852
+5,participant_001,5,Staking Contract - Token stake etme,Complementary,Deniz - DApp Architect,Completed,54,2025-08-15T11:18:36.682852,2025-08-15T11:18:36.682852
+6,participant_001,6,Auction System - Açık artırma sistemi,Complementary,Deniz - DApp Architect,Completed,53,2025-08-15T11:18:36.682852,2025-08-15T11:18:36.682852
+7,participant_002,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,48,2025-08-31T11:18:36.683002,2025-08-31T11:18:36.683002
+8,participant_002,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,40,2025-08-31T11:18:36.683002,2025-08-31T11:18:36.683002
+9,participant_002,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,37,2025-08-31T11:18:36.683002,2025-08-31T11:18:36.683002
+10,participant_002,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,37,2025-08-31T11:18:36.683002,2025-08-31T11:18:36.683002
+11,participant_002,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,54,2025-08-31T11:18:36.683002,2025-08-31T11:18:36.683002
+12,participant_002,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,35,2025-08-31T11:18:36.683002,2025-08-31T11:18:36.683002
+13,participant_003,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,49,2025-11-09T11:18:36.683218,2025-11-09T11:18:36.683218
+14,participant_003,2,Voting System - Basit oylama mekanizması,Complementary,Ali - Facilitator,Completed,38,2025-11-09T11:18:36.683218,2025-11-09T11:18:36.683218
+15,participant_003,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,39,2025-11-09T11:18:36.683218,2025-11-09T11:18:36.683218
+16,participant_003,4,NFT Minting - ERC721 benzeri NFT,Similar,Prof. Mehmet - Academic,Completed,49,2025-11-09T11:18:36.683218,2025-11-09T11:18:36.683218
+17,participant_003,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,41,2025-11-09T11:18:36.683218,2025-11-09T11:18:36.683218
+18,participant_003,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,53,2025-11-09T11:18:36.683218,2025-11-09T11:18:36.683218
+19,participant_004,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Deniz - DApp Architect,Completed,52,2025-11-08T11:18:36.683329,2025-11-08T11:18:36.683329
+20,participant_004,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,41,2025-11-08T11:18:36.683329,2025-11-08T11:18:36.683329
+21,participant_004,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,37,2025-11-08T11:18:36.683329,2025-11-08T11:18:36.683329
+22,participant_004,4,NFT Minting - ERC721 benzeri NFT,Similar,Deniz - DApp Architect,Completed,40,2025-11-08T11:18:36.683329,2025-11-08T11:18:36.683329
+23,participant_004,5,Staking Contract - Token stake etme,Similar,Deniz - DApp Architect,Completed,51,2025-11-08T11:18:36.683329,2025-11-08T11:18:36.683329
+24,participant_004,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,45,2025-11-08T11:18:36.683329,2025-11-08T11:18:36.683329
+25,participant_005,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Can - Gas Optimizer,Completed,49,2025-09-05T11:18:36.683438,2025-09-05T11:18:36.683438
+26,participant_005,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,47,2025-09-05T11:18:36.683438,2025-09-05T11:18:36.683438
+27,participant_005,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Can - Gas Optimizer,Completed,42,2025-09-05T11:18:36.683438,2025-09-05T11:18:36.683438
+28,participant_005,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,43,2025-09-05T11:18:36.683438,2025-09-05T11:18:36.683438
+29,participant_005,5,Staking Contract - Token stake etme,Similar,Can - Gas Optimizer,Completed,42,2025-09-05T11:18:36.683438,2025-09-05T11:18:36.683438
+30,participant_005,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,44,2025-09-05T11:18:36.683438,2025-09-05T11:18:36.683438
+31,participant_006,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,54,2025-08-12T11:18:36.683547,2025-08-12T11:18:36.683547
+32,participant_006,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,42,2025-08-12T11:18:36.683547,2025-08-12T11:18:36.683547
+33,participant_006,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,51,2025-08-12T11:18:36.683547,2025-08-12T11:18:36.683547
+34,participant_006,4,NFT Minting - ERC721 benzeri NFT,Similar,Prof. Mehmet - Academic,Completed,48,2025-08-12T11:18:36.683547,2025-08-12T11:18:36.683547
+35,participant_006,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,36,2025-08-12T11:18:36.683547,2025-08-12T11:18:36.683547
+36,participant_006,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,47,2025-08-12T11:18:36.683547,2025-08-12T11:18:36.683547
+37,participant_007,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Ali - Facilitator,Completed,48,2025-09-02T11:18:36.683652,2025-09-02T11:18:36.683652
+38,participant_007,2,Voting System - Basit oylama mekanizması,Complementary,Ali - Facilitator,Completed,51,2025-09-02T11:18:36.683652,2025-09-02T11:18:36.683652
+39,participant_007,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,37,2025-09-02T11:18:36.683652,2025-09-02T11:18:36.683652
+40,participant_007,4,NFT Minting - ERC721 benzeri NFT,Similar,Prof. Mehmet - Academic,Completed,55,2025-09-02T11:18:36.683652,2025-09-02T11:18:36.683652
+41,participant_007,5,Staking Contract - Token stake etme,Similar,Prof. Mehmet - Academic,Completed,55,2025-09-02T11:18:36.683652,2025-09-02T11:18:36.683652
+42,participant_007,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,49,2025-09-02T11:18:36.683652,2025-09-02T11:18:36.683652
+43,participant_008,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,49,2025-10-22T11:18:36.683762,2025-10-22T11:18:36.683762
+44,participant_008,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,42,2025-10-22T11:18:36.683762,2025-10-22T11:18:36.683762
+45,participant_008,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,39,2025-10-22T11:18:36.683762,2025-10-22T11:18:36.683762
+46,participant_008,4,NFT Minting - ERC721 benzeri NFT,Similar,Deniz - DApp Architect,Completed,37,2025-10-22T11:18:36.683762,2025-10-22T11:18:36.683762
+47,participant_008,5,Staking Contract - Token stake etme,Similar,Deniz - DApp Architect,Completed,54,2025-10-22T11:18:36.683762,2025-10-22T11:18:36.683762
+48,participant_008,6,Auction System - Açık artırma sistemi,Similar,Deniz - DApp Architect,Completed,54,2025-10-22T11:18:36.683762,2025-10-22T11:18:36.683762
+49,participant_009,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Dr. Ayşe - Beginner Friendly,Completed,48,2025-10-31T11:18:36.683868,2025-10-31T11:18:36.683868
+50,participant_009,2,Voting System - Basit oylama mekanizması,Complementary,Öğretmen Zeynep - Practical,Completed,55,2025-10-31T11:18:36.683868,2025-10-31T11:18:36.683868
+51,participant_009,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,39,2025-10-31T11:18:36.683868,2025-10-31T11:18:36.683868
+52,participant_009,4,NFT Minting - ERC721 benzeri NFT,Similar,Dr. Ayşe - Beginner Friendly,Completed,36,2025-10-31T11:18:36.683868,2025-10-31T11:18:36.683868
+53,participant_009,5,Staking Contract - Token stake etme,Complementary,Öğretmen Zeynep - Practical,Completed,39,2025-10-31T11:18:36.683868,2025-10-31T11:18:36.683868
+54,participant_009,6,Auction System - Açık artırma sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,55,2025-10-31T11:18:36.683868,2025-10-31T11:18:36.683868
+55,participant_010,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Burak - Blockchain Specialist,Completed,52,2025-10-04T11:18:36.683974,2025-10-04T11:18:36.683974
+56,participant_010,2,Voting System - Basit oylama mekanizması,Similar,Burak - Blockchain Specialist,Completed,36,2025-10-04T11:18:36.683974,2025-10-04T11:18:36.683974
+57,participant_010,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,36,2025-10-04T11:18:36.683974,2025-10-04T11:18:36.683974
+58,participant_010,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,50,2025-10-04T11:18:36.683974,2025-10-04T11:18:36.683974
+59,participant_010,5,Staking Contract - Token stake etme,Similar,Burak - Blockchain Specialist,Completed,48,2025-10-04T11:18:36.683974,2025-10-04T11:18:36.683974
+60,participant_010,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,44,2025-10-04T11:18:36.683974,2025-10-04T11:18:36.683974
+61,participant_011,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,38,2025-10-26T11:18:36.684134,2025-10-26T11:18:36.684134
+62,participant_011,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,55,2025-10-26T11:18:36.684134,2025-10-26T11:18:36.684134
+63,participant_011,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,46,2025-10-26T11:18:36.684134,2025-10-26T11:18:36.684134
+64,participant_011,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,51,2025-10-26T11:18:36.684134,2025-10-26T11:18:36.684134
+65,participant_011,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,40,2025-10-26T11:18:36.684134,2025-10-26T11:18:36.684134
+66,participant_011,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,35,2025-10-26T11:18:36.684134,2025-10-26T11:18:36.684134
+67,participant_012,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Ali - Facilitator,Completed,47,2025-08-17T11:18:36.684247,2025-08-17T11:18:36.684247
+68,participant_012,2,Voting System - Basit oylama mekanizması,Complementary,Ali - Facilitator,Completed,37,2025-08-17T11:18:36.684247,2025-08-17T11:18:36.684247
+69,participant_012,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,47,2025-08-17T11:18:36.684247,2025-08-17T11:18:36.684247
+70,participant_012,4,NFT Minting - ERC721 benzeri NFT,Similar,Prof. Mehmet - Academic,Completed,45,2025-08-17T11:18:36.684247,2025-08-17T11:18:36.684247
+71,participant_012,5,Staking Contract - Token stake etme,Similar,Prof. Mehmet - Academic,Completed,41,2025-08-17T11:18:36.684247,2025-08-17T11:18:36.684247
+72,participant_012,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,53,2025-08-17T11:18:36.684247,2025-08-17T11:18:36.684247
+73,participant_013,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Ali - Facilitator,Completed,55,2025-10-20T11:18:36.684353,2025-10-20T11:18:36.684353
+74,participant_013,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,53,2025-10-20T11:18:36.684353,2025-10-20T11:18:36.684353
+75,participant_013,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,52,2025-10-20T11:18:36.684353,2025-10-20T11:18:36.684353
+76,participant_013,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,52,2025-10-20T11:18:36.684353,2025-10-20T11:18:36.684353
+77,participant_013,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,52,2025-10-20T11:18:36.684353,2025-10-20T11:18:36.684353
+78,participant_013,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,47,2025-10-20T11:18:36.684353,2025-10-20T11:18:36.684353
+79,participant_014,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Deniz - DApp Architect,Completed,47,2025-09-24T11:18:36.684462,2025-09-24T11:18:36.684462
+80,participant_014,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,39,2025-09-24T11:18:36.684462,2025-09-24T11:18:36.684462
+81,participant_014,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,44,2025-09-24T11:18:36.684462,2025-09-24T11:18:36.684462
+82,participant_014,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,51,2025-09-24T11:18:36.684462,2025-09-24T11:18:36.684462
+83,participant_014,5,Staking Contract - Token stake etme,Similar,Deniz - DApp Architect,Completed,38,2025-09-24T11:18:36.684462,2025-09-24T11:18:36.684462
+84,participant_014,6,Auction System - Açık artırma sistemi,Similar,Deniz - DApp Architect,Completed,53,2025-09-24T11:18:36.684462,2025-09-24T11:18:36.684462
+85,participant_015,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Deniz - DApp Architect,Completed,35,2025-10-15T11:18:36.684566,2025-10-15T11:18:36.684566
+86,participant_015,2,Voting System - Basit oylama mekanizması,Similar,Elif - Security Aware,Completed,53,2025-10-15T11:18:36.684566,2025-10-15T11:18:36.684566
+87,participant_015,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Elif - Security Aware,Completed,44,2025-10-15T11:18:36.684566,2025-10-15T11:18:36.684566
+88,participant_015,4,NFT Minting - ERC721 benzeri NFT,Similar,Elif - Security Aware,Completed,53,2025-10-15T11:18:36.684566,2025-10-15T11:18:36.684566
+89,participant_015,5,Staking Contract - Token stake etme,Complementary,Deniz - DApp Architect,Completed,48,2025-10-15T11:18:36.684566,2025-10-15T11:18:36.684566
+90,participant_015,6,Auction System - Açık artırma sistemi,Complementary,Deniz - DApp Architect,Completed,38,2025-10-15T11:18:36.684566,2025-10-15T11:18:36.684566
+91,participant_016,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Mentor Fatma - Supportive,Completed,39,2025-09-23T11:18:36.684675,2025-09-23T11:18:36.684675
+92,participant_016,2,Voting System - Basit oylama mekanizması,Similar,Ali - Facilitator,Completed,45,2025-09-23T11:18:36.684675,2025-09-23T11:18:36.684675
+93,participant_016,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Ali - Facilitator,Completed,40,2025-09-23T11:18:36.684675,2025-09-23T11:18:36.684675
+94,participant_016,4,NFT Minting - ERC721 benzeri NFT,Similar,Ali - Facilitator,Completed,44,2025-09-23T11:18:36.684675,2025-09-23T11:18:36.684675
+95,participant_016,5,Staking Contract - Token stake etme,Complementary,Mentor Fatma - Supportive,Completed,46,2025-09-23T11:18:36.684675,2025-09-23T11:18:36.684675
+96,participant_016,6,Auction System - Açık artırma sistemi,Complementary,Mentor Fatma - Supportive,Completed,38,2025-09-23T11:18:36.684675,2025-09-23T11:18:36.684675
+97,participant_017,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Mentor Fatma - Supportive,Completed,46,2025-11-05T11:18:36.684784,2025-11-05T11:18:36.684784
+98,participant_017,2,Voting System - Basit oylama mekanizması,Complementary,Mentor Fatma - Supportive,Completed,40,2025-11-05T11:18:36.684784,2025-11-05T11:18:36.684784
+99,participant_017,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Öğretmen Zeynep - Practical,Completed,42,2025-11-05T11:18:36.684784,2025-11-05T11:18:36.684784
+100,participant_017,4,NFT Minting - ERC721 benzeri NFT,Similar,Öğretmen Zeynep - Practical,Completed,44,2025-11-05T11:18:36.684784,2025-11-05T11:18:36.684784
+101,participant_017,5,Staking Contract - Token stake etme,Similar,Öğretmen Zeynep - Practical,Completed,52,2025-11-05T11:18:36.684784,2025-11-05T11:18:36.684784
+102,participant_017,6,Auction System - Açık artırma sistemi,Complementary,Mentor Fatma - Supportive,Completed,50,2025-11-05T11:18:36.684784,2025-11-05T11:18:36.684784
+103,participant_018,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,44,2025-10-24T11:18:36.684891,2025-10-24T11:18:36.684891
+104,participant_018,2,Voting System - Basit oylama mekanizması,Complementary,Ali - Facilitator,Completed,38,2025-10-24T11:18:36.684891,2025-10-24T11:18:36.684891
+105,participant_018,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,51,2025-10-24T11:18:36.684891,2025-10-24T11:18:36.684891
+106,participant_018,4,NFT Minting - ERC721 benzeri NFT,Similar,Prof. Mehmet - Academic,Completed,48,2025-10-24T11:18:36.684891,2025-10-24T11:18:36.684891
+107,participant_018,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,40,2025-10-24T11:18:36.684891,2025-10-24T11:18:36.684891
+108,participant_018,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,55,2025-10-24T11:18:36.684891,2025-10-24T11:18:36.684891
+109,participant_019,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,38,2025-08-30T11:18:36.684995,2025-08-30T11:18:36.684995
+110,participant_019,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,49,2025-08-30T11:18:36.684995,2025-08-30T11:18:36.684995
+111,participant_019,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,52,2025-08-30T11:18:36.684995,2025-08-30T11:18:36.684995
+112,participant_019,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,36,2025-08-30T11:18:36.684995,2025-08-30T11:18:36.684995
+113,participant_019,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,42,2025-08-30T11:18:36.684995,2025-08-30T11:18:36.684995
+114,participant_019,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,50,2025-08-30T11:18:36.684995,2025-08-30T11:18:36.684995
+115,participant_020,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,41,2025-09-29T11:18:36.685102,2025-09-29T11:18:36.685102
+116,participant_020,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,35,2025-09-29T11:18:36.685102,2025-09-29T11:18:36.685102
+117,participant_020,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,35,2025-09-29T11:18:36.685102,2025-09-29T11:18:36.685102
+118,participant_020,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,43,2025-09-29T11:18:36.685102,2025-09-29T11:18:36.685102
+119,participant_020,5,Staking Contract - Token stake etme,Similar,Prof. Mehmet - Academic,Completed,45,2025-09-29T11:18:36.685102,2025-09-29T11:18:36.685102
+120,participant_020,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,39,2025-09-29T11:18:36.685102,2025-09-29T11:18:36.685102
+121,participant_021,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Can - Gas Optimizer,Completed,54,2025-10-12T11:18:36.685207,2025-10-12T11:18:36.685207
+122,participant_021,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,39,2025-10-12T11:18:36.685207,2025-10-12T11:18:36.685207
+123,participant_021,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Can - Gas Optimizer,Completed,35,2025-10-12T11:18:36.685207,2025-10-12T11:18:36.685207
+124,participant_021,4,NFT Minting - ERC721 benzeri NFT,Similar,Can - Gas Optimizer,Completed,48,2025-10-12T11:18:36.685207,2025-10-12T11:18:36.685207
+125,participant_021,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,41,2025-10-12T11:18:36.685207,2025-10-12T11:18:36.685207
+126,participant_021,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,46,2025-10-12T11:18:36.685207,2025-10-12T11:18:36.685207
+127,participant_022,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Ali - Facilitator,Completed,40,2025-08-24T11:18:36.685314,2025-08-24T11:18:36.685314
+128,participant_022,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,43,2025-08-24T11:18:36.685314,2025-08-24T11:18:36.685314
+129,participant_022,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,52,2025-08-24T11:18:36.685314,2025-08-24T11:18:36.685314
+130,participant_022,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,54,2025-08-24T11:18:36.685314,2025-08-24T11:18:36.685314
+131,participant_022,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,50,2025-08-24T11:18:36.685314,2025-08-24T11:18:36.685314
+132,participant_022,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,53,2025-08-24T11:18:36.685314,2025-08-24T11:18:36.685314
+133,participant_023,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Dr. Ayşe - Beginner Friendly,Completed,47,2025-10-27T11:18:36.685419,2025-10-27T11:18:36.685419
+134,participant_023,2,Voting System - Basit oylama mekanizması,Complementary,Öğretmen Zeynep - Practical,Completed,51,2025-10-27T11:18:36.685419,2025-10-27T11:18:36.685419
+135,participant_023,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,42,2025-10-27T11:18:36.685419,2025-10-27T11:18:36.685419
+136,participant_023,4,NFT Minting - ERC721 benzeri NFT,Complementary,Öğretmen Zeynep - Practical,Completed,38,2025-10-27T11:18:36.685419,2025-10-27T11:18:36.685419
+137,participant_023,5,Staking Contract - Token stake etme,Complementary,Öğretmen Zeynep - Practical,Completed,36,2025-10-27T11:18:36.685419,2025-10-27T11:18:36.685419
+138,participant_023,6,Auction System - Açık artırma sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,46,2025-10-27T11:18:36.685419,2025-10-27T11:18:36.685419
+139,participant_024,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Mentor Fatma - Supportive,Completed,41,2025-11-07T11:18:36.685526,2025-11-07T11:18:36.685526
+140,participant_024,2,Voting System - Basit oylama mekanizması,Similar,Öğretmen Zeynep - Practical,Completed,49,2025-11-07T11:18:36.685526,2025-11-07T11:18:36.685526
+141,participant_024,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Mentor Fatma - Supportive,Completed,49,2025-11-07T11:18:36.685526,2025-11-07T11:18:36.685526
+142,participant_024,4,NFT Minting - ERC721 benzeri NFT,Similar,Öğretmen Zeynep - Practical,Completed,51,2025-11-07T11:18:36.685526,2025-11-07T11:18:36.685526
+143,participant_024,5,Staking Contract - Token stake etme,Similar,Öğretmen Zeynep - Practical,Completed,54,2025-11-07T11:18:36.685526,2025-11-07T11:18:36.685526
+144,participant_024,6,Auction System - Açık artırma sistemi,Complementary,Mentor Fatma - Supportive,Completed,42,2025-11-07T11:18:36.685526,2025-11-07T11:18:36.685526
+145,participant_025,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Mentor Fatma - Supportive,Completed,35,2025-10-30T11:18:36.685635,2025-10-30T11:18:36.685635
+146,participant_025,2,Voting System - Basit oylama mekanizması,Complementary,Mentor Fatma - Supportive,Completed,43,2025-10-30T11:18:36.685635,2025-10-30T11:18:36.685635
+147,participant_025,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Öğretmen Zeynep - Practical,Completed,36,2025-10-30T11:18:36.685635,2025-10-30T11:18:36.685635
+148,participant_025,4,NFT Minting - ERC721 benzeri NFT,Similar,Öğretmen Zeynep - Practical,Completed,51,2025-10-30T11:18:36.685635,2025-10-30T11:18:36.685635
+149,participant_025,5,Staking Contract - Token stake etme,Complementary,Mentor Fatma - Supportive,Completed,46,2025-10-30T11:18:36.685635,2025-10-30T11:18:36.685635
+150,participant_025,6,Auction System - Açık artırma sistemi,Similar,Öğretmen Zeynep - Practical,Completed,45,2025-10-30T11:18:36.685635,2025-10-30T11:18:36.685635
+151,participant_026,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,55,2025-09-29T11:18:36.685741,2025-09-29T11:18:36.685741
+152,participant_026,2,Voting System - Basit oylama mekanizması,Similar,Deniz - DApp Architect,Completed,54,2025-09-29T11:18:36.685741,2025-09-29T11:18:36.685741
+153,participant_026,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,54,2025-09-29T11:18:36.685741,2025-09-29T11:18:36.685741
+154,participant_026,4,NFT Minting - ERC721 benzeri NFT,Similar,Deniz - DApp Architect,Completed,50,2025-09-29T11:18:36.685741,2025-09-29T11:18:36.685741
+155,participant_026,5,Staking Contract - Token stake etme,Similar,Deniz - DApp Architect,Completed,35,2025-09-29T11:18:36.685741,2025-09-29T11:18:36.685741
+156,participant_026,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,51,2025-09-29T11:18:36.685741,2025-09-29T11:18:36.685741
+157,participant_027,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Ali - Facilitator,Completed,47,2025-10-28T11:18:36.685847,2025-10-28T11:18:36.685847
+158,participant_027,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,41,2025-10-28T11:18:36.685847,2025-10-28T11:18:36.685847
+159,participant_027,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,49,2025-10-28T11:18:36.685847,2025-10-28T11:18:36.685847
+160,participant_027,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,51,2025-10-28T11:18:36.685847,2025-10-28T11:18:36.685847
+161,participant_027,5,Staking Contract - Token stake etme,Similar,Prof. Mehmet - Academic,Completed,49,2025-10-28T11:18:36.685847,2025-10-28T11:18:36.685847
+162,participant_027,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,37,2025-10-28T11:18:36.685847,2025-10-28T11:18:36.685847
+163,participant_028,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,47,2025-08-24T11:18:36.685955,2025-08-24T11:18:36.685955
+164,participant_028,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,42,2025-08-24T11:18:36.685955,2025-08-24T11:18:36.685955
+165,participant_028,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,54,2025-08-24T11:18:36.685955,2025-08-24T11:18:36.685955
+166,participant_028,4,NFT Minting - ERC721 benzeri NFT,Similar,Prof. Mehmet - Academic,Completed,41,2025-08-24T11:18:36.685955,2025-08-24T11:18:36.685955
+167,participant_028,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,45,2025-08-24T11:18:36.685955,2025-08-24T11:18:36.685955
+168,participant_028,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,54,2025-08-24T11:18:36.685955,2025-08-24T11:18:36.685955
+169,participant_029,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Dr. Ayşe - Beginner Friendly,Completed,47,2025-10-08T11:18:36.686061,2025-10-08T11:18:36.686061
+170,participant_029,2,Voting System - Basit oylama mekanizması,Similar,Dr. Ayşe - Beginner Friendly,Completed,40,2025-10-08T11:18:36.686061,2025-10-08T11:18:36.686061
+171,participant_029,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,47,2025-10-08T11:18:36.686061,2025-10-08T11:18:36.686061
+172,participant_029,4,NFT Minting - ERC721 benzeri NFT,Complementary,Öğretmen Zeynep - Practical,Completed,50,2025-10-08T11:18:36.686061,2025-10-08T11:18:36.686061
+173,participant_029,5,Staking Contract - Token stake etme,Similar,Dr. Ayşe - Beginner Friendly,Completed,37,2025-10-08T11:18:36.686061,2025-10-08T11:18:36.686061
+174,participant_029,6,Auction System - Açık artırma sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,54,2025-10-08T11:18:36.686061,2025-10-08T11:18:36.686061
+175,participant_030,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Dr. Ayşe - Beginner Friendly,Completed,41,2025-10-31T11:18:36.686172,2025-10-31T11:18:36.686172
+176,participant_030,2,Voting System - Basit oylama mekanizması,Similar,Dr. Ayşe - Beginner Friendly,Completed,51,2025-10-31T11:18:36.686172,2025-10-31T11:18:36.686172
+177,participant_030,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,41,2025-10-31T11:18:36.686172,2025-10-31T11:18:36.686172
+178,participant_030,4,NFT Minting - ERC721 benzeri NFT,Complementary,Öğretmen Zeynep - Practical,Completed,37,2025-10-31T11:18:36.686172,2025-10-31T11:18:36.686172
+179,participant_030,5,Staking Contract - Token stake etme,Complementary,Öğretmen Zeynep - Practical,Completed,49,2025-10-31T11:18:36.686172,2025-10-31T11:18:36.686172
+180,participant_030,6,Auction System - Açık artırma sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,49,2025-10-31T11:18:36.686172,2025-10-31T11:18:36.686172
+181,participant_031,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Mentor Fatma - Supportive,Completed,38,2025-09-26T11:18:36.686280,2025-09-26T11:18:36.686280
+182,participant_031,2,Voting System - Basit oylama mekanizması,Similar,Öğretmen Zeynep - Practical,Completed,54,2025-09-26T11:18:36.686280,2025-09-26T11:18:36.686280
+183,participant_031,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Mentor Fatma - Supportive,Completed,48,2025-09-26T11:18:36.686280,2025-09-26T11:18:36.686280
+184,participant_031,4,NFT Minting - ERC721 benzeri NFT,Complementary,Mentor Fatma - Supportive,Completed,53,2025-09-26T11:18:36.686280,2025-09-26T11:18:36.686280
+185,participant_031,5,Staking Contract - Token stake etme,Similar,Öğretmen Zeynep - Practical,Completed,46,2025-09-26T11:18:36.686280,2025-09-26T11:18:36.686280
+186,participant_031,6,Auction System - Açık artırma sistemi,Similar,Öğretmen Zeynep - Practical,Completed,43,2025-09-26T11:18:36.686280,2025-09-26T11:18:36.686280
+187,participant_032,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,48,2025-10-24T11:18:36.686386,2025-10-24T11:18:36.686386
+188,participant_032,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,51,2025-10-24T11:18:36.686386,2025-10-24T11:18:36.686386
+189,participant_032,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,45,2025-10-24T11:18:36.686386,2025-10-24T11:18:36.686386
+190,participant_032,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,41,2025-10-24T11:18:36.686386,2025-10-24T11:18:36.686386
+191,participant_032,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,39,2025-10-24T11:18:36.686386,2025-10-24T11:18:36.686386
+192,participant_032,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,53,2025-10-24T11:18:36.686386,2025-10-24T11:18:36.686386
+193,participant_033,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Dr. Ayşe - Beginner Friendly,Completed,53,2025-09-16T11:18:36.686490,2025-09-16T11:18:36.686490
+194,participant_033,2,Voting System - Basit oylama mekanizması,Similar,Dr. Ayşe - Beginner Friendly,Completed,53,2025-09-16T11:18:36.686490,2025-09-16T11:18:36.686490
+195,participant_033,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,53,2025-09-16T11:18:36.686490,2025-09-16T11:18:36.686490
+196,participant_033,4,NFT Minting - ERC721 benzeri NFT,Complementary,Öğretmen Zeynep - Practical,Completed,55,2025-09-16T11:18:36.686490,2025-09-16T11:18:36.686490
+197,participant_033,5,Staking Contract - Token stake etme,Complementary,Öğretmen Zeynep - Practical,Completed,54,2025-09-16T11:18:36.686490,2025-09-16T11:18:36.686490
+198,participant_033,6,Auction System - Açık artırma sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,36,2025-09-16T11:18:36.686490,2025-09-16T11:18:36.686490
+199,participant_034,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Deniz - DApp Architect,Completed,40,2025-11-09T11:18:36.686597,2025-11-09T11:18:36.686597
+200,participant_034,2,Voting System - Basit oylama mekanizması,Similar,Elif - Security Aware,Completed,39,2025-11-09T11:18:36.686597,2025-11-09T11:18:36.686597
+201,participant_034,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Deniz - DApp Architect,Completed,42,2025-11-09T11:18:36.686597,2025-11-09T11:18:36.686597
+202,participant_034,4,NFT Minting - ERC721 benzeri NFT,Similar,Elif - Security Aware,Completed,39,2025-11-09T11:18:36.686597,2025-11-09T11:18:36.686597
+203,participant_034,5,Staking Contract - Token stake etme,Similar,Elif - Security Aware,Completed,52,2025-11-09T11:18:36.686597,2025-11-09T11:18:36.686597
+204,participant_034,6,Auction System - Açık artırma sistemi,Complementary,Deniz - DApp Architect,Completed,53,2025-11-09T11:18:36.686597,2025-11-09T11:18:36.686597
+205,participant_035,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,44,2025-09-19T11:18:36.686703,2025-09-19T11:18:36.686703
+206,participant_035,2,Voting System - Basit oylama mekanizması,Complementary,Ali - Facilitator,Completed,49,2025-09-19T11:18:36.686703,2025-09-19T11:18:36.686703
+207,participant_035,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,46,2025-09-19T11:18:36.686703,2025-09-19T11:18:36.686703
+208,participant_035,4,NFT Minting - ERC721 benzeri NFT,Similar,Prof. Mehmet - Academic,Completed,47,2025-09-19T11:18:36.686703,2025-09-19T11:18:36.686703
+209,participant_035,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,40,2025-09-19T11:18:36.686703,2025-09-19T11:18:36.686703
+210,participant_035,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,36,2025-09-19T11:18:36.686703,2025-09-19T11:18:36.686703
+211,participant_036,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Mentor Fatma - Supportive,Completed,46,2025-09-17T11:18:36.686805,2025-09-17T11:18:36.686805
+212,participant_036,2,Voting System - Basit oylama mekanizması,Complementary,Mentor Fatma - Supportive,Completed,40,2025-09-17T11:18:36.686805,2025-09-17T11:18:36.686805
+213,participant_036,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Öğretmen Zeynep - Practical,Completed,39,2025-09-17T11:18:36.686805,2025-09-17T11:18:36.686805
+214,participant_036,4,NFT Minting - ERC721 benzeri NFT,Similar,Öğretmen Zeynep - Practical,Completed,46,2025-09-17T11:18:36.686805,2025-09-17T11:18:36.686805
+215,participant_036,5,Staking Contract - Token stake etme,Similar,Öğretmen Zeynep - Practical,Completed,42,2025-09-17T11:18:36.686805,2025-09-17T11:18:36.686805
+216,participant_036,6,Auction System - Açık artırma sistemi,Complementary,Mentor Fatma - Supportive,Completed,46,2025-09-17T11:18:36.686805,2025-09-17T11:18:36.686805
+217,participant_037,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,50,2025-10-21T11:18:36.686912,2025-10-21T11:18:36.686912
+218,participant_037,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,37,2025-10-21T11:18:36.686912,2025-10-21T11:18:36.686912
+219,participant_037,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Can - Gas Optimizer,Completed,43,2025-10-21T11:18:36.686912,2025-10-21T11:18:36.686912
+220,participant_037,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,54,2025-10-21T11:18:36.686912,2025-10-21T11:18:36.686912
+221,participant_037,5,Staking Contract - Token stake etme,Similar,Can - Gas Optimizer,Completed,42,2025-10-21T11:18:36.686912,2025-10-21T11:18:36.686912
+222,participant_037,6,Auction System - Açık artırma sistemi,Similar,Can - Gas Optimizer,Completed,40,2025-10-21T11:18:36.686912,2025-10-21T11:18:36.686912
+223,participant_038,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Öğretmen Zeynep - Practical,Completed,40,2025-08-16T11:18:36.687017,2025-08-16T11:18:36.687017
+224,participant_038,2,Voting System - Basit oylama mekanizması,Complementary,Öğretmen Zeynep - Practical,Completed,53,2025-08-16T11:18:36.687017,2025-08-16T11:18:36.687017
+225,participant_038,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,52,2025-08-16T11:18:36.687017,2025-08-16T11:18:36.687017
+226,participant_038,4,NFT Minting - ERC721 benzeri NFT,Similar,Dr. Ayşe - Beginner Friendly,Completed,37,2025-08-16T11:18:36.687017,2025-08-16T11:18:36.687017
+227,participant_038,5,Staking Contract - Token stake etme,Similar,Dr. Ayşe - Beginner Friendly,Completed,48,2025-08-16T11:18:36.687017,2025-08-16T11:18:36.687017
+228,participant_038,6,Auction System - Açık artırma sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,44,2025-08-16T11:18:36.687017,2025-08-16T11:18:36.687017
+229,participant_039,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Elif - Security Aware,Completed,46,2025-10-14T11:18:36.687125,2025-10-14T11:18:36.687125
+230,participant_039,2,Voting System - Basit oylama mekanizması,Complementary,Deniz - DApp Architect,Completed,49,2025-10-14T11:18:36.687125,2025-10-14T11:18:36.687125
+231,participant_039,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Deniz - DApp Architect,Completed,54,2025-10-14T11:18:36.687125,2025-10-14T11:18:36.687125
+232,participant_039,4,NFT Minting - ERC721 benzeri NFT,Similar,Elif - Security Aware,Completed,42,2025-10-14T11:18:36.687125,2025-10-14T11:18:36.687125
+233,participant_039,5,Staking Contract - Token stake etme,Similar,Elif - Security Aware,Completed,45,2025-10-14T11:18:36.687125,2025-10-14T11:18:36.687125
+234,participant_039,6,Auction System - Açık artırma sistemi,Complementary,Deniz - DApp Architect,Completed,45,2025-10-14T11:18:36.687125,2025-10-14T11:18:36.687125
+235,participant_040,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Ali - Facilitator,Completed,40,2025-08-15T11:18:36.687232,2025-08-15T11:18:36.687232
+236,participant_040,2,Voting System - Basit oylama mekanizması,Complementary,Ali - Facilitator,Completed,51,2025-08-15T11:18:36.687232,2025-08-15T11:18:36.687232
+237,participant_040,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,36,2025-08-15T11:18:36.687232,2025-08-15T11:18:36.687232
+238,participant_040,4,NFT Minting - ERC721 benzeri NFT,Similar,Prof. Mehmet - Academic,Completed,35,2025-08-15T11:18:36.687232,2025-08-15T11:18:36.687232
+239,participant_040,5,Staking Contract - Token stake etme,Similar,Prof. Mehmet - Academic,Completed,52,2025-08-15T11:18:36.687232,2025-08-15T11:18:36.687232
+240,participant_040,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,45,2025-08-15T11:18:36.687232,2025-08-15T11:18:36.687232
+241,participant_041,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Ali - Facilitator,Completed,42,2025-11-01T11:18:36.687337,2025-11-01T11:18:36.687337
+242,participant_041,2,Voting System - Basit oylama mekanizması,Complementary,Ali - Facilitator,Completed,45,2025-11-01T11:18:36.687337,2025-11-01T11:18:36.687337
+243,participant_041,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,42,2025-11-01T11:18:36.687337,2025-11-01T11:18:36.687337
+244,participant_041,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,44,2025-11-01T11:18:36.687337,2025-11-01T11:18:36.687337
+245,participant_041,5,Staking Contract - Token stake etme,Similar,Prof. Mehmet - Academic,Completed,51,2025-11-01T11:18:36.687337,2025-11-01T11:18:36.687337
+246,participant_041,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,51,2025-11-01T11:18:36.687337,2025-11-01T11:18:36.687337
+247,participant_042,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Can - Gas Optimizer,Completed,44,2025-09-18T11:18:36.687451,2025-09-18T11:18:36.687451
+248,participant_042,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,46,2025-09-18T11:18:36.687451,2025-09-18T11:18:36.687451
+249,participant_042,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Can - Gas Optimizer,Completed,47,2025-09-18T11:18:36.687451,2025-09-18T11:18:36.687451
+250,participant_042,4,NFT Minting - ERC721 benzeri NFT,Similar,Can - Gas Optimizer,Completed,38,2025-09-18T11:18:36.687451,2025-09-18T11:18:36.687451
+251,participant_042,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,45,2025-09-18T11:18:36.687451,2025-09-18T11:18:36.687451
+252,participant_042,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,39,2025-09-18T11:18:36.687451,2025-09-18T11:18:36.687451
+253,participant_043,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Ali - Facilitator,Completed,39,2025-10-02T11:18:36.687557,2025-10-02T11:18:36.687557
+254,participant_043,2,Voting System - Basit oylama mekanizması,Similar,Ali - Facilitator,Completed,54,2025-10-02T11:18:36.687557,2025-10-02T11:18:36.687557
+255,participant_043,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Mentor Fatma - Supportive,Completed,38,2025-10-02T11:18:36.687557,2025-10-02T11:18:36.687557
+256,participant_043,4,NFT Minting - ERC721 benzeri NFT,Complementary,Mentor Fatma - Supportive,Completed,37,2025-10-02T11:18:36.687557,2025-10-02T11:18:36.687557
+257,participant_043,5,Staking Contract - Token stake etme,Similar,Ali - Facilitator,Completed,54,2025-10-02T11:18:36.687557,2025-10-02T11:18:36.687557
+258,participant_043,6,Auction System - Açık artırma sistemi,Complementary,Mentor Fatma - Supportive,Completed,37,2025-10-02T11:18:36.687557,2025-10-02T11:18:36.687557
+259,participant_044,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Elif - Security Aware,Completed,49,2025-09-23T11:18:36.687664,2025-09-23T11:18:36.687664
+260,participant_044,2,Voting System - Basit oylama mekanizması,Complementary,Deniz - DApp Architect,Completed,50,2025-09-23T11:18:36.687664,2025-09-23T11:18:36.687664
+261,participant_044,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Elif - Security Aware,Completed,52,2025-09-23T11:18:36.687664,2025-09-23T11:18:36.687664
+262,participant_044,4,NFT Minting - ERC721 benzeri NFT,Complementary,Deniz - DApp Architect,Completed,48,2025-09-23T11:18:36.687664,2025-09-23T11:18:36.687664
+263,participant_044,5,Staking Contract - Token stake etme,Similar,Elif - Security Aware,Completed,50,2025-09-23T11:18:36.687664,2025-09-23T11:18:36.687664
+264,participant_044,6,Auction System - Açık artırma sistemi,Complementary,Deniz - DApp Architect,Completed,51,2025-09-23T11:18:36.687664,2025-09-23T11:18:36.687664
+265,participant_045,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Ali - Facilitator,Completed,43,2025-11-04T11:18:36.687773,2025-11-04T11:18:36.687773
+266,participant_045,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,38,2025-11-04T11:18:36.687773,2025-11-04T11:18:36.687773
+267,participant_045,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,47,2025-11-04T11:18:36.687773,2025-11-04T11:18:36.687773
+268,participant_045,4,NFT Minting - ERC721 benzeri NFT,Similar,Prof. Mehmet - Academic,Completed,43,2025-11-04T11:18:36.687773,2025-11-04T11:18:36.687773
+269,participant_045,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,55,2025-11-04T11:18:36.687773,2025-11-04T11:18:36.687773
+270,participant_045,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,54,2025-11-04T11:18:36.687773,2025-11-04T11:18:36.687773
+271,participant_046,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Öğretmen Zeynep - Practical,Completed,35,2025-10-27T11:18:36.687878,2025-10-27T11:18:36.687878
+272,participant_046,2,Voting System - Basit oylama mekanizması,Similar,Dr. Ayşe - Beginner Friendly,Completed,54,2025-10-27T11:18:36.687878,2025-10-27T11:18:36.687878
+273,participant_046,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,39,2025-10-27T11:18:36.687878,2025-10-27T11:18:36.687878
+274,participant_046,4,NFT Minting - ERC721 benzeri NFT,Similar,Dr. Ayşe - Beginner Friendly,Completed,42,2025-10-27T11:18:36.687878,2025-10-27T11:18:36.687878
+275,participant_046,5,Staking Contract - Token stake etme,Similar,Dr. Ayşe - Beginner Friendly,Completed,50,2025-10-27T11:18:36.687878,2025-10-27T11:18:36.687878
+276,participant_046,6,Auction System - Açık artırma sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,40,2025-10-27T11:18:36.687878,2025-10-27T11:18:36.687878
+277,participant_047,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,48,2025-10-16T11:18:36.687982,2025-10-16T11:18:36.687982
+278,participant_047,2,Voting System - Basit oylama mekanizması,Complementary,Ali - Facilitator,Completed,54,2025-10-16T11:18:36.687982,2025-10-16T11:18:36.687982
+279,participant_047,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,49,2025-10-16T11:18:36.687982,2025-10-16T11:18:36.687982
+280,participant_047,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,42,2025-10-16T11:18:36.687982,2025-10-16T11:18:36.687982
+281,participant_047,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,36,2025-10-16T11:18:36.687982,2025-10-16T11:18:36.687982
+282,participant_047,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,48,2025-10-16T11:18:36.687982,2025-10-16T11:18:36.687982
+283,participant_048,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,52,2025-09-07T11:18:36.688092,2025-09-07T11:18:36.688092
+284,participant_048,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,44,2025-09-07T11:18:36.688092,2025-09-07T11:18:36.688092
+285,participant_048,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,45,2025-09-07T11:18:36.688092,2025-09-07T11:18:36.688092
+286,participant_048,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,35,2025-09-07T11:18:36.688092,2025-09-07T11:18:36.688092
+287,participant_048,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,44,2025-09-07T11:18:36.688092,2025-09-07T11:18:36.688092
+288,participant_048,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,40,2025-09-07T11:18:36.688092,2025-09-07T11:18:36.688092
+289,participant_049,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,55,2025-10-27T11:18:36.688198,2025-10-27T11:18:36.688198
+290,participant_049,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,42,2025-10-27T11:18:36.688198,2025-10-27T11:18:36.688198
+291,participant_049,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,35,2025-10-27T11:18:36.688198,2025-10-27T11:18:36.688198
+292,participant_049,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,36,2025-10-27T11:18:36.688198,2025-10-27T11:18:36.688198
+293,participant_049,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,53,2025-10-27T11:18:36.688198,2025-10-27T11:18:36.688198
+294,participant_049,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,49,2025-10-27T11:18:36.688198,2025-10-27T11:18:36.688198
+295,participant_050,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Elif - Security Aware,Completed,38,2025-09-19T11:18:36.688303,2025-09-19T11:18:36.688303
+296,participant_050,2,Voting System - Basit oylama mekanizması,Complementary,Deniz - DApp Architect,Completed,38,2025-09-19T11:18:36.688303,2025-09-19T11:18:36.688303
+297,participant_050,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Deniz - DApp Architect,Completed,42,2025-09-19T11:18:36.688303,2025-09-19T11:18:36.688303
+298,participant_050,4,NFT Minting - ERC721 benzeri NFT,Similar,Elif - Security Aware,Completed,42,2025-09-19T11:18:36.688303,2025-09-19T11:18:36.688303
+299,participant_050,5,Staking Contract - Token stake etme,Complementary,Deniz - DApp Architect,Completed,44,2025-09-19T11:18:36.688303,2025-09-19T11:18:36.688303
+300,participant_050,6,Auction System - Açık artırma sistemi,Similar,Elif - Security Aware,Completed,37,2025-09-19T11:18:36.688303,2025-09-19T11:18:36.688303
+301,participant_051,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,37,2025-09-11T11:18:36.688409,2025-09-11T11:18:36.688409
+302,participant_051,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,41,2025-09-11T11:18:36.688409,2025-09-11T11:18:36.688409
+303,participant_051,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,42,2025-09-11T11:18:36.688409,2025-09-11T11:18:36.688409
+304,participant_051,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,53,2025-09-11T11:18:36.688409,2025-09-11T11:18:36.688409
+305,participant_051,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,37,2025-09-11T11:18:36.688409,2025-09-11T11:18:36.688409
+306,participant_051,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,37,2025-09-11T11:18:36.688409,2025-09-11T11:18:36.688409
+307,participant_052,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Deniz - DApp Architect,Completed,51,2025-09-16T11:18:36.688514,2025-09-16T11:18:36.688514
+308,participant_052,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,36,2025-09-16T11:18:36.688514,2025-09-16T11:18:36.688514
+309,participant_052,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Deniz - DApp Architect,Completed,42,2025-09-16T11:18:36.688514,2025-09-16T11:18:36.688514
+310,participant_052,4,NFT Minting - ERC721 benzeri NFT,Similar,Deniz - DApp Architect,Completed,35,2025-09-16T11:18:36.688514,2025-09-16T11:18:36.688514
+311,participant_052,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,45,2025-09-16T11:18:36.688514,2025-09-16T11:18:36.688514
+312,participant_052,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,54,2025-09-16T11:18:36.688514,2025-09-16T11:18:36.688514
+313,participant_053,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Ali - Facilitator,Completed,43,2025-09-01T11:18:36.688623,2025-09-01T11:18:36.688623
+314,participant_053,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,50,2025-09-01T11:18:36.688623,2025-09-01T11:18:36.688623
+315,participant_053,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,45,2025-09-01T11:18:36.688623,2025-09-01T11:18:36.688623
+316,participant_053,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,55,2025-09-01T11:18:36.688623,2025-09-01T11:18:36.688623
+317,participant_053,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,54,2025-09-01T11:18:36.688623,2025-09-01T11:18:36.688623
+318,participant_053,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,48,2025-09-01T11:18:36.688623,2025-09-01T11:18:36.688623
+319,participant_054,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,45,2025-09-07T11:18:36.688731,2025-09-07T11:18:36.688731
+320,participant_054,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,52,2025-09-07T11:18:36.688731,2025-09-07T11:18:36.688731
+321,participant_054,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Deniz - DApp Architect,Completed,45,2025-09-07T11:18:36.688731,2025-09-07T11:18:36.688731
+322,participant_054,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,36,2025-09-07T11:18:36.688731,2025-09-07T11:18:36.688731
+323,participant_054,5,Staking Contract - Token stake etme,Similar,Deniz - DApp Architect,Completed,47,2025-09-07T11:18:36.688731,2025-09-07T11:18:36.688731
+324,participant_054,6,Auction System - Açık artırma sistemi,Similar,Deniz - DApp Architect,Completed,55,2025-09-07T11:18:36.688731,2025-09-07T11:18:36.688731
+325,participant_055,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Ali - Facilitator,Completed,35,2025-10-06T11:18:36.688838,2025-10-06T11:18:36.688838
+326,participant_055,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,46,2025-10-06T11:18:36.688838,2025-10-06T11:18:36.688838
+327,participant_055,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,36,2025-10-06T11:18:36.688838,2025-10-06T11:18:36.688838
+328,participant_055,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,36,2025-10-06T11:18:36.688838,2025-10-06T11:18:36.688838
+329,participant_055,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,40,2025-10-06T11:18:36.688838,2025-10-06T11:18:36.688838
+330,participant_055,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,43,2025-10-06T11:18:36.688838,2025-10-06T11:18:36.688838
+331,participant_056,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Can - Gas Optimizer,Completed,55,2025-09-04T11:18:36.689005,2025-09-04T11:18:36.689005
+332,participant_056,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,53,2025-09-04T11:18:36.689005,2025-09-04T11:18:36.689005
+333,participant_056,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,39,2025-09-04T11:18:36.689005,2025-09-04T11:18:36.689005
+334,participant_056,4,NFT Minting - ERC721 benzeri NFT,Similar,Can - Gas Optimizer,Completed,40,2025-09-04T11:18:36.689005,2025-09-04T11:18:36.689005
+335,participant_056,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,36,2025-09-04T11:18:36.689005,2025-09-04T11:18:36.689005
+336,participant_056,6,Auction System - Açık artırma sistemi,Similar,Can - Gas Optimizer,Completed,41,2025-09-04T11:18:36.689005,2025-09-04T11:18:36.689005
+337,participant_057,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,36,2025-09-23T11:18:36.689140,2025-09-23T11:18:36.689140
+338,participant_057,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,44,2025-09-23T11:18:36.689140,2025-09-23T11:18:36.689140
+339,participant_057,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,52,2025-09-23T11:18:36.689140,2025-09-23T11:18:36.689140
+340,participant_057,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,48,2025-09-23T11:18:36.689140,2025-09-23T11:18:36.689140
+341,participant_057,5,Staking Contract - Token stake etme,Similar,Prof. Mehmet - Academic,Completed,38,2025-09-23T11:18:36.689140,2025-09-23T11:18:36.689140
+342,participant_057,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,40,2025-09-23T11:18:36.689140,2025-09-23T11:18:36.689140
+343,participant_058,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Deniz - DApp Architect,Completed,54,2025-10-30T11:18:36.689269,2025-10-30T11:18:36.689269
+344,participant_058,2,Voting System - Basit oylama mekanizması,Complementary,Deniz - DApp Architect,Completed,42,2025-10-30T11:18:36.689269,2025-10-30T11:18:36.689269
+345,participant_058,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Elif - Security Aware,Completed,37,2025-10-30T11:18:36.689269,2025-10-30T11:18:36.689269
+346,participant_058,4,NFT Minting - ERC721 benzeri NFT,Similar,Elif - Security Aware,Completed,47,2025-10-30T11:18:36.689269,2025-10-30T11:18:36.689269
+347,participant_058,5,Staking Contract - Token stake etme,Similar,Elif - Security Aware,Completed,48,2025-10-30T11:18:36.689269,2025-10-30T11:18:36.689269
+348,participant_058,6,Auction System - Açık artırma sistemi,Complementary,Deniz - DApp Architect,Completed,45,2025-10-30T11:18:36.689269,2025-10-30T11:18:36.689269
+349,participant_059,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,42,2025-10-26T11:18:36.689391,2025-10-26T11:18:36.689391
+350,participant_059,2,Voting System - Basit oylama mekanizması,Complementary,Ali - Facilitator,Completed,50,2025-10-26T11:18:36.689391,2025-10-26T11:18:36.689391
+351,participant_059,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,51,2025-10-26T11:18:36.689391,2025-10-26T11:18:36.689391
+352,participant_059,4,NFT Minting - ERC721 benzeri NFT,Similar,Prof. Mehmet - Academic,Completed,36,2025-10-26T11:18:36.689391,2025-10-26T11:18:36.689391
+353,participant_059,5,Staking Contract - Token stake etme,Similar,Prof. Mehmet - Academic,Completed,41,2025-10-26T11:18:36.689391,2025-10-26T11:18:36.689391
+354,participant_059,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,43,2025-10-26T11:18:36.689391,2025-10-26T11:18:36.689391
+355,participant_060,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Burak - Blockchain Specialist,Completed,46,2025-09-17T11:18:36.689513,2025-09-17T11:18:36.689513
+356,participant_060,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,54,2025-09-17T11:18:36.689513,2025-09-17T11:18:36.689513
+357,participant_060,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,39,2025-09-17T11:18:36.689513,2025-09-17T11:18:36.689513
+358,participant_060,4,NFT Minting - ERC721 benzeri NFT,Similar,Burak - Blockchain Specialist,Completed,48,2025-09-17T11:18:36.689513,2025-09-17T11:18:36.689513
+359,participant_060,5,Staking Contract - Token stake etme,Similar,Burak - Blockchain Specialist,Completed,55,2025-09-17T11:18:36.689513,2025-09-17T11:18:36.689513
+360,participant_060,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,41,2025-09-17T11:18:36.689513,2025-09-17T11:18:36.689513
+361,participant_061,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,47,2025-09-09T11:18:36.689636,2025-09-09T11:18:36.689636
+362,participant_061,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,46,2025-09-09T11:18:36.689636,2025-09-09T11:18:36.689636
+363,participant_061,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Burak - Blockchain Specialist,Completed,35,2025-09-09T11:18:36.689636,2025-09-09T11:18:36.689636
+364,participant_061,4,NFT Minting - ERC721 benzeri NFT,Similar,Burak - Blockchain Specialist,Completed,47,2025-09-09T11:18:36.689636,2025-09-09T11:18:36.689636
+365,participant_061,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,47,2025-09-09T11:18:36.689636,2025-09-09T11:18:36.689636
+366,participant_061,6,Auction System - Açık artırma sistemi,Similar,Burak - Blockchain Specialist,Completed,42,2025-09-09T11:18:36.689636,2025-09-09T11:18:36.689636
+367,participant_062,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Burak - Blockchain Specialist,Completed,35,2025-09-04T11:18:36.689758,2025-09-04T11:18:36.689758
+368,participant_062,2,Voting System - Basit oylama mekanizması,Similar,Burak - Blockchain Specialist,Completed,41,2025-09-04T11:18:36.689758,2025-09-04T11:18:36.689758
+369,participant_062,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Burak - Blockchain Specialist,Completed,37,2025-09-04T11:18:36.689758,2025-09-04T11:18:36.689758
+370,participant_062,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,52,2025-09-04T11:18:36.689758,2025-09-04T11:18:36.689758
+371,participant_062,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,44,2025-09-04T11:18:36.689758,2025-09-04T11:18:36.689758
+372,participant_062,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,55,2025-09-04T11:18:36.689758,2025-09-04T11:18:36.689758
+373,participant_063,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Ali - Facilitator,Completed,42,2025-08-31T11:18:36.689877,2025-08-31T11:18:36.689877
+374,participant_063,2,Voting System - Basit oylama mekanizması,Complementary,Ali - Facilitator,Completed,52,2025-08-31T11:18:36.689877,2025-08-31T11:18:36.689877
+375,participant_063,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,54,2025-08-31T11:18:36.689877,2025-08-31T11:18:36.689877
+376,participant_063,4,NFT Minting - ERC721 benzeri NFT,Similar,Prof. Mehmet - Academic,Completed,40,2025-08-31T11:18:36.689877,2025-08-31T11:18:36.689877
+377,participant_063,5,Staking Contract - Token stake etme,Similar,Prof. Mehmet - Academic,Completed,51,2025-08-31T11:18:36.689877,2025-08-31T11:18:36.689877
+378,participant_063,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,51,2025-08-31T11:18:36.689877,2025-08-31T11:18:36.689877
+379,participant_064,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Dr. Ayşe - Beginner Friendly,Completed,50,2025-10-03T11:18:36.689997,2025-10-03T11:18:36.689997
+380,participant_064,2,Voting System - Basit oylama mekanizması,Similar,Dr. Ayşe - Beginner Friendly,Completed,36,2025-10-03T11:18:36.689997,2025-10-03T11:18:36.689997
+381,participant_064,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,41,2025-10-03T11:18:36.689997,2025-10-03T11:18:36.689997
+382,participant_064,4,NFT Minting - ERC721 benzeri NFT,Complementary,Öğretmen Zeynep - Practical,Completed,44,2025-10-03T11:18:36.689997,2025-10-03T11:18:36.689997
+383,participant_064,5,Staking Contract - Token stake etme,Complementary,Öğretmen Zeynep - Practical,Completed,41,2025-10-03T11:18:36.689997,2025-10-03T11:18:36.689997
+384,participant_064,6,Auction System - Açık artırma sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,37,2025-10-03T11:18:36.689997,2025-10-03T11:18:36.689997
+385,participant_065,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,52,2025-11-07T11:18:36.690121,2025-11-07T11:18:36.690121
+386,participant_065,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,41,2025-11-07T11:18:36.690121,2025-11-07T11:18:36.690121
+387,participant_065,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Burak - Blockchain Specialist,Completed,45,2025-11-07T11:18:36.690121,2025-11-07T11:18:36.690121
+388,participant_065,4,NFT Minting - ERC721 benzeri NFT,Similar,Burak - Blockchain Specialist,Completed,38,2025-11-07T11:18:36.690121,2025-11-07T11:18:36.690121
+389,participant_065,5,Staking Contract - Token stake etme,Similar,Burak - Blockchain Specialist,Completed,37,2025-11-07T11:18:36.690121,2025-11-07T11:18:36.690121
+390,participant_065,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,48,2025-11-07T11:18:36.690121,2025-11-07T11:18:36.690121
+391,participant_066,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Ali - Facilitator,Completed,53,2025-10-31T11:18:36.690241,2025-10-31T11:18:36.690241
+392,participant_066,2,Voting System - Basit oylama mekanizması,Complementary,Mentor Fatma - Supportive,Completed,50,2025-10-31T11:18:36.690241,2025-10-31T11:18:36.690241
+393,participant_066,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Mentor Fatma - Supportive,Completed,55,2025-10-31T11:18:36.690241,2025-10-31T11:18:36.690241
+394,participant_066,4,NFT Minting - ERC721 benzeri NFT,Similar,Ali - Facilitator,Completed,42,2025-10-31T11:18:36.690241,2025-10-31T11:18:36.690241
+395,participant_066,5,Staking Contract - Token stake etme,Complementary,Mentor Fatma - Supportive,Completed,41,2025-10-31T11:18:36.690241,2025-10-31T11:18:36.690241
+396,participant_066,6,Auction System - Açık artırma sistemi,Similar,Ali - Facilitator,Completed,54,2025-10-31T11:18:36.690241,2025-10-31T11:18:36.690241
+397,participant_067,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,36,2025-09-13T11:18:36.690353,2025-09-13T11:18:36.690353
+398,participant_067,2,Voting System - Basit oylama mekanizması,Similar,Deniz - DApp Architect,Completed,35,2025-09-13T11:18:36.690353,2025-09-13T11:18:36.690353
+399,participant_067,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,55,2025-09-13T11:18:36.690353,2025-09-13T11:18:36.690353
+400,participant_067,4,NFT Minting - ERC721 benzeri NFT,Similar,Deniz - DApp Architect,Completed,55,2025-09-13T11:18:36.690353,2025-09-13T11:18:36.690353
+401,participant_067,5,Staking Contract - Token stake etme,Similar,Deniz - DApp Architect,Completed,52,2025-09-13T11:18:36.690353,2025-09-13T11:18:36.690353
+402,participant_067,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,47,2025-09-13T11:18:36.690353,2025-09-13T11:18:36.690353
+403,participant_068,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Deniz - DApp Architect,Completed,43,2025-08-23T11:18:36.690461,2025-08-23T11:18:36.690461
+404,participant_068,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,49,2025-08-23T11:18:36.690461,2025-08-23T11:18:36.690461
+405,participant_068,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Deniz - DApp Architect,Completed,42,2025-08-23T11:18:36.690461,2025-08-23T11:18:36.690461
+406,participant_068,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,39,2025-08-23T11:18:36.690461,2025-08-23T11:18:36.690461
+407,participant_068,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,43,2025-08-23T11:18:36.690461,2025-08-23T11:18:36.690461
+408,participant_068,6,Auction System - Açık artırma sistemi,Similar,Deniz - DApp Architect,Completed,35,2025-08-23T11:18:36.690461,2025-08-23T11:18:36.690461
+409,participant_069,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Öğretmen Zeynep - Practical,Completed,42,2025-10-29T11:18:36.690566,2025-10-29T11:18:36.690566
+410,participant_069,2,Voting System - Basit oylama mekanizması,Similar,Dr. Ayşe - Beginner Friendly,Completed,48,2025-10-29T11:18:36.690566,2025-10-29T11:18:36.690566
+411,participant_069,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,55,2025-10-29T11:18:36.690566,2025-10-29T11:18:36.690566
+412,participant_069,4,NFT Minting - ERC721 benzeri NFT,Complementary,Öğretmen Zeynep - Practical,Completed,42,2025-10-29T11:18:36.690566,2025-10-29T11:18:36.690566
+413,participant_069,5,Staking Contract - Token stake etme,Similar,Dr. Ayşe - Beginner Friendly,Completed,50,2025-10-29T11:18:36.690566,2025-10-29T11:18:36.690566
+414,participant_069,6,Auction System - Açık artırma sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,48,2025-10-29T11:18:36.690566,2025-10-29T11:18:36.690566
+415,participant_070,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Deniz - DApp Architect,Completed,44,2025-09-18T11:18:36.690672,2025-09-18T11:18:36.690672
+416,participant_070,2,Voting System - Basit oylama mekanizması,Similar,Deniz - DApp Architect,Completed,52,2025-09-18T11:18:36.690672,2025-09-18T11:18:36.690672
+417,participant_070,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,41,2025-09-18T11:18:36.690672,2025-09-18T11:18:36.690672
+418,participant_070,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,50,2025-09-18T11:18:36.690672,2025-09-18T11:18:36.690672
+419,participant_070,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,45,2025-09-18T11:18:36.690672,2025-09-18T11:18:36.690672
+420,participant_070,6,Auction System - Açık artırma sistemi,Similar,Deniz - DApp Architect,Completed,46,2025-09-18T11:18:36.690672,2025-09-18T11:18:36.690672
+421,participant_071,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Dr. Ayşe - Beginner Friendly,Completed,40,2025-08-18T11:18:36.690779,2025-08-18T11:18:36.690779
+422,participant_071,2,Voting System - Basit oylama mekanizması,Complementary,Öğretmen Zeynep - Practical,Completed,54,2025-08-18T11:18:36.690779,2025-08-18T11:18:36.690779
+423,participant_071,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,44,2025-08-18T11:18:36.690779,2025-08-18T11:18:36.690779
+424,participant_071,4,NFT Minting - ERC721 benzeri NFT,Similar,Dr. Ayşe - Beginner Friendly,Completed,55,2025-08-18T11:18:36.690779,2025-08-18T11:18:36.690779
+425,participant_071,5,Staking Contract - Token stake etme,Similar,Dr. Ayşe - Beginner Friendly,Completed,45,2025-08-18T11:18:36.690779,2025-08-18T11:18:36.690779
+426,participant_071,6,Auction System - Açık artırma sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,41,2025-08-18T11:18:36.690779,2025-08-18T11:18:36.690779
+427,participant_072,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Burak - Blockchain Specialist,Completed,42,2025-08-26T11:18:36.690885,2025-08-26T11:18:36.690885
+428,participant_072,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,47,2025-08-26T11:18:36.690885,2025-08-26T11:18:36.690885
+429,participant_072,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,40,2025-08-26T11:18:36.690885,2025-08-26T11:18:36.690885
+430,participant_072,4,NFT Minting - ERC721 benzeri NFT,Similar,Burak - Blockchain Specialist,Completed,46,2025-08-26T11:18:36.690885,2025-08-26T11:18:36.690885
+431,participant_072,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,41,2025-08-26T11:18:36.690885,2025-08-26T11:18:36.690885
+432,participant_072,6,Auction System - Açık artırma sistemi,Similar,Burak - Blockchain Specialist,Completed,43,2025-08-26T11:18:36.690885,2025-08-26T11:18:36.690885
+433,participant_073,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Deniz - DApp Architect,Completed,55,2025-10-11T11:18:36.690993,2025-10-11T11:18:36.690993
+434,participant_073,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,42,2025-10-11T11:18:36.690993,2025-10-11T11:18:36.690993
+435,participant_073,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,38,2025-10-11T11:18:36.690993,2025-10-11T11:18:36.690993
+436,participant_073,4,NFT Minting - ERC721 benzeri NFT,Similar,Deniz - DApp Architect,Completed,35,2025-10-11T11:18:36.690993,2025-10-11T11:18:36.690993
+437,participant_073,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,49,2025-10-11T11:18:36.690993,2025-10-11T11:18:36.690993
+438,participant_073,6,Auction System - Açık artırma sistemi,Similar,Deniz - DApp Architect,Completed,44,2025-10-11T11:18:36.690993,2025-10-11T11:18:36.690993
+439,participant_074,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,43,2025-10-27T11:18:36.691099,2025-10-27T11:18:36.691099
+440,participant_074,2,Voting System - Basit oylama mekanizması,Similar,Burak - Blockchain Specialist,Completed,46,2025-10-27T11:18:36.691099,2025-10-27T11:18:36.691099
+441,participant_074,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Burak - Blockchain Specialist,Completed,47,2025-10-27T11:18:36.691099,2025-10-27T11:18:36.691099
+442,participant_074,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,50,2025-10-27T11:18:36.691099,2025-10-27T11:18:36.691099
+443,participant_074,5,Staking Contract - Token stake etme,Similar,Burak - Blockchain Specialist,Completed,40,2025-10-27T11:18:36.691099,2025-10-27T11:18:36.691099
+444,participant_074,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,55,2025-10-27T11:18:36.691099,2025-10-27T11:18:36.691099
+445,participant_075,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Öğretmen Zeynep - Practical,Completed,42,2025-09-02T11:18:36.691210,2025-09-02T11:18:36.691210
+446,participant_075,2,Voting System - Basit oylama mekanizması,Similar,Dr. Ayşe - Beginner Friendly,Completed,53,2025-09-02T11:18:36.691210,2025-09-02T11:18:36.691210
+447,participant_075,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,46,2025-09-02T11:18:36.691210,2025-09-02T11:18:36.691210
+448,participant_075,4,NFT Minting - ERC721 benzeri NFT,Complementary,Öğretmen Zeynep - Practical,Completed,48,2025-09-02T11:18:36.691210,2025-09-02T11:18:36.691210
+449,participant_075,5,Staking Contract - Token stake etme,Similar,Dr. Ayşe - Beginner Friendly,Completed,42,2025-09-02T11:18:36.691210,2025-09-02T11:18:36.691210
+450,participant_075,6,Auction System - Açık artırma sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,35,2025-09-02T11:18:36.691210,2025-09-02T11:18:36.691210
+451,participant_076,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Öğretmen Zeynep - Practical,Completed,46,2025-10-07T11:18:36.691317,2025-10-07T11:18:36.691317
+452,participant_076,2,Voting System - Basit oylama mekanizması,Complementary,Mentor Fatma - Supportive,Completed,54,2025-10-07T11:18:36.691317,2025-10-07T11:18:36.691317
+453,participant_076,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Mentor Fatma - Supportive,Completed,39,2025-10-07T11:18:36.691317,2025-10-07T11:18:36.691317
+454,participant_076,4,NFT Minting - ERC721 benzeri NFT,Similar,Öğretmen Zeynep - Practical,Completed,36,2025-10-07T11:18:36.691317,2025-10-07T11:18:36.691317
+455,participant_076,5,Staking Contract - Token stake etme,Complementary,Mentor Fatma - Supportive,Completed,45,2025-10-07T11:18:36.691317,2025-10-07T11:18:36.691317
+456,participant_076,6,Auction System - Açık artırma sistemi,Similar,Öğretmen Zeynep - Practical,Completed,41,2025-10-07T11:18:36.691317,2025-10-07T11:18:36.691317
+457,participant_077,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,42,2025-08-24T11:18:36.691422,2025-08-24T11:18:36.691422
+458,participant_077,2,Voting System - Basit oylama mekanizması,Similar,Deniz - DApp Architect,Completed,48,2025-08-24T11:18:36.691422,2025-08-24T11:18:36.691422
+459,participant_077,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,48,2025-08-24T11:18:36.691422,2025-08-24T11:18:36.691422
+460,participant_077,4,NFT Minting - ERC721 benzeri NFT,Similar,Deniz - DApp Architect,Completed,49,2025-08-24T11:18:36.691422,2025-08-24T11:18:36.691422
+461,participant_077,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,55,2025-08-24T11:18:36.691422,2025-08-24T11:18:36.691422
+462,participant_077,6,Auction System - Açık artırma sistemi,Similar,Deniz - DApp Architect,Completed,40,2025-08-24T11:18:36.691422,2025-08-24T11:18:36.691422
+463,participant_078,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,43,2025-09-03T11:18:36.691534,2025-09-03T11:18:36.691534
+464,participant_078,2,Voting System - Basit oylama mekanizması,Similar,Deniz - DApp Architect,Completed,54,2025-09-03T11:18:36.691534,2025-09-03T11:18:36.691534
+465,participant_078,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Deniz - DApp Architect,Completed,48,2025-09-03T11:18:36.691534,2025-09-03T11:18:36.691534
+466,participant_078,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,47,2025-09-03T11:18:36.691534,2025-09-03T11:18:36.691534
+467,participant_078,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,53,2025-09-03T11:18:36.691534,2025-09-03T11:18:36.691534
+468,participant_078,6,Auction System - Açık artırma sistemi,Similar,Deniz - DApp Architect,Completed,43,2025-09-03T11:18:36.691534,2025-09-03T11:18:36.691534
+469,participant_079,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,38,2025-10-20T11:18:36.691639,2025-10-20T11:18:36.691639
+470,participant_079,2,Voting System - Basit oylama mekanizması,Similar,Can - Gas Optimizer,Completed,54,2025-10-20T11:18:36.691639,2025-10-20T11:18:36.691639
+471,participant_079,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,43,2025-10-20T11:18:36.691639,2025-10-20T11:18:36.691639
+472,participant_079,4,NFT Minting - ERC721 benzeri NFT,Similar,Can - Gas Optimizer,Completed,35,2025-10-20T11:18:36.691639,2025-10-20T11:18:36.691639
+473,participant_079,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,47,2025-10-20T11:18:36.691639,2025-10-20T11:18:36.691639
+474,participant_079,6,Auction System - Açık artırma sistemi,Similar,Can - Gas Optimizer,Completed,46,2025-10-20T11:18:36.691639,2025-10-20T11:18:36.691639
+475,participant_080,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Mentor Fatma - Supportive,Completed,35,2025-09-03T11:18:36.691748,2025-09-03T11:18:36.691748
+476,participant_080,2,Voting System - Basit oylama mekanizması,Similar,Ali - Facilitator,Completed,49,2025-09-03T11:18:36.691748,2025-09-03T11:18:36.691748
+477,participant_080,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Mentor Fatma - Supportive,Completed,46,2025-09-03T11:18:36.691748,2025-09-03T11:18:36.691748
+478,participant_080,4,NFT Minting - ERC721 benzeri NFT,Complementary,Mentor Fatma - Supportive,Completed,50,2025-09-03T11:18:36.691748,2025-09-03T11:18:36.691748
+479,participant_080,5,Staking Contract - Token stake etme,Similar,Ali - Facilitator,Completed,47,2025-09-03T11:18:36.691748,2025-09-03T11:18:36.691748
+480,participant_080,6,Auction System - Açık artırma sistemi,Similar,Ali - Facilitator,Completed,45,2025-09-03T11:18:36.691748,2025-09-03T11:18:36.691748
+481,participant_081,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,48,2025-08-18T11:18:36.691872,2025-08-18T11:18:36.691872
+482,participant_081,2,Voting System - Basit oylama mekanizması,Complementary,Ali - Facilitator,Completed,38,2025-08-18T11:18:36.691872,2025-08-18T11:18:36.691872
+483,participant_081,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,36,2025-08-18T11:18:36.691872,2025-08-18T11:18:36.691872
+484,participant_081,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,35,2025-08-18T11:18:36.691872,2025-08-18T11:18:36.691872
+485,participant_081,5,Staking Contract - Token stake etme,Similar,Prof. Mehmet - Academic,Completed,45,2025-08-18T11:18:36.691872,2025-08-18T11:18:36.691872
+486,participant_081,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,35,2025-08-18T11:18:36.691872,2025-08-18T11:18:36.691872
+487,participant_082,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,54,2025-10-20T11:18:36.691997,2025-10-20T11:18:36.691997
+488,participant_082,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,50,2025-10-20T11:18:36.691997,2025-10-20T11:18:36.691997
+489,participant_082,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,52,2025-10-20T11:18:36.691997,2025-10-20T11:18:36.691997
+490,participant_082,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,36,2025-10-20T11:18:36.691997,2025-10-20T11:18:36.691997
+491,participant_082,5,Staking Contract - Token stake etme,Similar,Prof. Mehmet - Academic,Completed,43,2025-10-20T11:18:36.691997,2025-10-20T11:18:36.691997
+492,participant_082,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,53,2025-10-20T11:18:36.691997,2025-10-20T11:18:36.691997
+493,participant_083,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,35,2025-10-17T11:18:36.692118,2025-10-17T11:18:36.692118
+494,participant_083,2,Voting System - Basit oylama mekanizması,Similar,Deniz - DApp Architect,Completed,51,2025-10-17T11:18:36.692118,2025-10-17T11:18:36.692118
+495,participant_083,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,55,2025-10-17T11:18:36.692118,2025-10-17T11:18:36.692118
+496,participant_083,4,NFT Minting - ERC721 benzeri NFT,Similar,Deniz - DApp Architect,Completed,52,2025-10-17T11:18:36.692118,2025-10-17T11:18:36.692118
+497,participant_083,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,47,2025-10-17T11:18:36.692118,2025-10-17T11:18:36.692118
+498,participant_083,6,Auction System - Açık artırma sistemi,Similar,Deniz - DApp Architect,Completed,53,2025-10-17T11:18:36.692118,2025-10-17T11:18:36.692118
+499,participant_084,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Can - Gas Optimizer,Completed,49,2025-10-24T11:18:36.692241,2025-10-24T11:18:36.692241
+500,participant_084,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,36,2025-10-24T11:18:36.692241,2025-10-24T11:18:36.692241
+501,participant_084,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,46,2025-10-24T11:18:36.692241,2025-10-24T11:18:36.692241
+502,participant_084,4,NFT Minting - ERC721 benzeri NFT,Similar,Can - Gas Optimizer,Completed,45,2025-10-24T11:18:36.692241,2025-10-24T11:18:36.692241
+503,participant_084,5,Staking Contract - Token stake etme,Similar,Can - Gas Optimizer,Completed,40,2025-10-24T11:18:36.692241,2025-10-24T11:18:36.692241
+504,participant_084,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,50,2025-10-24T11:18:36.692241,2025-10-24T11:18:36.692241
+505,participant_085,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,44,2025-10-08T11:18:36.692366,2025-10-08T11:18:36.692366
+506,participant_085,2,Voting System - Basit oylama mekanizması,Similar,Can - Gas Optimizer,Completed,46,2025-10-08T11:18:36.692366,2025-10-08T11:18:36.692366
+507,participant_085,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,48,2025-10-08T11:18:36.692366,2025-10-08T11:18:36.692366
+508,participant_085,4,NFT Minting - ERC721 benzeri NFT,Similar,Can - Gas Optimizer,Completed,53,2025-10-08T11:18:36.692366,2025-10-08T11:18:36.692366
+509,participant_085,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,42,2025-10-08T11:18:36.692366,2025-10-08T11:18:36.692366
+510,participant_085,6,Auction System - Açık artırma sistemi,Similar,Can - Gas Optimizer,Completed,47,2025-10-08T11:18:36.692366,2025-10-08T11:18:36.692366
+511,participant_086,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,44,2025-10-06T11:18:36.692473,2025-10-06T11:18:36.692473
+512,participant_086,2,Voting System - Basit oylama mekanizması,Similar,Burak - Blockchain Specialist,Completed,35,2025-10-06T11:18:36.692473,2025-10-06T11:18:36.692473
+513,participant_086,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Burak - Blockchain Specialist,Completed,47,2025-10-06T11:18:36.692473,2025-10-06T11:18:36.692473
+514,participant_086,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,48,2025-10-06T11:18:36.692473,2025-10-06T11:18:36.692473
+515,participant_086,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,55,2025-10-06T11:18:36.692473,2025-10-06T11:18:36.692473
+516,participant_086,6,Auction System - Açık artırma sistemi,Similar,Burak - Blockchain Specialist,Completed,35,2025-10-06T11:18:36.692473,2025-10-06T11:18:36.692473
+517,participant_087,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Deniz - DApp Architect,Completed,54,2025-09-18T11:18:36.692584,2025-09-18T11:18:36.692584
+518,participant_087,2,Voting System - Basit oylama mekanizması,Similar,Deniz - DApp Architect,Completed,43,2025-09-18T11:18:36.692584,2025-09-18T11:18:36.692584
+519,participant_087,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,43,2025-09-18T11:18:36.692584,2025-09-18T11:18:36.692584
+520,participant_087,4,NFT Minting - ERC721 benzeri NFT,Similar,Deniz - DApp Architect,Completed,45,2025-09-18T11:18:36.692584,2025-09-18T11:18:36.692584
+521,participant_087,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,37,2025-09-18T11:18:36.692584,2025-09-18T11:18:36.692584
+522,participant_087,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,35,2025-09-18T11:18:36.692584,2025-09-18T11:18:36.692584
+523,participant_088,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Can - Gas Optimizer,Completed,50,2025-09-20T11:18:36.692696,2025-09-20T11:18:36.692696
+524,participant_088,2,Voting System - Basit oylama mekanizması,Similar,Can - Gas Optimizer,Completed,45,2025-09-20T11:18:36.692696,2025-09-20T11:18:36.692696
+525,participant_088,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,51,2025-09-20T11:18:36.692696,2025-09-20T11:18:36.692696
+526,participant_088,4,NFT Minting - ERC721 benzeri NFT,Similar,Can - Gas Optimizer,Completed,49,2025-09-20T11:18:36.692696,2025-09-20T11:18:36.692696
+527,participant_088,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,46,2025-09-20T11:18:36.692696,2025-09-20T11:18:36.692696
+528,participant_088,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,51,2025-09-20T11:18:36.692696,2025-09-20T11:18:36.692696
+529,participant_089,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Öğretmen Zeynep - Practical,Completed,46,2025-08-12T11:18:36.692804,2025-08-12T11:18:36.692804
+530,participant_089,2,Voting System - Basit oylama mekanizması,Complementary,Mentor Fatma - Supportive,Completed,54,2025-08-12T11:18:36.692804,2025-08-12T11:18:36.692804
+531,participant_089,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Öğretmen Zeynep - Practical,Completed,47,2025-08-12T11:18:36.692804,2025-08-12T11:18:36.692804
+532,participant_089,4,NFT Minting - ERC721 benzeri NFT,Complementary,Mentor Fatma - Supportive,Completed,39,2025-08-12T11:18:36.692804,2025-08-12T11:18:36.692804
+533,participant_089,5,Staking Contract - Token stake etme,Complementary,Mentor Fatma - Supportive,Completed,54,2025-08-12T11:18:36.692804,2025-08-12T11:18:36.692804
+534,participant_089,6,Auction System - Açık artırma sistemi,Similar,Öğretmen Zeynep - Practical,Completed,47,2025-08-12T11:18:36.692804,2025-08-12T11:18:36.692804
+535,participant_090,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,46,2025-10-26T11:18:36.692916,2025-10-26T11:18:36.692916
+536,participant_090,2,Voting System - Basit oylama mekanizması,Complementary,Ali - Facilitator,Completed,50,2025-10-26T11:18:36.692916,2025-10-26T11:18:36.692916
+537,participant_090,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,42,2025-10-26T11:18:36.692916,2025-10-26T11:18:36.692916
+538,participant_090,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,38,2025-10-26T11:18:36.692916,2025-10-26T11:18:36.692916
+539,participant_090,5,Staking Contract - Token stake etme,Similar,Prof. Mehmet - Academic,Completed,42,2025-10-26T11:18:36.692916,2025-10-26T11:18:36.692916
+540,participant_090,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,38,2025-10-26T11:18:36.692916,2025-10-26T11:18:36.692916
+541,participant_091,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Can - Gas Optimizer,Completed,36,2025-10-21T11:18:36.693024,2025-10-21T11:18:36.693024
+542,participant_091,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,35,2025-10-21T11:18:36.693024,2025-10-21T11:18:36.693024
+543,participant_091,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Can - Gas Optimizer,Completed,45,2025-10-21T11:18:36.693024,2025-10-21T11:18:36.693024
+544,participant_091,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,41,2025-10-21T11:18:36.693024,2025-10-21T11:18:36.693024
+545,participant_091,5,Staking Contract - Token stake etme,Similar,Can - Gas Optimizer,Completed,55,2025-10-21T11:18:36.693024,2025-10-21T11:18:36.693024
+546,participant_091,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,50,2025-10-21T11:18:36.693024,2025-10-21T11:18:36.693024
+547,participant_092,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,40,2025-09-29T11:18:36.693127,2025-09-29T11:18:36.693127
+548,participant_092,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,53,2025-09-29T11:18:36.693127,2025-09-29T11:18:36.693127
+549,participant_092,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,40,2025-09-29T11:18:36.693127,2025-09-29T11:18:36.693127
+550,participant_092,4,NFT Minting - ERC721 benzeri NFT,Similar,Can - Gas Optimizer,Completed,35,2025-09-29T11:18:36.693127,2025-09-29T11:18:36.693127
+551,participant_092,5,Staking Contract - Token stake etme,Similar,Can - Gas Optimizer,Completed,42,2025-09-29T11:18:36.693127,2025-09-29T11:18:36.693127
+552,participant_092,6,Auction System - Açık artırma sistemi,Similar,Can - Gas Optimizer,Completed,39,2025-09-29T11:18:36.693127,2025-09-29T11:18:36.693127
+553,participant_093,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Öğretmen Zeynep - Practical,Completed,49,2025-10-11T11:18:36.693242,2025-10-11T11:18:36.693242
+554,participant_093,2,Voting System - Basit oylama mekanizması,Similar,Dr. Ayşe - Beginner Friendly,Completed,52,2025-10-11T11:18:36.693242,2025-10-11T11:18:36.693242
+555,participant_093,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,39,2025-10-11T11:18:36.693242,2025-10-11T11:18:36.693242
+556,participant_093,4,NFT Minting - ERC721 benzeri NFT,Complementary,Öğretmen Zeynep - Practical,Completed,46,2025-10-11T11:18:36.693242,2025-10-11T11:18:36.693242
+557,participant_093,5,Staking Contract - Token stake etme,Similar,Dr. Ayşe - Beginner Friendly,Completed,44,2025-10-11T11:18:36.693242,2025-10-11T11:18:36.693242
+558,participant_093,6,Auction System - Açık artırma sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,54,2025-10-11T11:18:36.693242,2025-10-11T11:18:36.693242
+559,participant_094,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Burak - Blockchain Specialist,Completed,48,2025-11-04T11:18:36.693349,2025-11-04T11:18:36.693349
+560,participant_094,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,40,2025-11-04T11:18:36.693349,2025-11-04T11:18:36.693349
+561,participant_094,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,47,2025-11-04T11:18:36.693349,2025-11-04T11:18:36.693349
+562,participant_094,4,NFT Minting - ERC721 benzeri NFT,Similar,Burak - Blockchain Specialist,Completed,40,2025-11-04T11:18:36.693349,2025-11-04T11:18:36.693349
+563,participant_094,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,35,2025-11-04T11:18:36.693349,2025-11-04T11:18:36.693349
+564,participant_094,6,Auction System - Açık artırma sistemi,Similar,Burak - Blockchain Specialist,Completed,40,2025-11-04T11:18:36.693349,2025-11-04T11:18:36.693349
+565,participant_095,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Ali - Facilitator,Completed,55,2025-08-12T11:18:36.693457,2025-08-12T11:18:36.693457
+566,participant_095,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,40,2025-08-12T11:18:36.693457,2025-08-12T11:18:36.693457
+567,participant_095,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,39,2025-08-12T11:18:36.693457,2025-08-12T11:18:36.693457
+568,participant_095,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,38,2025-08-12T11:18:36.693457,2025-08-12T11:18:36.693457
+569,participant_095,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,35,2025-08-12T11:18:36.693457,2025-08-12T11:18:36.693457
+570,participant_095,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,38,2025-08-12T11:18:36.693457,2025-08-12T11:18:36.693457
+571,participant_096,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Ali - Facilitator,Completed,38,2025-09-23T11:18:36.693564,2025-09-23T11:18:36.693564
+572,participant_096,2,Voting System - Basit oylama mekanizması,Complementary,Ali - Facilitator,Completed,42,2025-09-23T11:18:36.693564,2025-09-23T11:18:36.693564
+573,participant_096,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,52,2025-09-23T11:18:36.693564,2025-09-23T11:18:36.693564
+574,participant_096,4,NFT Minting - ERC721 benzeri NFT,Similar,Prof. Mehmet - Academic,Completed,50,2025-09-23T11:18:36.693564,2025-09-23T11:18:36.693564
+575,participant_096,5,Staking Contract - Token stake etme,Similar,Prof. Mehmet - Academic,Completed,41,2025-09-23T11:18:36.693564,2025-09-23T11:18:36.693564
+576,participant_096,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,51,2025-09-23T11:18:36.693564,2025-09-23T11:18:36.693564
+577,participant_097,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Deniz - DApp Architect,Completed,44,2025-09-27T11:18:36.693671,2025-09-27T11:18:36.693671
+578,participant_097,2,Voting System - Basit oylama mekanizması,Complementary,Deniz - DApp Architect,Completed,39,2025-09-27T11:18:36.693671,2025-09-27T11:18:36.693671
+579,participant_097,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Elif - Security Aware,Completed,54,2025-09-27T11:18:36.693671,2025-09-27T11:18:36.693671
+580,participant_097,4,NFT Minting - ERC721 benzeri NFT,Complementary,Deniz - DApp Architect,Completed,41,2025-09-27T11:18:36.693671,2025-09-27T11:18:36.693671
+581,participant_097,5,Staking Contract - Token stake etme,Similar,Elif - Security Aware,Completed,41,2025-09-27T11:18:36.693671,2025-09-27T11:18:36.693671
+582,participant_097,6,Auction System - Açık artırma sistemi,Similar,Elif - Security Aware,Completed,47,2025-09-27T11:18:36.693671,2025-09-27T11:18:36.693671
+583,participant_098,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Ali - Facilitator,Completed,41,2025-10-02T11:18:36.693779,2025-10-02T11:18:36.693779
+584,participant_098,2,Voting System - Basit oylama mekanizması,Complementary,Ali - Facilitator,Completed,53,2025-10-02T11:18:36.693779,2025-10-02T11:18:36.693779
+585,participant_098,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,41,2025-10-02T11:18:36.693779,2025-10-02T11:18:36.693779
+586,participant_098,4,NFT Minting - ERC721 benzeri NFT,Similar,Prof. Mehmet - Academic,Completed,36,2025-10-02T11:18:36.693779,2025-10-02T11:18:36.693779
+587,participant_098,5,Staking Contract - Token stake etme,Similar,Prof. Mehmet - Academic,Completed,38,2025-10-02T11:18:36.693779,2025-10-02T11:18:36.693779
+588,participant_098,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,36,2025-10-02T11:18:36.693779,2025-10-02T11:18:36.693779
+589,participant_099,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Öğretmen Zeynep - Practical,Completed,52,2025-08-18T11:18:36.693885,2025-08-18T11:18:36.693885
+590,participant_099,2,Voting System - Basit oylama mekanizması,Similar,Dr. Ayşe - Beginner Friendly,Completed,40,2025-08-18T11:18:36.693885,2025-08-18T11:18:36.693885
+591,participant_099,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,55,2025-08-18T11:18:36.693885,2025-08-18T11:18:36.693885
+592,participant_099,4,NFT Minting - ERC721 benzeri NFT,Complementary,Öğretmen Zeynep - Practical,Completed,39,2025-08-18T11:18:36.693885,2025-08-18T11:18:36.693885
+593,participant_099,5,Staking Contract - Token stake etme,Similar,Dr. Ayşe - Beginner Friendly,Completed,42,2025-08-18T11:18:36.693885,2025-08-18T11:18:36.693885
+594,participant_099,6,Auction System - Açık artırma sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,44,2025-08-18T11:18:36.693885,2025-08-18T11:18:36.693885
+595,participant_100,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Deniz - DApp Architect,Completed,42,2025-10-05T11:18:36.693994,2025-10-05T11:18:36.693994
+596,participant_100,2,Voting System - Basit oylama mekanizması,Similar,Deniz - DApp Architect,Completed,53,2025-10-05T11:18:36.693994,2025-10-05T11:18:36.693994
+597,participant_100,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,50,2025-10-05T11:18:36.693994,2025-10-05T11:18:36.693994
+598,participant_100,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,38,2025-10-05T11:18:36.693994,2025-10-05T11:18:36.693994
+599,participant_100,5,Staking Contract - Token stake etme,Similar,Deniz - DApp Architect,Completed,48,2025-10-05T11:18:36.693994,2025-10-05T11:18:36.693994
+600,participant_100,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,50,2025-10-05T11:18:36.693994,2025-10-05T11:18:36.693994
+601,participant_101,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Öğretmen Zeynep - Practical,Completed,52,2025-10-06T11:18:36.694103,2025-10-06T11:18:36.694103
+602,participant_101,2,Voting System - Basit oylama mekanizması,Complementary,Öğretmen Zeynep - Practical,Completed,42,2025-10-06T11:18:36.694103,2025-10-06T11:18:36.694103
+603,participant_101,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,36,2025-10-06T11:18:36.694103,2025-10-06T11:18:36.694103
+604,participant_101,4,NFT Minting - ERC721 benzeri NFT,Similar,Dr. Ayşe - Beginner Friendly,Completed,55,2025-10-06T11:18:36.694103,2025-10-06T11:18:36.694103
+605,participant_101,5,Staking Contract - Token stake etme,Similar,Dr. Ayşe - Beginner Friendly,Completed,51,2025-10-06T11:18:36.694103,2025-10-06T11:18:36.694103
+606,participant_101,6,Auction System - Açık artırma sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,35,2025-10-06T11:18:36.694103,2025-10-06T11:18:36.694103
+607,participant_102,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Öğretmen Zeynep - Practical,Completed,50,2025-10-26T11:18:36.694213,2025-10-26T11:18:36.694213
+608,participant_102,2,Voting System - Basit oylama mekanizması,Similar,Dr. Ayşe - Beginner Friendly,Completed,46,2025-10-26T11:18:36.694213,2025-10-26T11:18:36.694213
+609,participant_102,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,39,2025-10-26T11:18:36.694213,2025-10-26T11:18:36.694213
+610,participant_102,4,NFT Minting - ERC721 benzeri NFT,Similar,Dr. Ayşe - Beginner Friendly,Completed,49,2025-10-26T11:18:36.694213,2025-10-26T11:18:36.694213
+611,participant_102,5,Staking Contract - Token stake etme,Similar,Dr. Ayşe - Beginner Friendly,Completed,45,2025-10-26T11:18:36.694213,2025-10-26T11:18:36.694213
+612,participant_102,6,Auction System - Açık artırma sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,51,2025-10-26T11:18:36.694213,2025-10-26T11:18:36.694213
+613,participant_103,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Ali - Facilitator,Completed,41,2025-11-06T11:18:36.694319,2025-11-06T11:18:36.694319
+614,participant_103,2,Voting System - Basit oylama mekanizması,Complementary,Ali - Facilitator,Completed,53,2025-11-06T11:18:36.694319,2025-11-06T11:18:36.694319
+615,participant_103,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,49,2025-11-06T11:18:36.694319,2025-11-06T11:18:36.694319
+616,participant_103,4,NFT Minting - ERC721 benzeri NFT,Similar,Prof. Mehmet - Academic,Completed,54,2025-11-06T11:18:36.694319,2025-11-06T11:18:36.694319
+617,participant_103,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,52,2025-11-06T11:18:36.694319,2025-11-06T11:18:36.694319
+618,participant_103,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,46,2025-11-06T11:18:36.694319,2025-11-06T11:18:36.694319
+619,participant_104,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,43,2025-09-02T11:18:36.694424,2025-09-02T11:18:36.694424
+620,participant_104,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,49,2025-09-02T11:18:36.694424,2025-09-02T11:18:36.694424
+621,participant_104,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,52,2025-09-02T11:18:36.694424,2025-09-02T11:18:36.694424
+622,participant_104,4,NFT Minting - ERC721 benzeri NFT,Similar,Can - Gas Optimizer,Completed,46,2025-09-02T11:18:36.694424,2025-09-02T11:18:36.694424
+623,participant_104,5,Staking Contract - Token stake etme,Similar,Can - Gas Optimizer,Completed,46,2025-09-02T11:18:36.694424,2025-09-02T11:18:36.694424
+624,participant_104,6,Auction System - Açık artırma sistemi,Similar,Can - Gas Optimizer,Completed,55,2025-09-02T11:18:36.694424,2025-09-02T11:18:36.694424
+625,participant_105,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,55,2025-09-24T11:18:36.694529,2025-09-24T11:18:36.694529
+626,participant_105,2,Voting System - Basit oylama mekanizması,Complementary,Ali - Facilitator,Completed,47,2025-09-24T11:18:36.694529,2025-09-24T11:18:36.694529
+627,participant_105,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,44,2025-09-24T11:18:36.694529,2025-09-24T11:18:36.694529
+628,participant_105,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,50,2025-09-24T11:18:36.694529,2025-09-24T11:18:36.694529
+629,participant_105,5,Staking Contract - Token stake etme,Similar,Prof. Mehmet - Academic,Completed,53,2025-09-24T11:18:36.694529,2025-09-24T11:18:36.694529
+630,participant_105,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,42,2025-09-24T11:18:36.694529,2025-09-24T11:18:36.694529
+631,participant_106,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Can - Gas Optimizer,Completed,35,2025-11-05T11:18:36.694641,2025-11-05T11:18:36.694641
+632,participant_106,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,38,2025-11-05T11:18:36.694641,2025-11-05T11:18:36.694641
+633,participant_106,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,47,2025-11-05T11:18:36.694641,2025-11-05T11:18:36.694641
+634,participant_106,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,53,2025-11-05T11:18:36.694641,2025-11-05T11:18:36.694641
+635,participant_106,5,Staking Contract - Token stake etme,Similar,Can - Gas Optimizer,Completed,38,2025-11-05T11:18:36.694641,2025-11-05T11:18:36.694641
+636,participant_106,6,Auction System - Açık artırma sistemi,Similar,Can - Gas Optimizer,Completed,48,2025-11-05T11:18:36.694641,2025-11-05T11:18:36.694641
+637,participant_107,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Öğretmen Zeynep - Practical,Completed,35,2025-10-18T11:18:36.694748,2025-10-18T11:18:36.694748
+638,participant_107,2,Voting System - Basit oylama mekanizması,Similar,Öğretmen Zeynep - Practical,Completed,42,2025-10-18T11:18:36.694748,2025-10-18T11:18:36.694748
+639,participant_107,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Mentor Fatma - Supportive,Completed,39,2025-10-18T11:18:36.694748,2025-10-18T11:18:36.694748
+640,participant_107,4,NFT Minting - ERC721 benzeri NFT,Complementary,Mentor Fatma - Supportive,Completed,35,2025-10-18T11:18:36.694748,2025-10-18T11:18:36.694748
+641,participant_107,5,Staking Contract - Token stake etme,Similar,Öğretmen Zeynep - Practical,Completed,39,2025-10-18T11:18:36.694748,2025-10-18T11:18:36.694748
+642,participant_107,6,Auction System - Açık artırma sistemi,Complementary,Mentor Fatma - Supportive,Completed,52,2025-10-18T11:18:36.694748,2025-10-18T11:18:36.694748
+643,participant_108,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Deniz - DApp Architect,Completed,55,2025-10-21T11:18:36.694859,2025-10-21T11:18:36.694859
+644,participant_108,2,Voting System - Basit oylama mekanizması,Similar,Deniz - DApp Architect,Completed,47,2025-10-21T11:18:36.694859,2025-10-21T11:18:36.694859
+645,participant_108,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Deniz - DApp Architect,Completed,47,2025-10-21T11:18:36.694859,2025-10-21T11:18:36.694859
+646,participant_108,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,44,2025-10-21T11:18:36.694859,2025-10-21T11:18:36.694859
+647,participant_108,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,43,2025-10-21T11:18:36.694859,2025-10-21T11:18:36.694859
+648,participant_108,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,52,2025-10-21T11:18:36.694859,2025-10-21T11:18:36.694859
+649,participant_109,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Ali - Facilitator,Completed,51,2025-11-07T11:18:36.694963,2025-11-07T11:18:36.694963
+650,participant_109,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,54,2025-11-07T11:18:36.694963,2025-11-07T11:18:36.694963
+651,participant_109,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,50,2025-11-07T11:18:36.694963,2025-11-07T11:18:36.694963
+652,participant_109,4,NFT Minting - ERC721 benzeri NFT,Similar,Prof. Mehmet - Academic,Completed,35,2025-11-07T11:18:36.694963,2025-11-07T11:18:36.694963
+653,participant_109,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,42,2025-11-07T11:18:36.694963,2025-11-07T11:18:36.694963
+654,participant_109,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,46,2025-11-07T11:18:36.694963,2025-11-07T11:18:36.694963
+655,participant_110,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Dr. Ayşe - Beginner Friendly,Completed,36,2025-08-20T11:18:36.695078,2025-08-20T11:18:36.695078
+656,participant_110,2,Voting System - Basit oylama mekanizması,Similar,Dr. Ayşe - Beginner Friendly,Completed,55,2025-08-20T11:18:36.695078,2025-08-20T11:18:36.695078
+657,participant_110,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,52,2025-08-20T11:18:36.695078,2025-08-20T11:18:36.695078
+658,participant_110,4,NFT Minting - ERC721 benzeri NFT,Complementary,Öğretmen Zeynep - Practical,Completed,43,2025-08-20T11:18:36.695078,2025-08-20T11:18:36.695078
+659,participant_110,5,Staking Contract - Token stake etme,Complementary,Öğretmen Zeynep - Practical,Completed,54,2025-08-20T11:18:36.695078,2025-08-20T11:18:36.695078
+660,participant_110,6,Auction System - Açık artırma sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,49,2025-08-20T11:18:36.695078,2025-08-20T11:18:36.695078
+661,participant_111,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,51,2025-10-20T11:18:36.695184,2025-10-20T11:18:36.695184
+662,participant_111,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,35,2025-10-20T11:18:36.695184,2025-10-20T11:18:36.695184
+663,participant_111,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Burak - Blockchain Specialist,Completed,39,2025-10-20T11:18:36.695184,2025-10-20T11:18:36.695184
+664,participant_111,4,NFT Minting - ERC721 benzeri NFT,Similar,Burak - Blockchain Specialist,Completed,43,2025-10-20T11:18:36.695184,2025-10-20T11:18:36.695184
+665,participant_111,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,47,2025-10-20T11:18:36.695184,2025-10-20T11:18:36.695184
+666,participant_111,6,Auction System - Açık artırma sistemi,Similar,Burak - Blockchain Specialist,Completed,51,2025-10-20T11:18:36.695184,2025-10-20T11:18:36.695184
+667,participant_112,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,43,2025-09-02T11:18:36.695289,2025-09-02T11:18:36.695289
+668,participant_112,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,53,2025-09-02T11:18:36.695289,2025-09-02T11:18:36.695289
+669,participant_112,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,49,2025-09-02T11:18:36.695289,2025-09-02T11:18:36.695289
+670,participant_112,4,NFT Minting - ERC721 benzeri NFT,Similar,Can - Gas Optimizer,Completed,35,2025-09-02T11:18:36.695289,2025-09-02T11:18:36.695289
+671,participant_112,5,Staking Contract - Token stake etme,Similar,Can - Gas Optimizer,Completed,47,2025-09-02T11:18:36.695289,2025-09-02T11:18:36.695289
+672,participant_112,6,Auction System - Açık artırma sistemi,Similar,Can - Gas Optimizer,Completed,53,2025-09-02T11:18:36.695289,2025-09-02T11:18:36.695289
+673,participant_113,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Ali - Facilitator,Completed,37,2025-08-26T11:18:36.695395,2025-08-26T11:18:36.695395
+674,participant_113,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,44,2025-08-26T11:18:36.695395,2025-08-26T11:18:36.695395
+675,participant_113,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,36,2025-08-26T11:18:36.695395,2025-08-26T11:18:36.695395
+676,participant_113,4,NFT Minting - ERC721 benzeri NFT,Similar,Prof. Mehmet - Academic,Completed,52,2025-08-26T11:18:36.695395,2025-08-26T11:18:36.695395
+677,participant_113,5,Staking Contract - Token stake etme,Similar,Prof. Mehmet - Academic,Completed,41,2025-08-26T11:18:36.695395,2025-08-26T11:18:36.695395
+678,participant_113,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,37,2025-08-26T11:18:36.695395,2025-08-26T11:18:36.695395
+679,participant_114,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Can - Gas Optimizer,Completed,49,2025-11-02T11:18:36.695503,2025-11-02T11:18:36.695503
+680,participant_114,2,Voting System - Basit oylama mekanizması,Similar,Can - Gas Optimizer,Completed,48,2025-11-02T11:18:36.695503,2025-11-02T11:18:36.695503
+681,participant_114,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,47,2025-11-02T11:18:36.695503,2025-11-02T11:18:36.695503
+682,participant_114,4,NFT Minting - ERC721 benzeri NFT,Similar,Can - Gas Optimizer,Completed,50,2025-11-02T11:18:36.695503,2025-11-02T11:18:36.695503
+683,participant_114,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,43,2025-11-02T11:18:36.695503,2025-11-02T11:18:36.695503
+684,participant_114,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,51,2025-11-02T11:18:36.695503,2025-11-02T11:18:36.695503
+685,participant_115,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Dr. Ayşe - Beginner Friendly,Completed,55,2025-11-03T11:18:36.695612,2025-11-03T11:18:36.695612
+686,participant_115,2,Voting System - Basit oylama mekanizması,Complementary,Öğretmen Zeynep - Practical,Completed,39,2025-11-03T11:18:36.695612,2025-11-03T11:18:36.695612
+687,participant_115,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,40,2025-11-03T11:18:36.695612,2025-11-03T11:18:36.695612
+688,participant_115,4,NFT Minting - ERC721 benzeri NFT,Similar,Dr. Ayşe - Beginner Friendly,Completed,43,2025-11-03T11:18:36.695612,2025-11-03T11:18:36.695612
+689,participant_115,5,Staking Contract - Token stake etme,Complementary,Öğretmen Zeynep - Practical,Completed,42,2025-11-03T11:18:36.695612,2025-11-03T11:18:36.695612
+690,participant_115,6,Auction System - Açık artırma sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,55,2025-11-03T11:18:36.695612,2025-11-03T11:18:36.695612
+691,participant_116,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Öğretmen Zeynep - Practical,Completed,47,2025-11-09T11:18:36.695719,2025-11-09T11:18:36.695719
+692,participant_116,2,Voting System - Basit oylama mekanizması,Complementary,Öğretmen Zeynep - Practical,Completed,51,2025-11-09T11:18:36.695719,2025-11-09T11:18:36.695719
+693,participant_116,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,37,2025-11-09T11:18:36.695719,2025-11-09T11:18:36.695719
+694,participant_116,4,NFT Minting - ERC721 benzeri NFT,Complementary,Öğretmen Zeynep - Practical,Completed,35,2025-11-09T11:18:36.695719,2025-11-09T11:18:36.695719
+695,participant_116,5,Staking Contract - Token stake etme,Similar,Dr. Ayşe - Beginner Friendly,Completed,50,2025-11-09T11:18:36.695719,2025-11-09T11:18:36.695719
+696,participant_116,6,Auction System - Açık artırma sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,39,2025-11-09T11:18:36.695719,2025-11-09T11:18:36.695719
+697,participant_117,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,44,2025-08-18T11:18:36.695832,2025-08-18T11:18:36.695832
+698,participant_117,2,Voting System - Basit oylama mekanizması,Complementary,Ali - Facilitator,Completed,49,2025-08-18T11:18:36.695832,2025-08-18T11:18:36.695832
+699,participant_117,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,48,2025-08-18T11:18:36.695832,2025-08-18T11:18:36.695832
+700,participant_117,4,NFT Minting - ERC721 benzeri NFT,Similar,Prof. Mehmet - Academic,Completed,46,2025-08-18T11:18:36.695832,2025-08-18T11:18:36.695832
+701,participant_117,5,Staking Contract - Token stake etme,Similar,Prof. Mehmet - Academic,Completed,50,2025-08-18T11:18:36.695832,2025-08-18T11:18:36.695832
+702,participant_117,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,40,2025-08-18T11:18:36.695832,2025-08-18T11:18:36.695832
+703,participant_118,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Can - Gas Optimizer,Completed,36,2025-09-25T11:18:36.695937,2025-09-25T11:18:36.695937
+704,participant_118,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,54,2025-09-25T11:18:36.695937,2025-09-25T11:18:36.695937
+705,participant_118,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Can - Gas Optimizer,Completed,45,2025-09-25T11:18:36.695937,2025-09-25T11:18:36.695937
+706,participant_118,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,35,2025-09-25T11:18:36.695937,2025-09-25T11:18:36.695937
+707,participant_118,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,42,2025-09-25T11:18:36.695937,2025-09-25T11:18:36.695937
+708,participant_118,6,Auction System - Açık artırma sistemi,Similar,Can - Gas Optimizer,Completed,40,2025-09-25T11:18:36.695937,2025-09-25T11:18:36.695937
+709,participant_119,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Deniz - DApp Architect,Completed,37,2025-09-16T11:18:36.696042,2025-09-16T11:18:36.696042
+710,participant_119,2,Voting System - Basit oylama mekanizması,Similar,Elif - Security Aware,Completed,41,2025-09-16T11:18:36.696042,2025-09-16T11:18:36.696042
+711,participant_119,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Deniz - DApp Architect,Completed,46,2025-09-16T11:18:36.696042,2025-09-16T11:18:36.696042
+712,participant_119,4,NFT Minting - ERC721 benzeri NFT,Complementary,Deniz - DApp Architect,Completed,48,2025-09-16T11:18:36.696042,2025-09-16T11:18:36.696042
+713,participant_119,5,Staking Contract - Token stake etme,Similar,Elif - Security Aware,Completed,48,2025-09-16T11:18:36.696042,2025-09-16T11:18:36.696042
+714,participant_119,6,Auction System - Açık artırma sistemi,Similar,Elif - Security Aware,Completed,35,2025-09-16T11:18:36.696042,2025-09-16T11:18:36.696042
+715,participant_120,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Ali - Facilitator,Completed,51,2025-11-08T11:18:36.696182,2025-11-08T11:18:36.696182
+716,participant_120,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,47,2025-11-08T11:18:36.696182,2025-11-08T11:18:36.696182
+717,participant_120,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,52,2025-11-08T11:18:36.696182,2025-11-08T11:18:36.696182
+718,participant_120,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,36,2025-11-08T11:18:36.696182,2025-11-08T11:18:36.696182
+719,participant_120,5,Staking Contract - Token stake etme,Similar,Prof. Mehmet - Academic,Completed,47,2025-11-08T11:18:36.696182,2025-11-08T11:18:36.696182
+720,participant_120,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,44,2025-11-08T11:18:36.696182,2025-11-08T11:18:36.696182
+721,participant_121,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Mentor Fatma - Supportive,Completed,52,2025-08-29T11:18:36.696288,2025-08-29T11:18:36.696288
+722,participant_121,2,Voting System - Basit oylama mekanizması,Complementary,Mentor Fatma - Supportive,Completed,36,2025-08-29T11:18:36.696288,2025-08-29T11:18:36.696288
+723,participant_121,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Ali - Facilitator,Completed,39,2025-08-29T11:18:36.696288,2025-08-29T11:18:36.696288
+724,participant_121,4,NFT Minting - ERC721 benzeri NFT,Similar,Ali - Facilitator,Completed,47,2025-08-29T11:18:36.696288,2025-08-29T11:18:36.696288
+725,participant_121,5,Staking Contract - Token stake etme,Similar,Ali - Facilitator,Completed,42,2025-08-29T11:18:36.696288,2025-08-29T11:18:36.696288
+726,participant_121,6,Auction System - Açık artırma sistemi,Complementary,Mentor Fatma - Supportive,Completed,35,2025-08-29T11:18:36.696288,2025-08-29T11:18:36.696288
+727,participant_122,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,54,2025-08-19T11:18:36.696401,2025-08-19T11:18:36.696401
+728,participant_122,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,37,2025-08-19T11:18:36.696401,2025-08-19T11:18:36.696401
+729,participant_122,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Burak - Blockchain Specialist,Completed,47,2025-08-19T11:18:36.696401,2025-08-19T11:18:36.696401
+730,participant_122,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,47,2025-08-19T11:18:36.696401,2025-08-19T11:18:36.696401
+731,participant_122,5,Staking Contract - Token stake etme,Similar,Burak - Blockchain Specialist,Completed,38,2025-08-19T11:18:36.696401,2025-08-19T11:18:36.696401
+732,participant_122,6,Auction System - Açık artırma sistemi,Similar,Burak - Blockchain Specialist,Completed,46,2025-08-19T11:18:36.696401,2025-08-19T11:18:36.696401
+733,participant_123,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Elif - Security Aware,Completed,45,2025-09-13T11:18:36.696511,2025-09-13T11:18:36.696511
+734,participant_123,2,Voting System - Basit oylama mekanizması,Complementary,Deniz - DApp Architect,Completed,51,2025-09-13T11:18:36.696511,2025-09-13T11:18:36.696511
+735,participant_123,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Deniz - DApp Architect,Completed,55,2025-09-13T11:18:36.696511,2025-09-13T11:18:36.696511
+736,participant_123,4,NFT Minting - ERC721 benzeri NFT,Complementary,Deniz - DApp Architect,Completed,39,2025-09-13T11:18:36.696511,2025-09-13T11:18:36.696511
+737,participant_123,5,Staking Contract - Token stake etme,Similar,Elif - Security Aware,Completed,42,2025-09-13T11:18:36.696511,2025-09-13T11:18:36.696511
+738,participant_123,6,Auction System - Açık artırma sistemi,Similar,Elif - Security Aware,Completed,46,2025-09-13T11:18:36.696511,2025-09-13T11:18:36.696511
+739,participant_124,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Can - Gas Optimizer,Completed,53,2025-10-08T11:18:36.696620,2025-10-08T11:18:36.696620
+740,participant_124,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,43,2025-10-08T11:18:36.696620,2025-10-08T11:18:36.696620
+741,participant_124,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Can - Gas Optimizer,Completed,38,2025-10-08T11:18:36.696620,2025-10-08T11:18:36.696620
+742,participant_124,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,54,2025-10-08T11:18:36.696620,2025-10-08T11:18:36.696620
+743,participant_124,5,Staking Contract - Token stake etme,Similar,Can - Gas Optimizer,Completed,50,2025-10-08T11:18:36.696620,2025-10-08T11:18:36.696620
+744,participant_124,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,43,2025-10-08T11:18:36.696620,2025-10-08T11:18:36.696620
+745,participant_125,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Ali - Facilitator,Completed,55,2025-08-20T11:18:36.696726,2025-08-20T11:18:36.696726
+746,participant_125,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,38,2025-08-20T11:18:36.696726,2025-08-20T11:18:36.696726
+747,participant_125,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,39,2025-08-20T11:18:36.696726,2025-08-20T11:18:36.696726
+748,participant_125,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,40,2025-08-20T11:18:36.696726,2025-08-20T11:18:36.696726
+749,participant_125,5,Staking Contract - Token stake etme,Similar,Prof. Mehmet - Academic,Completed,53,2025-08-20T11:18:36.696726,2025-08-20T11:18:36.696726
+750,participant_125,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,36,2025-08-20T11:18:36.696726,2025-08-20T11:18:36.696726
+751,participant_126,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Deniz - DApp Architect,Completed,50,2025-09-25T11:18:36.696831,2025-09-25T11:18:36.696831
+752,participant_126,2,Voting System - Basit oylama mekanizması,Similar,Deniz - DApp Architect,Completed,47,2025-09-25T11:18:36.696831,2025-09-25T11:18:36.696831
+753,participant_126,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,40,2025-09-25T11:18:36.696831,2025-09-25T11:18:36.696831
+754,participant_126,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,41,2025-09-25T11:18:36.696831,2025-09-25T11:18:36.696831
+755,participant_126,5,Staking Contract - Token stake etme,Similar,Deniz - DApp Architect,Completed,46,2025-09-25T11:18:36.696831,2025-09-25T11:18:36.696831
+756,participant_126,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,44,2025-09-25T11:18:36.696831,2025-09-25T11:18:36.696831
+757,participant_127,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,46,2025-11-08T11:18:36.696938,2025-11-08T11:18:36.696938
+758,participant_127,2,Voting System - Basit oylama mekanizması,Similar,Burak - Blockchain Specialist,Completed,42,2025-11-08T11:18:36.696938,2025-11-08T11:18:36.696938
+759,participant_127,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Burak - Blockchain Specialist,Completed,43,2025-11-08T11:18:36.696938,2025-11-08T11:18:36.696938
+760,participant_127,4,NFT Minting - ERC721 benzeri NFT,Similar,Burak - Blockchain Specialist,Completed,53,2025-11-08T11:18:36.696938,2025-11-08T11:18:36.696938
+761,participant_127,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,41,2025-11-08T11:18:36.696938,2025-11-08T11:18:36.696938
+762,participant_127,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,48,2025-11-08T11:18:36.696938,2025-11-08T11:18:36.696938
+763,participant_128,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Öğretmen Zeynep - Practical,Completed,42,2025-09-13T11:18:36.697046,2025-09-13T11:18:36.697046
+764,participant_128,2,Voting System - Basit oylama mekanizması,Similar,Dr. Ayşe - Beginner Friendly,Completed,35,2025-09-13T11:18:36.697046,2025-09-13T11:18:36.697046
+765,participant_128,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,39,2025-09-13T11:18:36.697046,2025-09-13T11:18:36.697046
+766,participant_128,4,NFT Minting - ERC721 benzeri NFT,Complementary,Öğretmen Zeynep - Practical,Completed,46,2025-09-13T11:18:36.697046,2025-09-13T11:18:36.697046
+767,participant_128,5,Staking Contract - Token stake etme,Similar,Dr. Ayşe - Beginner Friendly,Completed,44,2025-09-13T11:18:36.697046,2025-09-13T11:18:36.697046
+768,participant_128,6,Auction System - Açık artırma sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,48,2025-09-13T11:18:36.697046,2025-09-13T11:18:36.697046
+769,participant_129,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,46,2025-10-22T11:18:36.697152,2025-10-22T11:18:36.697152
+770,participant_129,2,Voting System - Basit oylama mekanizması,Similar,Deniz - DApp Architect,Completed,47,2025-10-22T11:18:36.697152,2025-10-22T11:18:36.697152
+771,participant_129,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Deniz - DApp Architect,Completed,48,2025-10-22T11:18:36.697152,2025-10-22T11:18:36.697152
+772,participant_129,4,NFT Minting - ERC721 benzeri NFT,Similar,Deniz - DApp Architect,Completed,53,2025-10-22T11:18:36.697152,2025-10-22T11:18:36.697152
+773,participant_129,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,44,2025-10-22T11:18:36.697152,2025-10-22T11:18:36.697152
+774,participant_129,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,44,2025-10-22T11:18:36.697152,2025-10-22T11:18:36.697152
+775,participant_130,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Dr. Ayşe - Beginner Friendly,Completed,38,2025-08-12T11:18:36.697261,2025-08-12T11:18:36.697261
+776,participant_130,2,Voting System - Basit oylama mekanizması,Complementary,Öğretmen Zeynep - Practical,Completed,50,2025-08-12T11:18:36.697261,2025-08-12T11:18:36.697261
+777,participant_130,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,35,2025-08-12T11:18:36.697261,2025-08-12T11:18:36.697261
+778,participant_130,4,NFT Minting - ERC721 benzeri NFT,Similar,Dr. Ayşe - Beginner Friendly,Completed,39,2025-08-12T11:18:36.697261,2025-08-12T11:18:36.697261
+779,participant_130,5,Staking Contract - Token stake etme,Complementary,Öğretmen Zeynep - Practical,Completed,53,2025-08-12T11:18:36.697261,2025-08-12T11:18:36.697261
+780,participant_130,6,Auction System - Açık artırma sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,50,2025-08-12T11:18:36.697261,2025-08-12T11:18:36.697261
+781,participant_131,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Can - Gas Optimizer,Completed,53,2025-09-29T11:18:36.697369,2025-09-29T11:18:36.697369
+782,participant_131,2,Voting System - Basit oylama mekanizması,Similar,Can - Gas Optimizer,Completed,54,2025-09-29T11:18:36.697369,2025-09-29T11:18:36.697369
+783,participant_131,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,53,2025-09-29T11:18:36.697369,2025-09-29T11:18:36.697369
+784,participant_131,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,46,2025-09-29T11:18:36.697369,2025-09-29T11:18:36.697369
+785,participant_131,5,Staking Contract - Token stake etme,Similar,Can - Gas Optimizer,Completed,51,2025-09-29T11:18:36.697369,2025-09-29T11:18:36.697369
+786,participant_131,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,44,2025-09-29T11:18:36.697369,2025-09-29T11:18:36.697369
+787,participant_132,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Öğretmen Zeynep - Practical,Completed,50,2025-08-23T11:18:36.697477,2025-08-23T11:18:36.697477
+788,participant_132,2,Voting System - Basit oylama mekanizması,Complementary,Öğretmen Zeynep - Practical,Completed,42,2025-08-23T11:18:36.697477,2025-08-23T11:18:36.697477
+789,participant_132,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,53,2025-08-23T11:18:36.697477,2025-08-23T11:18:36.697477
+790,participant_132,4,NFT Minting - ERC721 benzeri NFT,Complementary,Öğretmen Zeynep - Practical,Completed,53,2025-08-23T11:18:36.697477,2025-08-23T11:18:36.697477
+791,participant_132,5,Staking Contract - Token stake etme,Similar,Dr. Ayşe - Beginner Friendly,Completed,49,2025-08-23T11:18:36.697477,2025-08-23T11:18:36.697477
+792,participant_132,6,Auction System - Açık artırma sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,51,2025-08-23T11:18:36.697477,2025-08-23T11:18:36.697477
+793,participant_133,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Dr. Ayşe - Beginner Friendly,Completed,52,2025-09-12T11:18:36.697583,2025-09-12T11:18:36.697583
+794,participant_133,2,Voting System - Basit oylama mekanizması,Complementary,Öğretmen Zeynep - Practical,Completed,55,2025-09-12T11:18:36.697583,2025-09-12T11:18:36.697583
+795,participant_133,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,53,2025-09-12T11:18:36.697583,2025-09-12T11:18:36.697583
+796,participant_133,4,NFT Minting - ERC721 benzeri NFT,Similar,Dr. Ayşe - Beginner Friendly,Completed,49,2025-09-12T11:18:36.697583,2025-09-12T11:18:36.697583
+797,participant_133,5,Staking Contract - Token stake etme,Similar,Dr. Ayşe - Beginner Friendly,Completed,36,2025-09-12T11:18:36.697583,2025-09-12T11:18:36.697583
+798,participant_133,6,Auction System - Açık artırma sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,54,2025-09-12T11:18:36.697583,2025-09-12T11:18:36.697583
+799,participant_134,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,42,2025-08-14T11:18:36.697692,2025-08-14T11:18:36.697692
+800,participant_134,2,Voting System - Basit oylama mekanizması,Similar,Can - Gas Optimizer,Completed,38,2025-08-14T11:18:36.697692,2025-08-14T11:18:36.697692
+801,participant_134,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Can - Gas Optimizer,Completed,47,2025-08-14T11:18:36.697692,2025-08-14T11:18:36.697692
+802,participant_134,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,53,2025-08-14T11:18:36.697692,2025-08-14T11:18:36.697692
+803,participant_134,5,Staking Contract - Token stake etme,Similar,Can - Gas Optimizer,Completed,39,2025-08-14T11:18:36.697692,2025-08-14T11:18:36.697692
+804,participant_134,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,49,2025-08-14T11:18:36.697692,2025-08-14T11:18:36.697692
+805,participant_135,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,47,2025-11-06T11:18:36.697796,2025-11-06T11:18:36.697796
+806,participant_135,2,Voting System - Basit oylama mekanizması,Similar,Prof. Mehmet - Academic,Completed,43,2025-11-06T11:18:36.697796,2025-11-06T11:18:36.697796
+807,participant_135,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Ali - Facilitator,Completed,52,2025-11-06T11:18:36.697796,2025-11-06T11:18:36.697796
+808,participant_135,4,NFT Minting - ERC721 benzeri NFT,Similar,Prof. Mehmet - Academic,Completed,35,2025-11-06T11:18:36.697796,2025-11-06T11:18:36.697796
+809,participant_135,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,48,2025-11-06T11:18:36.697796,2025-11-06T11:18:36.697796
+810,participant_135,6,Auction System - Açık artırma sistemi,Complementary,Ali - Facilitator,Completed,48,2025-11-06T11:18:36.697796,2025-11-06T11:18:36.697796
+811,participant_136,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,38,2025-09-27T11:18:36.697901,2025-09-27T11:18:36.697901
+812,participant_136,2,Voting System - Basit oylama mekanizması,Similar,Deniz - DApp Architect,Completed,55,2025-09-27T11:18:36.697901,2025-09-27T11:18:36.697901
+813,participant_136,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,42,2025-09-27T11:18:36.697901,2025-09-27T11:18:36.697901
+814,participant_136,4,NFT Minting - ERC721 benzeri NFT,Similar,Deniz - DApp Architect,Completed,54,2025-09-27T11:18:36.697901,2025-09-27T11:18:36.697901
+815,participant_136,5,Staking Contract - Token stake etme,Similar,Deniz - DApp Architect,Completed,45,2025-09-27T11:18:36.697901,2025-09-27T11:18:36.697901
+816,participant_136,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,53,2025-09-27T11:18:36.697901,2025-09-27T11:18:36.697901
+817,participant_137,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,49,2025-08-13T11:18:36.698007,2025-08-13T11:18:36.698007
+818,participant_137,2,Voting System - Basit oylama mekanizması,Similar,Can - Gas Optimizer,Completed,37,2025-08-13T11:18:36.698007,2025-08-13T11:18:36.698007
+819,participant_137,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,50,2025-08-13T11:18:36.698007,2025-08-13T11:18:36.698007
+820,participant_137,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,38,2025-08-13T11:18:36.698007,2025-08-13T11:18:36.698007
+821,participant_137,5,Staking Contract - Token stake etme,Similar,Can - Gas Optimizer,Completed,35,2025-08-13T11:18:36.698007,2025-08-13T11:18:36.698007
+822,participant_137,6,Auction System - Açık artırma sistemi,Similar,Can - Gas Optimizer,Completed,48,2025-08-13T11:18:36.698007,2025-08-13T11:18:36.698007
+823,participant_138,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Burak - Blockchain Specialist,Completed,49,2025-10-27T11:18:36.698111,2025-10-27T11:18:36.698111
+824,participant_138,2,Voting System - Basit oylama mekanizması,Similar,Can - Gas Optimizer,Completed,41,2025-10-27T11:18:36.698111,2025-10-27T11:18:36.698111
+825,participant_138,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Can - Gas Optimizer,Completed,39,2025-10-27T11:18:36.698111,2025-10-27T11:18:36.698111
+826,participant_138,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,42,2025-10-27T11:18:36.698111,2025-10-27T11:18:36.698111
+827,participant_138,5,Staking Contract - Token stake etme,Similar,Can - Gas Optimizer,Completed,40,2025-10-27T11:18:36.698111,2025-10-27T11:18:36.698111
+828,participant_138,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,52,2025-10-27T11:18:36.698111,2025-10-27T11:18:36.698111
+829,participant_139,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Dr. Ayşe - Beginner Friendly,Completed,53,2025-08-15T11:18:36.698216,2025-08-15T11:18:36.698216
+830,participant_139,2,Voting System - Basit oylama mekanizması,Complementary,Öğretmen Zeynep - Practical,Completed,37,2025-08-15T11:18:36.698216,2025-08-15T11:18:36.698216
+831,participant_139,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,38,2025-08-15T11:18:36.698216,2025-08-15T11:18:36.698216
+832,participant_139,4,NFT Minting - ERC721 benzeri NFT,Similar,Dr. Ayşe - Beginner Friendly,Completed,37,2025-08-15T11:18:36.698216,2025-08-15T11:18:36.698216
+833,participant_139,5,Staking Contract - Token stake etme,Complementary,Öğretmen Zeynep - Practical,Completed,47,2025-08-15T11:18:36.698216,2025-08-15T11:18:36.698216
+834,participant_139,6,Auction System - Açık artırma sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,41,2025-08-15T11:18:36.698216,2025-08-15T11:18:36.698216
+835,participant_140,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Öğretmen Zeynep - Practical,Completed,41,2025-08-13T11:18:36.698440,2025-08-13T11:18:36.698440
+836,participant_140,2,Voting System - Basit oylama mekanizması,Similar,Öğretmen Zeynep - Practical,Completed,37,2025-08-13T11:18:36.698440,2025-08-13T11:18:36.698440
+837,participant_140,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Mentor Fatma - Supportive,Completed,35,2025-08-13T11:18:36.698440,2025-08-13T11:18:36.698440
+838,participant_140,4,NFT Minting - ERC721 benzeri NFT,Similar,Öğretmen Zeynep - Practical,Completed,36,2025-08-13T11:18:36.698440,2025-08-13T11:18:36.698440
+839,participant_140,5,Staking Contract - Token stake etme,Complementary,Mentor Fatma - Supportive,Completed,43,2025-08-13T11:18:36.698440,2025-08-13T11:18:36.698440
+840,participant_140,6,Auction System - Açık artırma sistemi,Complementary,Mentor Fatma - Supportive,Completed,43,2025-08-13T11:18:36.698440,2025-08-13T11:18:36.698440
+841,participant_141,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Elif - Security Aware,Completed,37,2025-08-21T11:18:36.698615,2025-08-21T11:18:36.698615
+842,participant_141,2,Voting System - Basit oylama mekanizması,Similar,Elif - Security Aware,Completed,47,2025-08-21T11:18:36.698615,2025-08-21T11:18:36.698615
+843,participant_141,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Elif - Security Aware,Completed,37,2025-08-21T11:18:36.698615,2025-08-21T11:18:36.698615
+844,participant_141,4,NFT Minting - ERC721 benzeri NFT,Complementary,Deniz - DApp Architect,Completed,36,2025-08-21T11:18:36.698615,2025-08-21T11:18:36.698615
+845,participant_141,5,Staking Contract - Token stake etme,Complementary,Deniz - DApp Architect,Completed,52,2025-08-21T11:18:36.698615,2025-08-21T11:18:36.698615
+846,participant_141,6,Auction System - Açık artırma sistemi,Complementary,Deniz - DApp Architect,Completed,48,2025-08-21T11:18:36.698615,2025-08-21T11:18:36.698615
+847,participant_142,1,Token Transfer Contract - ERC20 benzeri basit token,Complementary,Öğretmen Zeynep - Practical,Completed,47,2025-11-09T11:18:36.698738,2025-11-09T11:18:36.698738
+848,participant_142,2,Voting System - Basit oylama mekanizması,Similar,Dr. Ayşe - Beginner Friendly,Completed,54,2025-11-09T11:18:36.698738,2025-11-09T11:18:36.698738
+849,participant_142,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,36,2025-11-09T11:18:36.698738,2025-11-09T11:18:36.698738
+850,participant_142,4,NFT Minting - ERC721 benzeri NFT,Complementary,Öğretmen Zeynep - Practical,Completed,44,2025-11-09T11:18:36.698738,2025-11-09T11:18:36.698738
+851,participant_142,5,Staking Contract - Token stake etme,Complementary,Öğretmen Zeynep - Practical,Completed,43,2025-11-09T11:18:36.698738,2025-11-09T11:18:36.698738
+852,participant_142,6,Auction System - Açık artırma sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,35,2025-11-09T11:18:36.698738,2025-11-09T11:18:36.698738
+853,participant_143,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Can - Gas Optimizer,Completed,45,2025-09-10T11:18:36.698851,2025-09-10T11:18:36.698851
+854,participant_143,2,Voting System - Basit oylama mekanizması,Complementary,Burak - Blockchain Specialist,Completed,55,2025-09-10T11:18:36.698851,2025-09-10T11:18:36.698851
+855,participant_143,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,49,2025-09-10T11:18:36.698851,2025-09-10T11:18:36.698851
+856,participant_143,4,NFT Minting - ERC721 benzeri NFT,Similar,Can - Gas Optimizer,Completed,47,2025-09-10T11:18:36.698851,2025-09-10T11:18:36.698851
+857,participant_143,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,39,2025-09-10T11:18:36.698851,2025-09-10T11:18:36.698851
+858,participant_143,6,Auction System - Açık artırma sistemi,Similar,Can - Gas Optimizer,Completed,46,2025-09-10T11:18:36.698851,2025-09-10T11:18:36.698851
+859,participant_144,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Elif - Security Aware,Completed,36,2025-10-22T11:18:36.698969,2025-10-22T11:18:36.698969
+860,participant_144,2,Voting System - Basit oylama mekanizması,Similar,Elif - Security Aware,Completed,52,2025-10-22T11:18:36.698969,2025-10-22T11:18:36.698969
+861,participant_144,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Deniz - DApp Architect,Completed,40,2025-10-22T11:18:36.698969,2025-10-22T11:18:36.698969
+862,participant_144,4,NFT Minting - ERC721 benzeri NFT,Similar,Elif - Security Aware,Completed,53,2025-10-22T11:18:36.698969,2025-10-22T11:18:36.698969
+863,participant_144,5,Staking Contract - Token stake etme,Complementary,Deniz - DApp Architect,Completed,37,2025-10-22T11:18:36.698969,2025-10-22T11:18:36.698969
+864,participant_144,6,Auction System - Açık artırma sistemi,Complementary,Deniz - DApp Architect,Completed,41,2025-10-22T11:18:36.698969,2025-10-22T11:18:36.698969
+865,participant_145,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Prof. Mehmet - Academic,Completed,54,2025-10-04T11:18:36.699090,2025-10-04T11:18:36.699090
+866,participant_145,2,Voting System - Basit oylama mekanizması,Complementary,Ali - Facilitator,Completed,54,2025-10-04T11:18:36.699090,2025-10-04T11:18:36.699090
+867,participant_145,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Prof. Mehmet - Academic,Completed,47,2025-10-04T11:18:36.699090,2025-10-04T11:18:36.699090
+868,participant_145,4,NFT Minting - ERC721 benzeri NFT,Complementary,Ali - Facilitator,Completed,46,2025-10-04T11:18:36.699090,2025-10-04T11:18:36.699090
+869,participant_145,5,Staking Contract - Token stake etme,Complementary,Ali - Facilitator,Completed,37,2025-10-04T11:18:36.699090,2025-10-04T11:18:36.699090
+870,participant_145,6,Auction System - Açık artırma sistemi,Similar,Prof. Mehmet - Academic,Completed,39,2025-10-04T11:18:36.699090,2025-10-04T11:18:36.699090
+871,participant_146,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Deniz - DApp Architect,Completed,43,2025-08-22T11:18:36.699200,2025-08-22T11:18:36.699200
+872,participant_146,2,Voting System - Basit oylama mekanizması,Similar,Deniz - DApp Architect,Completed,44,2025-08-22T11:18:36.699200,2025-08-22T11:18:36.699200
+873,participant_146,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Deniz - DApp Architect,Completed,42,2025-08-22T11:18:36.699200,2025-08-22T11:18:36.699200
+874,participant_146,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,46,2025-08-22T11:18:36.699200,2025-08-22T11:18:36.699200
+875,participant_146,5,Staking Contract - Token stake etme,Complementary,Burak - Blockchain Specialist,Completed,52,2025-08-22T11:18:36.699200,2025-08-22T11:18:36.699200
+876,participant_146,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,40,2025-08-22T11:18:36.699200,2025-08-22T11:18:36.699200
+877,participant_147,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Dr. Ayşe - Beginner Friendly,Completed,35,2025-08-20T11:18:36.699311,2025-08-20T11:18:36.699311
+878,participant_147,2,Voting System - Basit oylama mekanizması,Complementary,Öğretmen Zeynep - Practical,Completed,45,2025-08-20T11:18:36.699311,2025-08-20T11:18:36.699311
+879,participant_147,3,Escrow Contract - Güvenli ödeme sistemi,Similar,Dr. Ayşe - Beginner Friendly,Completed,40,2025-08-20T11:18:36.699311,2025-08-20T11:18:36.699311
+880,participant_147,4,NFT Minting - ERC721 benzeri NFT,Complementary,Öğretmen Zeynep - Practical,Completed,36,2025-08-20T11:18:36.699311,2025-08-20T11:18:36.699311
+881,participant_147,5,Staking Contract - Token stake etme,Similar,Dr. Ayşe - Beginner Friendly,Completed,54,2025-08-20T11:18:36.699311,2025-08-20T11:18:36.699311
+882,participant_147,6,Auction System - Açık artırma sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,47,2025-08-20T11:18:36.699311,2025-08-20T11:18:36.699311
+883,participant_148,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Ahmet - Smart Contract Beginner,Completed,35,2025-11-05T11:18:36.699429,2025-11-05T11:18:36.699429
+884,participant_148,2,Voting System - Basit oylama mekanizması,Complementary,Can - Gas Optimizer,Completed,37,2025-11-05T11:18:36.699429,2025-11-05T11:18:36.699429
+885,participant_148,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Can - Gas Optimizer,Completed,51,2025-11-05T11:18:36.699429,2025-11-05T11:18:36.699429
+886,participant_148,4,NFT Minting - ERC721 benzeri NFT,Complementary,Can - Gas Optimizer,Completed,35,2025-11-05T11:18:36.699429,2025-11-05T11:18:36.699429
+887,participant_148,5,Staking Contract - Token stake etme,Similar,Ahmet - Smart Contract Beginner,Completed,45,2025-11-05T11:18:36.699429,2025-11-05T11:18:36.699429
+888,participant_148,6,Auction System - Açık artırma sistemi,Similar,Ahmet - Smart Contract Beginner,Completed,53,2025-11-05T11:18:36.699429,2025-11-05T11:18:36.699429
+889,participant_149,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Burak - Blockchain Specialist,Completed,52,2025-10-01T11:18:36.699540,2025-10-01T11:18:36.699540
+890,participant_149,2,Voting System - Basit oylama mekanizması,Similar,Burak - Blockchain Specialist,Completed,45,2025-10-01T11:18:36.699540,2025-10-01T11:18:36.699540
+891,participant_149,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Burak - Blockchain Specialist,Completed,41,2025-10-01T11:18:36.699540,2025-10-01T11:18:36.699540
+892,participant_149,4,NFT Minting - ERC721 benzeri NFT,Complementary,Burak - Blockchain Specialist,Completed,48,2025-10-01T11:18:36.699540,2025-10-01T11:18:36.699540
+893,participant_149,5,Staking Contract - Token stake etme,Similar,Burak - Blockchain Specialist,Completed,43,2025-10-01T11:18:36.699540,2025-10-01T11:18:36.699540
+894,participant_149,6,Auction System - Açık artırma sistemi,Complementary,Burak - Blockchain Specialist,Completed,44,2025-10-01T11:18:36.699540,2025-10-01T11:18:36.699540
+895,participant_150,1,Token Transfer Contract - ERC20 benzeri basit token,Similar,Dr. Ayşe - Beginner Friendly,Completed,49,2025-11-08T11:18:36.699658,2025-11-08T11:18:36.699658
+896,participant_150,2,Voting System - Basit oylama mekanizması,Similar,Dr. Ayşe - Beginner Friendly,Completed,41,2025-11-08T11:18:36.699658,2025-11-08T11:18:36.699658
+897,participant_150,3,Escrow Contract - Güvenli ödeme sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,38,2025-11-08T11:18:36.699658,2025-11-08T11:18:36.699658
+898,participant_150,4,NFT Minting - ERC721 benzeri NFT,Similar,Dr. Ayşe - Beginner Friendly,Completed,52,2025-11-08T11:18:36.699658,2025-11-08T11:18:36.699658
+899,participant_150,5,Staking Contract - Token stake etme,Complementary,Öğretmen Zeynep - Practical,Completed,49,2025-11-08T11:18:36.699658,2025-11-08T11:18:36.699658
+900,participant_150,6,Auction System - Açık artırma sistemi,Complementary,Öğretmen Zeynep - Practical,Completed,43,2025-11-08T11:18:36.699658,2025-11-08T11:18:36.699658

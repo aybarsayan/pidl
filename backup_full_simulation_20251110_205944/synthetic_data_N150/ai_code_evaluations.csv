@@ -1,0 +1,901 @@
+code_understandability,explanation_quality,educational_value,perceived_code_quality,perceived_security,best_aspect,improvement_needed,session_id
+8,8,7,7,8,Açıklamalar çok netti,Daha fazla örnek olabilir,1
+9,10,9,8,9,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,2
+7,9,9,9,8,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,3
+8,7,9,9,8,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,4
+7,8,8,7,6,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,5
+8,6,8,8,8,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,6
+7,8,7,7,9,Örnekler gerçekçiydi,Daha fazla örnek olabilir,7
+8,10,10,9,8,Adım adım öğretiyordu,Görsel diyagramlar olabilir,8
+7,6,6,8,8,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,9
+9,9,7,8,7,Açıklamalar çok netti,Daha detaylı güvenlik analizi,10
+7,7,8,8,8,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,11
+8,10,9,8,10,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,12
+7,7,7,7,8,Örnekler gerçekçiydi,Daha fazla örnek olabilir,13
+7,9,8,8,8,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,14
+8,7,8,8,8,Güvenlik konusunda bilinçliydi,,15
+9,9,9,9,9,Açıklamalar çok netti,Görsel diyagramlar olabilir,16
+7,6,8,6,7,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,17
+8,7,9,9,9,Adım adım öğretiyordu,,18
+10,10,10,10,10,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,19
+9,8,9,7,9,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,20
+9,9,10,9,9,Örnekler gerçekçiydi,,21
+9,10,9,10,9,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,22
+10,9,9,10,10,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,23
+8,8,10,9,10,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,24
+9,10,9,9,9,Örnekler gerçekçiydi,,25
+8,8,8,9,9,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,26
+8,10,9,10,10,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,27
+7,8,9,8,9,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,28
+10,9,10,8,8,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,29
+9,10,10,10,9,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,30
+8,8,9,8,10,Kod kalitesi iyiydi,,31
+7,8,7,7,9,Güvenlik konusunda bilinçliydi,,32
+9,9,9,9,9,Adım adım öğretiyordu,Görsel diyagramlar olabilir,33
+7,7,8,7,9,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,34
+7,7,8,9,8,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,35
+9,8,8,9,8,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,36
+7,8,7,7,8,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,37
+9,8,7,8,7,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,38
+8,7,8,9,7,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,39
+10,10,10,9,8,Örnekler gerçekçiydi,Daha fazla örnek olabilir,40
+9,8,9,7,9,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,41
+8,7,7,8,6,Örnekler gerçekçiydi,Daha fazla örnek olabilir,42
+10,10,9,8,8,Güvenlik konusunda bilinçliydi,,43
+10,8,9,8,9,Kod kalitesi iyiydi,Daha fazla örnek olabilir,44
+8,10,9,9,8,Adım adım öğretiyordu,Görsel diyagramlar olabilir,45
+10,9,9,9,8,Adım adım öğretiyordu,,46
+10,8,10,9,9,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,47
+9,10,10,10,10,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,48
+9,8,7,9,9,Kod kalitesi iyiydi,,49
+7,9,9,7,8,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,50
+7,8,8,7,7,Güvenlik konusunda bilinçliydi,,51
+8,10,8,9,10,Adım adım öğretiyordu,Daha fazla örnek olabilir,52
+7,8,9,8,7,Örnekler gerçekçiydi,,53
+6,7,9,7,6,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,54
+6,8,7,8,8,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,55
+9,7,7,9,9,Kod kalitesi iyiydi,,56
+9,8,9,7,7,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,57
+7,7,6,7,8,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,58
+6,7,8,7,6,Kod kalitesi iyiydi,,59
+6,8,8,8,7,Adım adım öğretiyordu,Görsel diyagramlar olabilir,60
+10,10,10,9,8,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,61
+8,8,9,10,8,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,62
+6,8,6,8,7,Kod kalitesi iyiydi,,63
+7,7,8,7,8,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,64
+6,8,7,7,6,Örnekler gerçekçiydi,,65
+9,10,8,10,8,Adım adım öğretiyordu,Daha fazla örnek olabilir,66
+9,9,9,8,8,Açıklamalar çok netti,Daha detaylı güvenlik analizi,67
+8,8,7,7,7,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,68
+7,7,7,7,7,Açıklamalar çok netti,Daha detaylı güvenlik analizi,69
+10,10,10,9,10,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,70
+10,9,10,10,10,Güvenlik konusunda bilinçliydi,,71
+8,9,8,9,9,Açıklamalar çok netti,Daha fazla örnek olabilir,72
+8,6,8,6,7,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,73
+8,9,7,9,8,Güvenlik konusunda bilinçliydi,,74
+10,9,9,10,9,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,75
+8,8,7,8,7,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,76
+6,8,7,6,8,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,77
+8,9,8,9,9,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,78
+8,10,9,8,9,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,79
+7,7,9,9,8,Adım adım öğretiyordu,Görsel diyagramlar olabilir,80
+9,8,9,10,9,Adım adım öğretiyordu,,81
+9,8,8,9,9,Açıklamalar çok netti,Daha detaylı güvenlik analizi,82
+9,9,9,10,8,Adım adım öğretiyordu,,83
+9,8,9,10,9,Adım adım öğretiyordu,Daha fazla örnek olabilir,84
+8,7,6,6,6,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,85
+9,7,7,7,7,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,86
+9,10,10,10,8,Açıklamalar çok netti,Görsel diyagramlar olabilir,87
+9,8,9,10,9,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,88
+9,9,8,8,8,Kod kalitesi iyiydi,Daha fazla örnek olabilir,89
+9,9,7,9,7,Güvenlik konusunda bilinçliydi,,90
+7,9,7,9,9,Güvenlik konusunda bilinçliydi,,91
+10,9,10,9,9,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,92
+10,9,10,10,9,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,93
+8,8,8,10,9,Açıklamalar çok netti,Görsel diyagramlar olabilir,94
+8,9,8,9,9,Güvenlik konusunda bilinçliydi,,95
+10,9,9,10,9,Açıklamalar çok netti,,96
+8,7,8,9,8,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,97
+9,10,9,8,9,Örnekler gerçekçiydi,,98
+10,10,10,10,10,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,99
+10,10,10,9,10,Açıklamalar çok netti,Görsel diyagramlar olabilir,100
+10,9,9,10,9,Adım adım öğretiyordu,Görsel diyagramlar olabilir,101
+9,10,8,9,10,Açıklamalar çok netti,Daha fazla örnek olabilir,102
+7,9,7,9,9,Kod kalitesi iyiydi,Daha fazla örnek olabilir,103
+9,7,9,9,8,Örnekler gerçekçiydi,,104
+7,7,9,7,9,Açıklamalar çok netti,Daha detaylı güvenlik analizi,105
+8,8,8,8,8,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,106
+9,9,9,9,9,Açıklamalar çok netti,Görsel diyagramlar olabilir,107
+8,8,9,8,7,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,108
+8,9,7,7,7,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,109
+7,8,9,9,9,Adım adım öğretiyordu,,110
+10,8,9,10,9,Örnekler gerçekçiydi,,111
+7,9,9,8,9,Açıklamalar çok netti,Görsel diyagramlar olabilir,112
+7,7,8,7,6,Kod kalitesi iyiydi,,113
+6,8,7,7,7,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,114
+8,8,8,8,8,Adım adım öğretiyordu,,115
+9,9,9,10,8,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,116
+9,9,7,7,7,Kod kalitesi iyiydi,,117
+9,9,7,9,9,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,118
+7,9,9,7,9,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,119
+8,7,7,8,7,Açıklamalar çok netti,Daha detaylı güvenlik analizi,120
+9,9,10,8,9,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,121
+8,8,9,10,8,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,122
+10,10,8,10,10,Güvenlik konusunda bilinçliydi,,123
+10,9,10,10,10,Adım adım öğretiyordu,Daha fazla örnek olabilir,124
+10,8,8,8,10,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,125
+8,8,10,10,10,Kod kalitesi iyiydi,,126
+9,8,9,7,8,Açıklamalar çok netti,Daha detaylı güvenlik analizi,127
+10,8,8,10,8,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,128
+10,8,10,9,9,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,129
+8,7,9,7,9,Kod kalitesi iyiydi,Daha fazla örnek olabilir,130
+9,7,8,9,8,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,131
+9,8,8,9,9,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,132
+7,9,8,8,8,Güvenlik konusunda bilinçliydi,,133
+8,8,9,9,8,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,134
+8,8,8,8,9,Açıklamalar çok netti,Görsel diyagramlar olabilir,135
+7,7,9,8,8,Açıklamalar çok netti,,136
+7,9,9,7,7,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,137
+10,8,8,10,9,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,138
+8,8,8,10,10,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,139
+8,10,8,10,9,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,140
+10,9,10,8,10,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,141
+9,9,10,8,8,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,142
+9,10,10,9,10,Örnekler gerçekçiydi,,143
+8,9,7,8,8,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,144
+8,9,9,9,7,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,145
+9,8,9,9,7,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,146
+9,10,9,10,10,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,147
+10,10,10,10,10,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,148
+8,8,7,9,9,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,149
+9,9,9,9,9,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,150
+9,10,9,9,10,Kod kalitesi iyiydi,Daha fazla örnek olabilir,151
+8,8,8,10,9,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,152
+9,8,8,10,9,Adım adım öğretiyordu,,153
+9,10,9,10,10,Kod kalitesi iyiydi,Daha fazla örnek olabilir,154
+8,9,9,10,9,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,155
+8,10,8,9,10,Adım adım öğretiyordu,Daha fazla örnek olabilir,156
+7,7,8,8,9,Adım adım öğretiyordu,Görsel diyagramlar olabilir,157
+7,8,9,7,7,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,158
+9,8,10,10,9,Adım adım öğretiyordu,Görsel diyagramlar olabilir,159
+7,9,9,8,8,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,160
+9,7,8,9,8,Güvenlik konusunda bilinçliydi,,161
+9,8,8,8,8,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,162
+9,8,9,8,7,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,163
+10,10,9,9,9,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,164
+8,7,8,9,7,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,165
+9,9,8,10,9,Açıklamalar çok netti,Daha detaylı güvenlik analizi,166
+6,6,7,6,8,Açıklamalar çok netti,Görsel diyagramlar olabilir,167
+8,9,9,8,8,Kod kalitesi iyiydi,Daha fazla örnek olabilir,168
+9,9,8,8,9,Adım adım öğretiyordu,Görsel diyagramlar olabilir,169
+7,7,7,9,9,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,170
+9,7,9,9,9,Kod kalitesi iyiydi,Daha fazla örnek olabilir,171
+6,7,8,7,6,Adım adım öğretiyordu,,172
+7,9,7,9,7,Güvenlik konusunda bilinçliydi,,173
+8,7,10,8,8,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,174
+8,8,9,9,9,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,175
+8,7,7,8,9,Örnekler gerçekçiydi,Daha fazla örnek olabilir,176
+8,10,9,8,9,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,177
+6,7,8,8,6,Güvenlik konusunda bilinçliydi,,178
+6,6,9,6,8,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,179
+8,9,9,8,7,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,180
+10,8,10,9,8,Kod kalitesi iyiydi,,181
+10,9,9,8,10,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,182
+7,8,9,8,8,Kod kalitesi iyiydi,,183
+10,10,8,8,8,Adım adım öğretiyordu,Görsel diyagramlar olabilir,184
+10,10,9,10,10,Örnekler gerçekçiydi,Daha fazla örnek olabilir,185
+10,8,8,10,10,Örnekler gerçekçiydi,,186
+9,8,7,7,7,Adım adım öğretiyordu,,187
+8,8,8,7,9,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,188
+8,7,8,6,7,Güvenlik konusunda bilinçliydi,,189
+7,8,7,7,8,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,190
+7,7,7,7,7,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,191
+9,8,8,10,8,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,192
+9,8,8,8,7,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,193
+9,9,9,10,10,Kod kalitesi iyiydi,Daha fazla örnek olabilir,194
+9,9,8,9,10,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,195
+7,7,8,7,8,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,196
+7,8,9,8,6,Adım adım öğretiyordu,,197
+6,7,8,6,7,Adım adım öğretiyordu,Görsel diyagramlar olabilir,198
+7,7,8,6,6,Açıklamalar çok netti,,199
+10,9,9,8,9,Kod kalitesi iyiydi,,200
+6,8,6,6,7,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,201
+8,7,7,8,8,Adım adım öğretiyordu,Görsel diyagramlar olabilir,202
+8,8,9,9,8,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,203
+9,7,8,7,7,Açıklamalar çok netti,Görsel diyagramlar olabilir,204
+9,9,9,9,10,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,205
+8,7,6,8,7,Adım adım öğretiyordu,,206
+9,8,8,7,7,Kod kalitesi iyiydi,Daha fazla örnek olabilir,207
+7,7,9,7,7,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,208
+8,9,9,9,9,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,209
+10,8,9,9,9,Kod kalitesi iyiydi,,210
+8,10,10,10,10,Açıklamalar çok netti,Daha fazla örnek olabilir,211
+8,8,9,9,9,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,212
+9,10,9,10,10,Kod kalitesi iyiydi,,213
+9,9,10,10,10,Kod kalitesi iyiydi,,214
+10,9,10,10,10,Örnekler gerçekçiydi,,215
+9,10,9,10,9,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,216
+10,9,10,9,9,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,217
+9,9,7,7,9,Örnekler gerçekçiydi,,218
+10,9,9,9,8,Açıklamalar çok netti,Daha fazla örnek olabilir,219
+10,10,9,8,9,Açıklamalar çok netti,Daha detaylı güvenlik analizi,220
+9,9,10,10,10,Kod kalitesi iyiydi,Daha fazla örnek olabilir,221
+10,10,10,10,10,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,222
+7,7,8,7,7,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,223
+7,8,9,8,8,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,224
+8,10,8,8,9,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,225
+8,9,8,7,7,Açıklamalar çok netti,,226
+9,9,8,8,8,Güvenlik konusunda bilinçliydi,,227
+7,7,9,7,8,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,228
+8,9,7,7,7,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,229
+6,8,8,6,8,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,230
+6,6,7,6,7,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,231
+8,9,10,8,9,Açıklamalar çok netti,Daha detaylı güvenlik analizi,232
+10,10,8,9,10,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,233
+7,8,8,9,8,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,234
+6,8,7,7,8,Açıklamalar çok netti,Görsel diyagramlar olabilir,235
+9,8,8,9,9,Adım adım öğretiyordu,Görsel diyagramlar olabilir,236
+9,8,8,8,7,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,237
+7,7,9,7,7,Adım adım öğretiyordu,Daha fazla örnek olabilir,238
+7,7,7,8,7,Açıklamalar çok netti,Daha detaylı güvenlik analizi,239
+7,6,7,6,6,Adım adım öğretiyordu,,240
+8,8,7,8,7,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,241
+6,6,8,6,6,Kod kalitesi iyiydi,Daha fazla örnek olabilir,242
+9,10,10,10,9,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,243
+8,8,9,8,8,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,244
+8,9,8,9,7,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,245
+8,9,7,9,8,Adım adım öğretiyordu,Daha fazla örnek olabilir,246
+8,10,8,9,10,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,247
+9,10,10,10,9,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,248
+9,8,9,10,10,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,249
+10,9,8,10,10,Açıklamalar çok netti,Daha detaylı güvenlik analizi,250
+9,10,8,10,10,Örnekler gerçekçiydi,,251
+8,7,9,7,9,Kod kalitesi iyiydi,Daha fazla örnek olabilir,252
+10,9,9,9,10,Adım adım öğretiyordu,,253
+9,10,10,10,8,Açıklamalar çok netti,,254
+9,7,7,9,9,Kod kalitesi iyiydi,Daha fazla örnek olabilir,255
+10,10,10,8,10,Açıklamalar çok netti,Daha fazla örnek olabilir,256
+10,10,10,9,10,Adım adım öğretiyordu,,257
+8,7,7,7,9,Adım adım öğretiyordu,,258
+9,7,7,7,9,Açıklamalar çok netti,Daha fazla örnek olabilir,259
+7,9,9,7,7,Açıklamalar çok netti,Daha detaylı güvenlik analizi,260
+8,9,8,10,9,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,261
+6,7,8,7,6,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,262
+8,9,7,9,7,Açıklamalar çok netti,Daha detaylı güvenlik analizi,263
+6,7,6,7,6,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,264
+8,7,6,8,7,Açıklamalar çok netti,Daha fazla örnek olabilir,265
+9,10,10,8,9,Açıklamalar çok netti,Görsel diyagramlar olabilir,266
+8,7,8,8,8,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,267
+8,9,8,8,7,Açıklamalar çok netti,Daha detaylı güvenlik analizi,268
+7,8,7,8,7,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,269
+8,8,8,10,8,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,270
+7,9,10,7,8,Açıklamalar çok netti,Daha fazla örnek olabilir,271
+7,9,8,9,8,Kod kalitesi iyiydi,Daha fazla örnek olabilir,272
+6,7,8,6,6,Adım adım öğretiyordu,,273
+10,8,8,8,9,Kod kalitesi iyiydi,Daha fazla örnek olabilir,274
+10,10,9,10,10,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,275
+6,6,9,8,7,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,276
+7,9,9,7,9,Kod kalitesi iyiydi,,277
+7,8,8,7,8,Kod kalitesi iyiydi,Daha fazla örnek olabilir,278
+8,10,9,10,9,Adım adım öğretiyordu,Daha fazla örnek olabilir,279
+7,7,8,7,6,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,280
+9,8,8,9,7,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,281
+7,8,7,8,8,Açıklamalar çok netti,Görsel diyagramlar olabilir,282
+10,10,8,8,8,Açıklamalar çok netti,Daha fazla örnek olabilir,283
+8,10,9,9,10,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,284
+9,10,8,9,8,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,285
+8,6,8,7,7,Açıklamalar çok netti,Daha detaylı güvenlik analizi,286
+8,9,8,7,7,Adım adım öğretiyordu,Daha fazla örnek olabilir,287
+8,8,6,7,7,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,288
+8,9,8,8,8,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,289
+9,8,8,8,9,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,290
+9,9,9,8,10,Adım adım öğretiyordu,Görsel diyagramlar olabilir,291
+7,7,8,8,7,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,292
+7,6,6,6,8,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,293
+6,7,6,8,6,Kod kalitesi iyiydi,Daha fazla örnek olabilir,294
+9,8,8,10,10,Adım adım öğretiyordu,Görsel diyagramlar olabilir,295
+8,7,7,8,7,Kod kalitesi iyiydi,Daha fazla örnek olabilir,296
+9,8,9,9,9,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,297
+10,9,9,9,10,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,298
+7,7,8,9,7,Açıklamalar çok netti,Görsel diyagramlar olabilir,299
+8,9,9,10,9,Kod kalitesi iyiydi,,300
+8,8,8,9,10,Açıklamalar çok netti,Daha detaylı güvenlik analizi,301
+7,7,7,9,7,Örnekler gerçekçiydi,Daha fazla örnek olabilir,302
+9,9,9,10,8,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,303
+9,9,8,9,7,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,304
+6,6,8,6,6,Açıklamalar çok netti,Daha fazla örnek olabilir,305
+7,7,7,8,7,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,306
+9,10,10,9,10,Örnekler gerçekçiydi,,307
+8,9,10,10,10,Açıklamalar çok netti,,308
+10,9,9,10,9,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,309
+10,8,8,9,10,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,310
+8,9,7,7,7,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,311
+9,8,8,9,7,Açıklamalar çok netti,Daha detaylı güvenlik analizi,312
+8,9,9,7,8,Açıklamalar çok netti,,313
+9,8,8,7,9,Adım adım öğretiyordu,,314
+7,8,7,8,7,Örnekler gerçekçiydi,Daha fazla örnek olabilir,315
+7,6,7,6,7,Adım adım öğretiyordu,Daha fazla örnek olabilir,316
+8,9,7,9,8,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,317
+9,7,7,9,8,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,318
+9,8,8,9,9,Örnekler gerçekçiydi,Daha fazla örnek olabilir,319
+9,9,9,8,8,Adım adım öğretiyordu,Daha fazla örnek olabilir,320
+9,9,8,9,8,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,321
+10,9,9,8,8,Açıklamalar çok netti,Daha detaylı güvenlik analizi,322
+10,10,10,10,10,Adım adım öğretiyordu,Daha fazla örnek olabilir,323
+10,9,9,10,10,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,324
+8,8,8,7,7,Güvenlik konusunda bilinçliydi,,325
+9,7,7,8,9,Kod kalitesi iyiydi,Daha fazla örnek olabilir,326
+10,10,10,10,8,Açıklamalar çok netti,Görsel diyagramlar olabilir,327
+9,8,9,9,7,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,328
+6,8,7,8,6,Açıklamalar çok netti,Daha detaylı güvenlik analizi,329
+10,10,10,9,10,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,330
+10,10,10,10,9,Örnekler gerçekçiydi,,331
+9,7,9,8,9,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,332
+9,8,8,9,9,Açıklamalar çok netti,Daha fazla örnek olabilir,333
+9,10,10,8,8,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,334
+8,8,9,8,8,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,335
+9,10,10,10,10,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,336
+7,9,8,7,7,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,337
+10,8,9,10,9,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,338
+7,6,6,6,7,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,339
+7,8,9,9,8,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,340
+8,8,7,7,8,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,341
+8,6,8,7,7,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,342
+8,7,7,6,7,Kod kalitesi iyiydi,Daha fazla örnek olabilir,343
+8,8,7,8,9,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,344
+8,9,9,8,7,Güvenlik konusunda bilinçliydi,,345
+9,9,9,9,8,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,346
+10,8,9,8,10,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,347
+6,7,8,6,6,Açıklamalar çok netti,Görsel diyagramlar olabilir,348
+10,8,8,8,10,Adım adım öğretiyordu,Daha fazla örnek olabilir,349
+8,9,9,9,9,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,350
+8,8,6,8,6,Adım adım öğretiyordu,Daha fazla örnek olabilir,351
+9,7,9,7,7,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,352
+10,8,10,10,10,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,353
+7,8,8,9,9,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,354
+8,7,9,7,7,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,355
+7,8,8,7,6,Açıklamalar çok netti,Daha fazla örnek olabilir,356
+8,9,7,7,8,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,357
+8,6,8,6,8,Kod kalitesi iyiydi,,358
+6,6,7,7,6,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,359
+6,7,6,6,7,Açıklamalar çok netti,Görsel diyagramlar olabilir,360
+6,6,6,8,6,Kod kalitesi iyiydi,,361
+8,9,8,7,7,Adım adım öğretiyordu,Daha fazla örnek olabilir,362
+9,9,8,9,9,Açıklamalar çok netti,Görsel diyagramlar olabilir,363
+7,7,7,8,6,Örnekler gerçekçiydi,Daha fazla örnek olabilir,364
+8,7,8,8,8,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,365
+8,6,6,6,8,Adım adım öğretiyordu,,366
+7,9,8,8,9,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,367
+7,7,9,8,8,Açıklamalar çok netti,Görsel diyagramlar olabilir,368
+9,8,8,7,7,Açıklamalar çok netti,Görsel diyagramlar olabilir,369
+9,9,7,8,9,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,370
+8,8,8,7,8,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,371
+6,8,7,8,8,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,372
+9,8,9,8,8,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,373
+9,8,7,7,7,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,374
+7,9,7,9,8,Örnekler gerçekçiydi,Daha fazla örnek olabilir,375
+8,8,9,9,8,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,376
+8,8,8,10,10,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,377
+9,10,10,9,9,Açıklamalar çok netti,,378
+9,8,7,9,7,Açıklamalar çok netti,Daha detaylı güvenlik analizi,379
+8,8,9,8,9,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,380
+9,8,7,9,9,Kod kalitesi iyiydi,Daha fazla örnek olabilir,381
+6,6,9,6,6,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,382
+6,8,8,7,8,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,383
+6,8,8,8,8,Açıklamalar çok netti,Daha fazla örnek olabilir,384
+8,8,6,6,6,Kod kalitesi iyiydi,,385
+7,9,7,8,9,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,386
+6,7,6,7,8,Adım adım öğretiyordu,,387
+8,8,7,7,9,Adım adım öğretiyordu,Görsel diyagramlar olabilir,388
+8,8,7,6,7,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,389
+7,9,9,8,9,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,390
+10,9,9,9,10,Açıklamalar çok netti,Görsel diyagramlar olabilir,391
+7,7,8,7,7,Güvenlik konusunda bilinçliydi,,392
+10,9,10,10,10,Açıklamalar çok netti,,393
+8,9,9,10,8,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,394
+7,8,9,8,9,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,395
+8,9,10,8,9,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,396
+8,9,7,9,7,Örnekler gerçekçiydi,,397
+10,10,9,9,8,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,398
+7,7,7,7,9,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,399
+9,8,8,8,8,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,400
+8,10,8,10,10,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,401
+9,9,9,8,9,Kod kalitesi iyiydi,,402
+9,8,8,9,8,Adım adım öğretiyordu,Görsel diyagramlar olabilir,403
+8,8,8,8,7,Açıklamalar çok netti,,404
+10,9,10,10,10,Örnekler gerçekçiydi,,405
+10,10,8,10,9,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,406
+7,9,9,8,7,Kod kalitesi iyiydi,Daha fazla örnek olabilir,407
+10,10,9,10,10,Örnekler gerçekçiydi,,408
+8,9,10,9,9,Açıklamalar çok netti,Daha detaylı güvenlik analizi,409
+10,10,9,8,10,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,410
+6,6,8,6,8,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,411
+6,8,9,7,7,Kod kalitesi iyiydi,Daha fazla örnek olabilir,412
+9,9,8,10,8,Güvenlik konusunda bilinçliydi,,413
+10,9,9,10,10,Örnekler gerçekçiydi,,414
+10,9,9,8,9,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,415
+9,9,9,9,8,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,416
+8,8,8,10,10,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,417
+8,8,8,8,9,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,418
+9,8,10,9,8,Güvenlik konusunda bilinçliydi,,419
+10,10,10,10,10,Kod kalitesi iyiydi,Daha fazla örnek olabilir,420
+7,7,8,7,8,Örnekler gerçekçiydi,Daha fazla örnek olabilir,421
+9,8,10,9,8,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,422
+8,7,9,7,7,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,423
+8,8,7,8,9,Kod kalitesi iyiydi,Daha fazla örnek olabilir,424
+8,8,8,9,9,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,425
+7,9,10,7,7,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,426
+7,6,7,7,7,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,427
+8,7,9,9,7,Açıklamalar çok netti,Daha fazla örnek olabilir,428
+7,7,8,9,8,Kod kalitesi iyiydi,,429
+6,8,6,6,6,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,430
+7,8,9,9,8,Adım adım öğretiyordu,,431
+6,7,8,8,8,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,432
+9,10,10,9,8,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,433
+9,8,9,8,8,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,434
+8,7,8,7,9,Adım adım öğretiyordu,Daha fazla örnek olabilir,435
+10,10,10,9,9,Açıklamalar çok netti,Görsel diyagramlar olabilir,436
+10,9,9,8,8,Açıklamalar çok netti,Daha detaylı güvenlik analizi,437
+9,9,10,9,10,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,438
+7,6,8,8,7,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,439
+9,7,9,8,9,Kod kalitesi iyiydi,,440
+8,8,6,7,7,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,441
+7,8,7,8,9,Açıklamalar çok netti,,442
+7,8,8,7,8,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,443
+9,8,9,7,9,Güvenlik konusunda bilinçliydi,,444
+7,8,8,6,7,Adım adım öğretiyordu,,445
+9,7,7,7,7,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,446
+7,7,7,7,8,Açıklamalar çok netti,Görsel diyagramlar olabilir,447
+6,6,8,8,7,Güvenlik konusunda bilinçliydi,,448
+9,7,8,7,8,Örnekler gerçekçiydi,Daha fazla örnek olabilir,449
+8,8,9,9,9,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,450
+10,9,10,10,10,Açıklamalar çok netti,,451
+10,10,9,10,8,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,452
+10,10,10,9,8,Açıklamalar çok netti,Daha detaylı güvenlik analizi,453
+10,10,10,10,10,Örnekler gerçekçiydi,Daha fazla örnek olabilir,454
+7,7,7,9,9,Güvenlik konusunda bilinçliydi,,455
+8,8,8,8,8,Örnekler gerçekçiydi,Daha fazla örnek olabilir,456
+8,8,9,8,10,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,457
+8,9,8,10,9,Açıklamalar çok netti,Daha detaylı güvenlik analizi,458
+9,8,7,8,8,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,459
+10,10,10,10,10,Güvenlik konusunda bilinçliydi,,460
+8,8,9,9,7,Güvenlik konusunda bilinçliydi,,461
+9,10,10,10,9,Kod kalitesi iyiydi,,462
+9,8,8,8,9,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,463
+10,9,8,10,9,Adım adım öğretiyordu,Daha fazla örnek olabilir,464
+9,10,10,10,10,Adım adım öğretiyordu,Daha fazla örnek olabilir,465
+8,9,9,10,10,Adım adım öğretiyordu,Görsel diyagramlar olabilir,466
+7,8,9,8,9,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,467
+10,10,9,9,8,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,468
+8,9,9,9,8,Örnekler gerçekçiydi,Daha fazla örnek olabilir,469
+9,10,10,10,9,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,470
+10,10,8,9,10,Açıklamalar çok netti,,471
+10,10,9,10,10,Güvenlik konusunda bilinçliydi,,472
+9,8,10,8,9,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,473
+10,10,10,8,8,Güvenlik konusunda bilinçliydi,,474
+8,7,8,8,7,Kod kalitesi iyiydi,,475
+10,10,10,10,9,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,476
+9,9,8,9,9,Kod kalitesi iyiydi,Daha fazla örnek olabilir,477
+8,8,10,8,8,Örnekler gerçekçiydi,Daha fazla örnek olabilir,478
+10,10,9,10,10,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,479
+10,9,8,8,9,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,480
+8,9,9,8,7,Kod kalitesi iyiydi,,481
+6,6,7,8,7,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,482
+6,8,8,6,8,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,483
+8,9,7,7,7,Örnekler gerçekçiydi,Daha fazla örnek olabilir,484
+8,9,9,8,9,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,485
+9,9,9,9,8,Kod kalitesi iyiydi,,486
+9,9,8,10,10,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,487
+9,8,8,9,9,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,488
+8,6,8,6,7,Açıklamalar çok netti,Görsel diyagramlar olabilir,489
+8,9,8,9,8,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,490
+9,8,9,9,10,Örnekler gerçekçiydi,Daha fazla örnek olabilir,491
+9,9,8,8,9,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,492
+8,10,8,8,9,Örnekler gerçekçiydi,,493
+10,8,8,8,9,Örnekler gerçekçiydi,Daha fazla örnek olabilir,494
+8,7,9,8,7,Açıklamalar çok netti,Daha detaylı güvenlik analizi,495
+10,10,10,10,9,Adım adım öğretiyordu,,496
+8,7,8,8,8,Kod kalitesi iyiydi,,497
+8,9,9,10,10,Açıklamalar çok netti,Görsel diyagramlar olabilir,498
+10,10,9,10,10,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,499
+10,10,8,8,10,Örnekler gerçekçiydi,,500
+9,9,10,9,10,Örnekler gerçekçiydi,,501
+10,9,10,9,10,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,502
+8,8,8,9,10,Açıklamalar çok netti,Daha fazla örnek olabilir,503
+8,8,10,8,8,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,504
+8,8,8,7,7,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,505
+9,10,8,9,8,Adım adım öğretiyordu,Daha fazla örnek olabilir,506
+7,9,9,9,9,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,507
+10,9,9,9,10,Örnekler gerçekçiydi,,508
+7,7,7,7,7,Açıklamalar çok netti,,509
+9,9,9,10,10,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,510
+7,7,8,6,7,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,511
+7,7,6,8,7,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,512
+8,8,6,7,7,Güvenlik konusunda bilinçliydi,,513
+8,8,7,8,8,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,514
+7,7,7,8,9,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,515
+7,6,8,6,8,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,516
+9,9,8,8,9,Örnekler gerçekçiydi,,517
+10,10,9,10,10,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,518
+7,8,9,9,8,Açıklamalar çok netti,,519
+10,9,10,9,9,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,520
+8,9,7,7,8,Örnekler gerçekçiydi,,521
+9,9,9,8,7,Açıklamalar çok netti,,522
+8,8,9,9,9,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,523
+9,9,8,8,8,Açıklamalar çok netti,,524
+10,8,8,8,10,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,525
+10,10,8,8,8,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,526
+9,9,7,8,9,Örnekler gerçekçiydi,Daha fazla örnek olabilir,527
+10,8,10,8,8,Kod kalitesi iyiydi,Daha fazla örnek olabilir,528
+9,10,10,8,9,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,529
+9,8,8,7,7,Örnekler gerçekçiydi,Daha fazla örnek olabilir,530
+10,9,10,10,10,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,531
+7,9,9,9,9,Açıklamalar çok netti,,532
+7,8,7,7,9,Kod kalitesi iyiydi,Daha fazla örnek olabilir,533
+10,10,10,10,10,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,534
+9,8,10,8,9,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,535
+7,8,7,7,7,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,536
+7,8,9,7,7,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,537
+8,9,7,9,8,Kod kalitesi iyiydi,Daha fazla örnek olabilir,538
+8,8,8,9,9,Açıklamalar çok netti,,539
+8,9,9,8,9,Adım adım öğretiyordu,,540
+10,10,10,10,9,Kod kalitesi iyiydi,Daha fazla örnek olabilir,541
+9,8,9,9,9,Örnekler gerçekçiydi,Daha fazla örnek olabilir,542
+9,8,8,8,9,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,543
+8,8,10,8,8,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,544
+8,8,8,8,8,Açıklamalar çok netti,,545
+8,9,8,9,9,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,546
+9,9,9,10,9,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,547
+7,7,9,8,9,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,548
+9,9,10,8,8,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,549
+10,9,8,10,10,Kod kalitesi iyiydi,Daha fazla örnek olabilir,550
+9,9,8,10,8,Açıklamalar çok netti,Daha detaylı güvenlik analizi,551
+9,10,9,9,9,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,552
+9,8,9,7,7,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,553
+9,10,9,10,8,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,554
+6,7,8,8,6,Güvenlik konusunda bilinçliydi,,555
+7,9,10,9,7,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,556
+7,8,8,8,8,Açıklamalar çok netti,Daha detaylı güvenlik analizi,557
+7,9,8,8,7,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,558
+8,8,8,7,6,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,559
+8,8,7,7,9,Açıklamalar çok netti,,560
+9,7,7,8,9,Kod kalitesi iyiydi,Daha fazla örnek olabilir,561
+9,9,9,7,9,Kod kalitesi iyiydi,,562
+7,9,7,9,9,Açıklamalar çok netti,Daha detaylı güvenlik analizi,563
+8,8,7,6,7,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,564
+7,8,9,9,7,Adım adım öğretiyordu,,565
+8,8,7,8,9,Örnekler gerçekçiydi,,566
+9,7,9,9,8,Adım adım öğretiyordu,Görsel diyagramlar olabilir,567
+8,7,9,7,9,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,568
+8,9,7,9,8,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,569
+10,8,10,9,10,Açıklamalar çok netti,Daha fazla örnek olabilir,570
+7,8,8,8,8,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,571
+7,9,7,7,7,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,572
+8,8,9,7,8,Açıklamalar çok netti,Daha fazla örnek olabilir,573
+8,9,9,10,8,Açıklamalar çok netti,Daha detaylı güvenlik analizi,574
+7,8,9,8,7,Adım adım öğretiyordu,Daha fazla örnek olabilir,575
+8,10,9,10,8,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,576
+9,7,9,9,7,Örnekler gerçekçiydi,Daha fazla örnek olabilir,577
+7,9,8,9,7,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,578
+9,8,10,9,9,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,579
+7,7,9,8,7,Örnekler gerçekçiydi,Daha fazla örnek olabilir,580
+7,8,7,9,7,Açıklamalar çok netti,Daha detaylı güvenlik analizi,581
+8,8,7,8,7,Kod kalitesi iyiydi,,582
+8,7,9,9,7,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,583
+6,8,7,8,8,Açıklamalar çok netti,Daha fazla örnek olabilir,584
+9,7,9,7,9,Açıklamalar çok netti,Daha detaylı güvenlik analizi,585
+7,9,9,8,9,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,586
+7,7,8,7,8,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,587
+6,6,8,7,6,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,588
+7,6,8,8,6,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,589
+9,10,9,9,8,Güvenlik konusunda bilinçliydi,,590
+9,9,7,8,9,Örnekler gerçekçiydi,Daha fazla örnek olabilir,591
+9,9,9,7,8,Adım adım öğretiyordu,Daha fazla örnek olabilir,592
+7,7,7,7,9,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,593
+7,8,8,6,6,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,594
+8,8,10,9,10,Açıklamalar çok netti,Daha fazla örnek olabilir,595
+10,10,8,10,10,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,596
+9,7,9,7,9,Adım adım öğretiyordu,Daha fazla örnek olabilir,597
+7,7,9,9,7,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,598
+8,10,8,9,8,Açıklamalar çok netti,Daha detaylı güvenlik analizi,599
+10,9,8,8,9,Açıklamalar çok netti,,600
+9,7,9,7,9,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,601
+7,6,8,6,6,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,602
+8,7,8,6,6,Adım adım öğretiyordu,Daha fazla örnek olabilir,603
+9,8,8,8,8,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,604
+8,8,8,10,10,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,605
+8,8,8,9,10,Açıklamalar çok netti,Görsel diyagramlar olabilir,606
+6,6,8,7,6,Güvenlik konusunda bilinçliydi,,607
+8,8,9,9,9,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,608
+7,7,10,7,7,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,609
+8,8,8,7,9,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,610
+10,9,8,8,9,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,611
+7,8,9,9,9,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,612
+8,9,7,8,7,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,613
+7,6,8,7,7,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,614
+8,7,9,8,8,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,615
+8,7,8,9,7,Adım adım öğretiyordu,,616
+7,8,9,8,8,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,617
+7,7,8,7,7,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,618
+7,8,8,8,9,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,619
+9,9,8,10,10,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,620
+9,7,7,9,9,Açıklamalar çok netti,Daha detaylı güvenlik analizi,621
+9,10,9,9,8,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,622
+10,10,10,10,9,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,623
+9,9,8,10,9,Kod kalitesi iyiydi,,624
+8,8,7,7,9,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,625
+7,7,8,8,7,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,626
+10,9,10,9,9,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,627
+9,7,8,8,8,Adım adım öğretiyordu,Daha fazla örnek olabilir,628
+10,10,9,8,10,Açıklamalar çok netti,Daha fazla örnek olabilir,629
+7,8,9,9,8,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,630
+10,8,9,9,9,Örnekler gerçekçiydi,,631
+9,8,9,9,7,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,632
+9,8,9,9,8,Açıklamalar çok netti,Görsel diyagramlar olabilir,633
+9,10,9,8,9,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,634
+10,10,9,10,9,Örnekler gerçekçiydi,,635
+10,10,10,10,10,Kod kalitesi iyiydi,,636
+10,10,9,10,10,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,637
+10,10,10,10,9,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,638
+8,7,8,8,7,Adım adım öğretiyordu,Daha fazla örnek olabilir,639
+7,7,8,7,8,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,640
+9,9,10,10,10,Örnekler gerçekçiydi,,641
+8,7,9,9,9,Kod kalitesi iyiydi,,642
+8,10,9,9,9,Örnekler gerçekçiydi,Daha fazla örnek olabilir,643
+9,10,10,10,10,Açıklamalar çok netti,Daha detaylı güvenlik analizi,644
+8,10,9,10,10,Örnekler gerçekçiydi,,645
+9,8,10,8,9,Açıklamalar çok netti,,646
+8,10,10,8,9,Açıklamalar çok netti,Görsel diyagramlar olabilir,647
+10,10,9,10,9,Açıklamalar çok netti,Görsel diyagramlar olabilir,648
+8,7,7,8,9,Adım adım öğretiyordu,,649
+9,10,10,8,10,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,650
+8,8,9,9,10,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,651
+7,9,7,9,7,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,652
+8,9,9,7,7,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,653
+9,8,8,7,7,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,654
+9,8,8,9,9,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,655
+8,9,8,8,9,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,656
+8,6,8,8,7,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,657
+9,7,9,8,9,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,658
+8,6,8,6,6,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,659
+8,7,8,9,8,Kod kalitesi iyiydi,,660
+9,9,9,9,8,Örnekler gerçekçiydi,Daha fazla örnek olabilir,661
+8,6,7,8,7,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,662
+6,6,7,8,8,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,663
+9,8,7,9,9,Kod kalitesi iyiydi,Daha fazla örnek olabilir,664
+8,8,8,8,7,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,665
+8,7,7,7,7,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,666
+8,8,9,8,9,Açıklamalar çok netti,Daha detaylı güvenlik analizi,667
+8,10,8,8,8,Adım adım öğretiyordu,,668
+9,9,9,7,9,Adım adım öğretiyordu,,669
+10,8,9,9,8,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,670
+8,8,9,10,10,Açıklamalar çok netti,Daha fazla örnek olabilir,671
+10,9,10,10,9,Adım adım öğretiyordu,,672
+6,7,8,6,6,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,673
+10,9,8,9,9,Kod kalitesi iyiydi,Daha fazla örnek olabilir,674
+6,7,6,7,7,Açıklamalar çok netti,Daha fazla örnek olabilir,675
+10,9,9,9,9,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,676
+9,7,7,9,7,Adım adım öğretiyordu,,677
+8,6,7,8,8,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,678
+10,10,10,10,9,Kod kalitesi iyiydi,Daha fazla örnek olabilir,679
+8,10,9,9,10,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,680
+9,8,7,8,7,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,681
+9,9,10,9,10,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,682
+10,9,8,8,8,Açıklamalar çok netti,Daha detaylı güvenlik analizi,683
+8,10,8,8,9,Örnekler gerçekçiydi,Daha fazla örnek olabilir,684
+7,8,7,8,8,Örnekler gerçekçiydi,,685
+6,6,9,8,7,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,686
+6,7,9,7,6,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,687
+9,10,8,9,9,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,688
+8,8,9,8,6,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,689
+8,9,8,9,10,Güvenlik konusunda bilinçliydi,,690
+7,8,9,7,7,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,691
+7,6,8,6,6,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,692
+9,7,7,8,8,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,693
+6,6,9,8,8,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,694
+8,8,9,9,10,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,695
+9,8,8,9,7,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,696
+8,7,9,9,9,Adım adım öğretiyordu,Görsel diyagramlar olabilir,697
+7,8,7,6,6,Açıklamalar çok netti,Görsel diyagramlar olabilir,698
+9,7,7,7,7,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,699
+7,8,9,7,8,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,700
+8,7,9,8,7,Örnekler gerçekçiydi,Daha fazla örnek olabilir,701
+6,8,8,8,8,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,702
+9,10,10,8,9,Örnekler gerçekçiydi,,703
+8,8,9,10,8,Açıklamalar çok netti,Daha detaylı güvenlik analizi,704
+8,8,10,8,10,Adım adım öğretiyordu,,705
+7,8,9,7,9,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,706
+10,8,9,10,9,Açıklamalar çok netti,,707
+8,8,9,9,10,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,708
+6,8,6,7,7,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,709
+8,10,9,8,8,Açıklamalar çok netti,Daha fazla örnek olabilir,710
+8,9,7,8,7,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,711
+8,9,8,9,8,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,712
+9,7,9,8,9,Açıklamalar çok netti,,713
+8,7,9,8,9,Açıklamalar çok netti,Görsel diyagramlar olabilir,714
+6,7,7,8,8,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,715
+7,8,9,8,7,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,716
+10,9,8,10,8,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,717
+7,8,8,8,8,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,718
+8,9,9,10,10,Açıklamalar çok netti,,719
+6,6,6,6,8,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,720
+7,9,7,7,8,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,721
+9,9,9,9,9,Açıklamalar çok netti,,722
+9,10,10,10,10,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,723
+9,9,10,10,10,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,724
+9,10,9,10,10,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,725
+10,8,10,8,10,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,726
+6,6,8,8,7,Örnekler gerçekçiydi,Daha fazla örnek olabilir,727
+7,9,8,9,7,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,728
+7,7,6,8,6,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,729
+7,8,8,9,8,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,730
+7,8,7,6,6,Adım adım öğretiyordu,Daha fazla örnek olabilir,731
+7,7,6,8,6,Güvenlik konusunda bilinçliydi,,732
+8,9,8,8,8,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,733
+9,8,7,7,7,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,734
+8,8,7,9,7,Açıklamalar çok netti,Görsel diyagramlar olabilir,735
+7,7,6,8,6,Örnekler gerçekçiydi,Daha fazla örnek olabilir,736
+9,8,10,9,10,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,737
+9,9,10,8,10,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,738
+10,9,10,10,10,Örnekler gerçekçiydi,,739
+9,8,10,8,10,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,740
+8,8,10,10,8,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,741
+7,9,9,7,8,Örnekler gerçekçiydi,Daha fazla örnek olabilir,742
+10,9,10,10,8,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,743
+7,7,9,9,7,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,744
+7,7,8,9,9,Açıklamalar çok netti,Daha fazla örnek olabilir,745
+9,8,8,8,8,Açıklamalar çok netti,,746
+8,8,10,10,9,Adım adım öğretiyordu,Daha fazla örnek olabilir,747
+7,8,6,6,8,Güvenlik konusunda bilinçliydi,,748
+10,8,10,8,10,Örnekler gerçekçiydi,Daha fazla örnek olabilir,749
+8,6,7,8,8,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,750
+9,10,9,10,9,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,751
+9,10,9,10,9,Kod kalitesi iyiydi,Daha fazla örnek olabilir,752
+8,8,7,8,8,Açıklamalar çok netti,,753
+8,8,7,7,9,Kod kalitesi iyiydi,Daha fazla örnek olabilir,754
+10,9,10,10,10,Açıklamalar çok netti,Daha fazla örnek olabilir,755
+9,9,8,8,10,Açıklamalar çok netti,Daha detaylı güvenlik analizi,756
+7,6,8,6,6,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,757
+6,8,8,6,8,Açıklamalar çok netti,,758
+8,8,7,8,7,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,759
+9,7,8,8,8,Açıklamalar çok netti,Daha detaylı güvenlik analizi,760
+7,8,6,6,7,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,761
+7,8,6,7,8,Güvenlik konusunda bilinçliydi,,762
+7,8,10,7,7,Açıklamalar çok netti,Daha fazla örnek olabilir,763
+9,8,7,8,8,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,764
+8,7,10,7,8,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,765
+7,7,9,7,8,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,766
+9,9,8,8,10,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,767
+8,8,9,9,8,Açıklamalar çok netti,,768
+9,9,8,9,9,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,769
+8,8,9,10,9,Adım adım öğretiyordu,Daha fazla örnek olabilir,770
+9,9,9,10,8,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,771
+8,10,8,9,10,Örnekler gerçekçiydi,Daha fazla örnek olabilir,772
+8,8,9,10,9,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,773
+8,10,9,9,9,Açıklamalar çok netti,,774
+7,9,7,9,8,Güvenlik konusunda bilinçliydi,,775
+7,9,10,7,7,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,776
+9,9,7,8,7,Örnekler gerçekçiydi,,777
+10,8,8,10,8,Açıklamalar çok netti,Daha fazla örnek olabilir,778
+7,9,9,8,8,Örnekler gerçekçiydi,Daha fazla örnek olabilir,779
+9,9,9,9,7,Adım adım öğretiyordu,,780
+10,10,10,10,9,Açıklamalar çok netti,Daha detaylı güvenlik analizi,781
+10,10,10,9,10,Açıklamalar çok netti,Daha fazla örnek olabilir,782
+9,10,10,8,8,Örnekler gerçekçiydi,Daha fazla örnek olabilir,783
+9,10,9,10,10,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,784
+8,10,9,9,9,Adım adım öğretiyordu,,785
+9,9,9,8,8,Açıklamalar çok netti,Daha detaylı güvenlik analizi,786
+7,8,9,7,6,Açıklamalar çok netti,Daha fazla örnek olabilir,787
+8,7,10,9,8,Adım adım öğretiyordu,Görsel diyagramlar olabilir,788
+8,7,7,7,9,Adım adım öğretiyordu,Görsel diyagramlar olabilir,789
+6,7,8,6,8,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,790
+9,8,7,9,9,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,791
+7,8,7,7,9,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,792
+10,8,8,8,10,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,793
+8,8,9,7,9,Açıklamalar çok netti,,794
+6,7,9,6,6,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,795
+8,8,8,9,7,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,796
+10,10,8,10,10,Açıklamalar çok netti,Görsel diyagramlar olabilir,797
+7,7,10,7,7,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,798
+7,9,7,7,7,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,799
+9,10,9,10,10,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,800
+9,9,9,9,9,Adım adım öğretiyordu,,801
+9,9,8,8,8,Açıklamalar çok netti,Görsel diyagramlar olabilir,802
+10,10,9,10,10,Örnekler gerçekçiydi,,803
+9,7,7,8,7,Adım adım öğretiyordu,Daha fazla örnek olabilir,804
+10,8,8,9,9,Adım adım öğretiyordu,,805
+10,9,8,10,8,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,806
+8,7,9,7,8,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,807
+9,8,8,8,8,Adım adım öğretiyordu,Daha fazla örnek olabilir,808
+7,8,7,7,8,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,809
+7,9,7,9,8,Güvenlik konusunda bilinçliydi,,810
+10,9,8,10,9,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,811
+10,10,10,10,9,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,812
+10,9,9,8,9,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,813
+8,9,9,8,9,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,814
+9,10,9,10,9,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,815
+9,10,8,10,9,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,816
+7,8,8,8,7,Örnekler gerçekçiydi,,817
+9,8,8,10,10,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,818
+10,9,9,9,9,Açıklamalar çok netti,Görsel diyagramlar olabilir,819
+7,8,9,9,9,Güvenlik konusunda bilinçliydi,,820
+10,10,8,8,9,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,821
+10,9,8,8,10,Örnekler gerçekçiydi,Daha fazla örnek olabilir,822
+8,8,8,8,7,Adım adım öğretiyordu,,823
+10,8,8,9,9,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,824
+10,9,9,10,9,Kod kalitesi iyiydi,,825
+8,9,9,9,8,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,826
+10,9,9,10,9,Adım adım öğretiyordu,,827
+9,10,9,10,9,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,828
+10,10,8,9,10,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,829
+8,8,9,9,8,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,830
+7,8,8,8,9,Örnekler gerçekçiydi,,831
+9,9,8,8,10,Açıklamalar çok netti,Daha fazla örnek olabilir,832
+8,6,9,6,6,Açıklamalar çok netti,Görsel diyagramlar olabilir,833
+8,7,10,8,9,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,834
+8,10,10,9,10,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,835
+9,9,10,8,8,Açıklamalar çok netti,Görsel diyagramlar olabilir,836
+10,10,8,9,9,Kod kalitesi iyiydi,,837
+10,8,10,9,10,Güvenlik konusunda bilinçliydi,,838
+7,8,7,7,9,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,839
+7,9,9,7,9,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,840
+9,8,9,7,8,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,841
+7,9,8,8,9,Örnekler gerçekçiydi,,842
+8,8,9,8,8,Açıklamalar çok netti,Daha fazla örnek olabilir,843
+6,8,7,6,8,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,844
+8,8,7,9,9,Açıklamalar çok netti,Daha fazla örnek olabilir,845
+8,6,8,7,8,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,846
+8,8,9,9,8,Kod kalitesi iyiydi,,847
+8,9,7,8,9,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,848
+8,8,8,9,9,Örnekler gerçekçiydi,,849
+8,8,10,9,9,Açıklamalar çok netti,Daha fazla örnek olabilir,850
+6,7,9,6,6,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,851
+10,9,8,8,8,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,852
+10,9,10,10,10,Örnekler gerçekçiydi,Daha fazla örnek olabilir,853
+10,10,8,9,9,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,854
+9,8,8,8,9,Örnekler gerçekçiydi,,855
+8,8,8,9,9,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,856
+9,7,8,9,9,Açıklamalar çok netti,Görsel diyagramlar olabilir,857
+9,10,10,10,9,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,858
+7,7,7,9,7,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,859
+7,8,7,7,8,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,860
+6,7,8,8,6,Adım adım öğretiyordu,Daha detaylı güvenlik analizi,861
+9,9,10,10,9,Açıklamalar çok netti,Görsel diyagramlar olabilir,862
+8,7,8,7,7,Adım adım öğretiyordu,Gas optimizasyonu eklenebilir,863
+7,8,8,7,6,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,864
+7,8,9,9,8,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,865
+8,7,7,8,8,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,866
+10,10,10,10,9,Güvenlik konusunda bilinçliydi,,867
+8,7,7,7,7,Adım adım öğretiyordu,Daha fazla örnek olabilir,868
+8,8,6,6,8,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,869
+9,9,9,8,9,Kod kalitesi iyiydi,,870
+10,9,9,10,8,Örnekler gerçekçiydi,Gas optimizasyonu eklenebilir,871
+9,8,10,9,9,Örnekler gerçekçiydi,Daha detaylı güvenlik analizi,872
+8,8,8,10,8,Kod kalitesi iyiydi,,873
+8,8,8,10,10,Örnekler gerçekçiydi,Görsel diyagramlar olabilir,874
+7,9,7,7,7,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,875
+8,7,9,9,7,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,876
+8,8,9,9,10,Örnekler gerçekçiydi,Daha fazla örnek olabilir,877
+9,9,10,8,9,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,878
+9,7,7,9,9,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,879
+8,7,8,7,7,Adım adım öğretiyordu,,880
+8,10,8,10,9,Kod kalitesi iyiydi,Daha detaylı güvenlik analizi,881
+9,8,10,8,7,Açıklamalar çok netti,,882
+8,9,7,8,9,Adım adım öğretiyordu,Görsel diyagramlar olabilir,883
+6,8,8,8,8,Örnekler gerçekçiydi,Daha fazla örnek olabilir,884
+7,8,8,7,6,Açıklamalar çok netti,Gas optimizasyonu eklenebilir,885
+7,8,9,6,6,Açıklamalar çok netti,Görsel diyagramlar olabilir,886
+9,10,8,10,8,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,887
+10,10,8,10,10,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,888
+8,8,9,8,9,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,889
+7,8,8,7,9,Açıklamalar çok netti,Daha detaylı güvenlik analizi,890
+7,8,7,6,7,Güvenlik konusunda bilinçliydi,Daha fazla örnek olabilir,891
+9,7,9,7,9,Güvenlik konusunda bilinçliydi,Gas optimizasyonu eklenebilir,892
+9,9,8,9,8,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,893
+6,6,7,8,8,Açıklamalar çok netti,Görsel diyagramlar olabilir,894
+10,9,8,10,8,Kod kalitesi iyiydi,Görsel diyagramlar olabilir,895
+8,10,9,8,10,Açıklamalar çok netti,Görsel diyagramlar olabilir,896
+9,9,10,8,7,Açıklamalar çok netti,Görsel diyagramlar olabilir,897
+9,9,8,8,7,Güvenlik konusunda bilinçliydi,Daha detaylı güvenlik analizi,898
+9,8,9,9,9,Güvenlik konusunda bilinçliydi,Görsel diyagramlar olabilir,899
+7,7,9,8,8,Kod kalitesi iyiydi,Gas optimizasyonu eklenebilir,900

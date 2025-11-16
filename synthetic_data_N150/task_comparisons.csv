@@ -1,0 +1,901 @@
+used_ai_type,other_ai_type,suitability_choice,reason,difficulty_rating,has_comparison,session_id
+Complementary,Similar,,,Zor,False,1
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,2
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,3
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,4
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,5
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,6
+Similar,Complementary,,,Orta,False,7
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,8
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,9
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,10
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,11
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,12
+Similar,Complementary,,,Orta,False,13
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,14
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,15
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,16
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,17
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,18
+Similar,Complementary,,,Zor,False,19
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,20
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,21
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,22
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,23
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,24
+Similar,Complementary,,,Kolay,False,25
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,26
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,27
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,28
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,29
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,30
+Similar,Complementary,,,Zor,False,31
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,32
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,33
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,34
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,35
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,36
+Complementary,Similar,,,Zor,False,37
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,38
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,39
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Zor,True,40
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,41
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,42
+Complementary,Similar,,,Zor,False,43
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,44
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,45
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,46
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,47
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,48
+Similar,Complementary,,,Orta,False,49
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Zor,True,50
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Zor,True,51
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,52
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,53
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,54
+Similar,Complementary,,,Zor,False,55
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,56
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,57
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,58
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,59
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,60
+Similar,Complementary,,,Zor,False,61
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,62
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,63
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,64
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,65
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,66
+Complementary,Similar,,,Zor,False,67
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,68
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,69
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,70
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,71
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,72
+Complementary,Similar,,,Kolay,False,73
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,74
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,75
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,76
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,77
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,78
+Similar,Complementary,,,Orta,False,79
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,80
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,81
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,82
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,83
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,84
+Complementary,Similar,,,Kolay,False,85
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,86
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,87
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,88
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,89
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,90
+Complementary,Similar,,,Kolay,False,91
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,92
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,93
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,94
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,95
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,96
+Complementary,Similar,,,Zor,False,97
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,98
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,99
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,100
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,101
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,102
+Similar,Complementary,,,Zor,False,103
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,104
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,105
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,106
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,107
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,108
+Similar,Complementary,,,Orta,False,109
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,110
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,111
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,112
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,113
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,114
+Similar,Complementary,,,Kolay,False,115
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,116
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,117
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,118
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,119
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,120
+Similar,Complementary,,,Zor,False,121
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,122
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,123
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,124
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,125
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Zor,True,126
+Complementary,Similar,,,Zor,False,127
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,128
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,129
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,130
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,131
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,132
+Similar,Complementary,,,Zor,False,133
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,134
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,135
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,136
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,137
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,138
+Complementary,Similar,,,Kolay,False,139
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,140
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,141
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,142
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Zor,True,143
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,144
+Complementary,Similar,,,Orta,False,145
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,146
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,147
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,148
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,149
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,150
+Complementary,Similar,,,Zor,False,151
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,152
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,153
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,154
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,155
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,156
+Complementary,Similar,,,Zor,False,157
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,158
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,159
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,160
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,161
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,162
+Similar,Complementary,,,Zor,False,163
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,164
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,165
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,166
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,167
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,168
+Similar,Complementary,,,Zor,False,169
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,170
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,171
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,172
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,173
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,174
+Similar,Complementary,,,Orta,False,175
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,176
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,177
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,178
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Zor,True,179
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,180
+Complementary,Similar,,,Kolay,False,181
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,182
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,183
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,184
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,185
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,186
+Similar,Complementary,,,Orta,False,187
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,188
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,189
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,190
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,191
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,192
+Similar,Complementary,,,Zor,False,193
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Zor,True,194
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,195
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,196
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,197
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,198
+Complementary,Similar,,,Kolay,False,199
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,200
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,201
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,202
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,203
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,204
+Similar,Complementary,,,Orta,False,205
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,206
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,207
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,208
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,209
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,210
+Complementary,Similar,,,Zor,False,211
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,212
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,213
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,214
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,215
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,216
+Complementary,Similar,,,Zor,False,217
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,218
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,219
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,220
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,221
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,222
+Complementary,Similar,,,Orta,False,223
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,224
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,225
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,226
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,227
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,228
+Similar,Complementary,,,Orta,False,229
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,230
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,231
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,232
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,233
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,234
+Complementary,Similar,,,Kolay,False,235
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,236
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,237
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,238
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,239
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,240
+Complementary,Similar,,,Zor,False,241
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,242
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,243
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Zor,True,244
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,245
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,246
+Similar,Complementary,,,Kolay,False,247
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,248
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,249
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,250
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,251
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,252
+Similar,Complementary,,,Kolay,False,253
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,254
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,255
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,256
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,257
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,258
+Similar,Complementary,,,Orta,False,259
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Zor,True,260
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,261
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,262
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,263
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,264
+Complementary,Similar,,,Orta,False,265
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,266
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,267
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,268
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,269
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,270
+Complementary,Similar,,,Orta,False,271
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,272
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,273
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,274
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,275
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,276
+Similar,Complementary,,,Kolay,False,277
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,278
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,279
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,280
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,281
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,282
+Similar,Complementary,,,Zor,False,283
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,284
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,285
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,286
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,287
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,288
+Similar,Complementary,,,Kolay,False,289
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,290
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,291
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,292
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,293
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,294
+Similar,Complementary,,,Zor,False,295
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,296
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Zor,True,297
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,298
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,299
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,300
+Similar,Complementary,,,Zor,False,301
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,302
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,303
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,304
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,305
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,306
+Similar,Complementary,,,Zor,False,307
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,308
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,309
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,310
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,311
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,312
+Complementary,Similar,,,Kolay,False,313
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,314
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,315
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,316
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,317
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,318
+Complementary,Similar,,,Orta,False,319
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,320
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,321
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,322
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,323
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,324
+Complementary,Similar,,,Zor,False,325
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,326
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,327
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,328
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,329
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,330
+Similar,Complementary,,,Orta,False,331
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,332
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,333
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,334
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,335
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,336
+Similar,Complementary,,,Orta,False,337
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,338
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,339
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,340
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,341
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,342
+Complementary,Similar,,,Orta,False,343
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,344
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,345
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,346
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,347
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,348
+Similar,Complementary,,,Zor,False,349
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,350
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,351
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,352
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,353
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,354
+Similar,Complementary,,,Orta,False,355
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,356
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,357
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,358
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,359
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,360
+Complementary,Similar,,,Zor,False,361
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,362
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,363
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,364
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,365
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,366
+Similar,Complementary,,,Zor,False,367
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,368
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Zor,True,369
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,370
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,371
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,372
+Complementary,Similar,,,Zor,False,373
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,374
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Zor,True,375
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,376
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,377
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,378
+Similar,Complementary,,,Orta,False,379
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,380
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,381
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Zor,True,382
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,383
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,384
+Complementary,Similar,,,Zor,False,385
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,386
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,387
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,388
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,389
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,390
+Similar,Complementary,,,Zor,False,391
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,392
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,393
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,394
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,395
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,396
+Complementary,Similar,,,Kolay,False,397
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,398
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,399
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,400
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,401
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,402
+Similar,Complementary,,,Orta,False,403
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,404
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,405
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,406
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,407
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,408
+Complementary,Similar,,,Kolay,False,409
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,410
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,411
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,412
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,413
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Zor,True,414
+Similar,Complementary,,,Orta,False,415
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,416
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,417
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,418
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,419
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,420
+Similar,Complementary,,,Orta,False,421
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,422
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Zor,True,423
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,424
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,425
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,426
+Similar,Complementary,,,Kolay,False,427
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,428
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,429
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,430
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,431
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,432
+Similar,Complementary,,,Kolay,False,433
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,434
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,435
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,436
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,437
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,438
+Complementary,Similar,,,Orta,False,439
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Zor,True,440
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,441
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,442
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,443
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,444
+Complementary,Similar,,,Orta,False,445
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,446
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,447
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,448
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,449
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,450
+Similar,Complementary,,,Zor,False,451
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,452
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,453
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Zor,True,454
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,455
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,456
+Complementary,Similar,,,Kolay,False,457
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,458
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,459
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,460
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,461
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,462
+Complementary,Similar,,,Kolay,False,463
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,464
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,465
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,466
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,467
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,468
+Complementary,Similar,,,Zor,False,469
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,470
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,471
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,472
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,473
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,474
+Complementary,Similar,,,Kolay,False,475
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,476
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,477
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,478
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,479
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,480
+Similar,Complementary,,,Kolay,False,481
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,482
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,483
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,484
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,485
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,486
+Similar,Complementary,,,Kolay,False,487
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,488
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,489
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,490
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,491
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,492
+Complementary,Similar,,,Zor,False,493
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,494
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,495
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,496
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,497
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,498
+Similar,Complementary,,,Kolay,False,499
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,500
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,501
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,502
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,503
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,504
+Complementary,Similar,,,Orta,False,505
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,506
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,507
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,508
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,509
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,510
+Complementary,Similar,,,Zor,False,511
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,512
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,513
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,514
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,515
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,516
+Similar,Complementary,,,Kolay,False,517
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,518
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,519
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,520
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,521
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,522
+Similar,Complementary,,,Orta,False,523
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,524
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,525
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,526
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Zor,True,527
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,528
+Similar,Complementary,,,Orta,False,529
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,530
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,531
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,532
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Zor,True,533
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,534
+Similar,Complementary,,,Zor,False,535
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,536
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,537
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,538
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,539
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,540
+Similar,Complementary,,,Kolay,False,541
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,542
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,543
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,544
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,545
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,546
+Complementary,Similar,,,Orta,False,547
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,548
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,549
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,550
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,551
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,552
+Complementary,Similar,,,Orta,False,553
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,554
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,555
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,556
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,557
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,558
+Similar,Complementary,,,Zor,False,559
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,560
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,561
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,562
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,563
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,564
+Complementary,Similar,,,Zor,False,565
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,566
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Zor,True,567
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,568
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,569
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,570
+Complementary,Similar,,,Orta,False,571
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,572
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,573
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,574
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,575
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,576
+Complementary,Similar,,,Zor,False,577
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,578
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,579
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,580
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,581
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,582
+Complementary,Similar,,,Kolay,False,583
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,584
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,585
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,586
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,587
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,588
+Complementary,Similar,,,Kolay,False,589
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Zor,True,590
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,591
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,592
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,593
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,594
+Similar,Complementary,,,Kolay,False,595
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,596
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,597
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,598
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,599
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,600
+Complementary,Similar,,,Zor,False,601
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,602
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,603
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,604
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,605
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,606
+Complementary,Similar,,,Kolay,False,607
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,608
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,609
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,610
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,611
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Zor,True,612
+Complementary,Similar,,,Zor,False,613
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,614
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,615
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,616
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,617
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,618
+Complementary,Similar,,,Zor,False,619
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,620
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,621
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Zor,True,622
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,623
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,624
+Similar,Complementary,,,Orta,False,625
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,626
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,627
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,628
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,629
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,630
+Similar,Complementary,,,Kolay,False,631
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,632
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,633
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,634
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,635
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,636
+Similar,Complementary,,,Orta,False,637
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,638
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,639
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,640
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,641
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,642
+Similar,Complementary,,,Zor,False,643
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,644
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,645
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,646
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,647
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,648
+Complementary,Similar,,,Orta,False,649
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,650
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,651
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,652
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,653
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,654
+Similar,Complementary,,,Orta,False,655
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,656
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,657
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,658
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Zor,True,659
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,660
+Complementary,Similar,,,Kolay,False,661
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,662
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,663
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,664
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,665
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,666
+Complementary,Similar,,,Zor,False,667
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,668
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,669
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,670
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,671
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,672
+Complementary,Similar,,,Zor,False,673
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,674
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,675
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,676
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,677
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,678
+Similar,Complementary,,,Kolay,False,679
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,680
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,681
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,682
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,683
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,684
+Similar,Complementary,,,Orta,False,685
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Zor,True,686
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,687
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,688
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,689
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,690
+Complementary,Similar,,,Kolay,False,691
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,692
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,693
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,694
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,695
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,696
+Similar,Complementary,,,Orta,False,697
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Zor,True,698
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,699
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,700
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,701
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,702
+Similar,Complementary,,,Kolay,False,703
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,704
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,705
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,706
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,707
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,708
+Complementary,Similar,,,Orta,False,709
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,710
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,711
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,712
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,713
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,714
+Complementary,Similar,,,Orta,False,715
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,716
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,717
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Zor,True,718
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Zor,True,719
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,720
+Complementary,Similar,,,Kolay,False,721
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,722
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,723
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,724
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,725
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,726
+Complementary,Similar,,,Orta,False,727
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,728
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,729
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,730
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,731
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,732
+Similar,Complementary,,,Kolay,False,733
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,734
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,735
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,736
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,737
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,738
+Similar,Complementary,,,Orta,False,739
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,740
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,741
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,742
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,743
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,744
+Complementary,Similar,,,Orta,False,745
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,746
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,747
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,748
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,749
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,750
+Similar,Complementary,,,Zor,False,751
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,752
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,753
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,754
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,755
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,756
+Complementary,Similar,,,Zor,False,757
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,758
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,759
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,760
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,761
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,762
+Complementary,Similar,,,Zor,False,763
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,764
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,765
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,766
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Zor,True,767
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,768
+Complementary,Similar,,,Orta,False,769
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Zor,True,770
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,771
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,772
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,773
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,774
+Similar,Complementary,,,Zor,False,775
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,776
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,777
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,778
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,779
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,780
+Similar,Complementary,,,Zor,False,781
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,782
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,783
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,784
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,785
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,786
+Complementary,Similar,,,Zor,False,787
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Zor,True,788
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,789
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,790
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,791
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Zor,True,792
+Similar,Complementary,,,Orta,False,793
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,794
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,795
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,796
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,797
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,798
+Complementary,Similar,,,Kolay,False,799
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,800
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,801
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,802
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,803
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,804
+Similar,Complementary,,,Zor,False,805
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,806
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,807
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,808
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,809
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,810
+Complementary,Similar,,,Orta,False,811
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,812
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,813
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,814
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,815
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,816
+Complementary,Similar,,,Orta,False,817
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,818
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,819
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,820
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,821
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,822
+Complementary,Similar,,,Zor,False,823
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,824
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,825
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,826
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,827
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,828
+Similar,Complementary,,,Orta,False,829
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,830
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,831
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,832
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,833
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,834
+Similar,Complementary,,,Orta,False,835
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,836
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,837
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,838
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,839
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,840
+Similar,Complementary,,,Zor,False,841
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,842
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,843
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,844
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,845
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,846
+Complementary,Similar,,,Orta,False,847
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,848
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,849
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,850
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,851
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,852
+Similar,Complementary,,,Orta,False,853
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,854
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Çok Kolay,True,855
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,856
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,857
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,858
+Similar,Complementary,,,Orta,False,859
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,860
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,861
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,862
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,863
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,864
+Similar,Complementary,,,Zor,False,865
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,866
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,867
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Orta,True,868
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,869
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,870
+Similar,Complementary,,,Zor,False,871
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,872
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,873
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Orta,True,874
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,875
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,876
+Similar,Complementary,,,Zor,False,877
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Çok Zor,True,878
+Similar,Complementary,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,879
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Zor,True,880
+Similar,Complementary,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Zor,True,881
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Zor,True,882
+Similar,Complementary,,,Kolay,False,883
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,884
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,885
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,886
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,887
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Zor,True,888
+Similar,Complementary,,,Orta,False,889
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Kolay,True,890
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,891
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Kolay,True,892
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,893
+Complementary,Similar,Complementary,"Daha çok öğrendim, zorlayıcıydı ama faydalı",Çok Kolay,True,894
+Similar,Complementary,,,Zor,False,895
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Orta,True,896
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,897
+Similar,Complementary,Similar,"Rahat hissettim, seviyeme uygundu",Çok Zor,True,898
+Complementary,Similar,Similar,"Rahat hissettim, seviyeme uygundu",Kolay,True,899
+Complementary,Similar,İkisi de uygun,Her ikisinin de avantajları vardı,Kolay,True,900
